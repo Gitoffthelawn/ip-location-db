@@ -14236,7 +14236,7 @@
 2001:df6:9480::,2001:df6:9480:ffff:ffff:ffff:ffff:ffff,142122,Netzone Computers
 2001:df6:9500::,2001:df6:9500:ffff:ffff:ffff:ffff:ffff,137671,"ITE&C DEPARTMENT, GOVERNMENT OF A.P."
 2001:df6:9580::,2001:df6:9580:ffff:ffff:ffff:ffff:ffff,14618,"Amazon.com, Inc."
-2001:df6:9640::,2001:df6:9640:ffff:ffff:ffff:ffff:ffff,142213,AS142213
+2001:df6:9640::,2001:df6:9640:ffff:ffff:ffff:ffff:ffff,150605,Shravi Communication Pvt Ltd
 2001:df6:9680::,2001:df6:9680:ffff:ffff:ffff:ffff:ffff,142131,AEON Thana Sinsap (Thailand) Public Company Limited
 2001:df6:96c0::,2001:df6:96c0:ffff:ffff:ffff:ffff:ffff,142210,GH NETWORK AND CYBER CAFE
 2001:df6:9800::,2001:df6:9800:ffff:ffff:ffff:ffff:ffff,132852,Vault Systems Pty. Ltd.
@@ -21693,6 +21693,8 @@
 2401:e160::,2401:e160:ffff:ffff:ffff:ffff:ffff:ffff,133446,AS133446
 2401:e180::,2401:e180:ffff:ffff:ffff:ffff:ffff:ffff,9674,"Far EastTone Telecommunication Co., Ltd."
 2401:e1e0::,2401:e1e0:ffff:ffff:ffff:ffff:ffff:ffff,142413,AS142413
+2401:e220::,2401:e220:fcff:ffff:ffff:ffff:ffff:ffff,153259,Edgerede Private Limited
+2401:e220:fe00::,2401:e220:ffff:ffff:ffff:ffff:ffff:ffff,153259,Edgerede Private Limited
 2401:e260::,2401:e260:1ff:ffff:ffff:ffff:ffff:ffff,133458,"FPT Smart Cloud Japan Co., Ltd"
 2401:e280::,2401:e280:ffff:ffff:ffff:ffff:ffff:ffff,133114,ControlVM Sdn Bhd
 2401:e2a0::,2401:e2a0:ffff:ffff:ffff:ffff:ffff:ffff,135609,Robert Bosch (Australia) Proprietary Limited
@@ -37416,6 +37418,7 @@
 2604:3400:abcd::,2604:3400:ac00:ffff:ffff:ffff:ffff:ffff,29169,GANDI SAS
 2604:3400:ac01::,2604:3400:ac01:ffff:ffff:ffff:ffff:ffff,209453,GANDI SAS
 2604:3400:ac02::,2604:3400:ffff:ffff:ffff:ffff:ffff:ffff,29169,GANDI SAS
+2604:3440:1000::,2604:3440:1000:ffff:ffff:ffff:ffff:ffff,36086,Telx
 2604:34c0::,2604:34c0:ffff:ffff:ffff:ffff:ffff:ffff,25780,"HugeServer Networks, LLC"
 2604:3500::,2604:3500:ffff:ffff:ffff:ffff:ffff:ffff,11110,SERVERCLOUD
 2604:3540::,2604:354f:ffff:ffff:ffff:ffff:ffff:ffff,7029,Windstream Communications LLC
@@ -37967,7 +37970,7 @@
 2604:b1c0::,2604:b1c0:ffff:ffff:ffff:ffff:ffff:ffff,47054,"JetWire, INC"
 2604:b200::,2604:b200:ffff:ffff:ffff:ffff:ffff:ffff,198949,Radware Ltd
 2604:b240::,2604:b240:ffff:ffff:ffff:ffff:ffff:ffff,11357,"InfoQuest Technologies, Inc."
-2604:b2c0::,2604:b2c0:ff:ffff:ffff:ffff:ffff:ffff,400175,"Microtronix ESolutions, LLC"
+2604:b2c0::,2604:b2c0:ff:ffff:ffff:ffff:ffff:ffff,402162,AS402162
 2604:b300::,2604:b300:ffff:ffff:ffff:ffff:ffff:ffff,53730,AS53730
 2604:b340::,2604:b340:ffff:ffff:ffff:ffff:ffff:ffff,394233,Cloudwifi
 2604:b3c0::,2604:b3c0:ff:ffff:ffff:ffff:ffff:ffff,53989,"Swayzee Telephone Company, Inc."
@@ -67959,7 +67962,7 @@
 2a02:2fc0:1e::,2a02:2fc0:1e:ffff:ffff:ffff:ffff:ffff,215110,Jan Hill
 2a02:2fc0:1f::,2a02:2fc0:1f:ffff:ffff:ffff:ffff:ffff,12586,GHOSTnet GmbH
 2a02:2fc0:20::,2a02:2fc0:20:ffff:ffff:ffff:ffff:ffff,211780,Cavansir Ramazanov
-2a02:2fc0:21::,2a02:2fc0:21:ffff:ffff:ffff:ffff:ffff,215760,Adam Grazioli
+2a02:2fc0:21::,2a02:2fc0:21:ffff:ffff:ffff:ffff:ffff,201687,AS201687
 2a02:2fc0:22::,2a02:2fc1::ffff:ffff:ffff:ffff:ffff,12586,GHOSTnet GmbH
 2a02:2fc1:1::,2a02:2fc1:1:ffff:ffff:ffff:ffff:ffff,60461,intercolo GmbH
 2a02:2fc1:2::,2a02:2fc7:ffff:ffff:ffff:ffff:ffff:ffff,12586,GHOSTnet GmbH
@@ -75801,7 +75804,8 @@
 2a06:9801:b::,2a06:9801:b:ffff:ffff:ffff:ffff:ffff,201538,AS201538
 2a06:9801:c::,2a06:9801:c:ffff:ffff:ffff:ffff:ffff,201487,AS201487
 2a06:9801:d::,2a06:9801:d:ffff:ffff:ffff:ffff:ffff,201398,AS201398
-2a06:9801:e::,2a06:9801:10:ffff:ffff:ffff:ffff:ffff,209735,Lagrange Cloud Technologies Limited
+2a06:9801:e::,2a06:9801:e:ffff:ffff:ffff:ffff:ffff,201075,AS201075
+2a06:9801:f::,2a06:9801:10:ffff:ffff:ffff:ffff:ffff,209735,Lagrange Cloud Technologies Limited
 2a06:9801:11::,2a06:9801:11:ffff:ffff:ffff:ffff:ffff,201423,AS201423
 2a06:9801:12::,2a06:9801:15:ffff:ffff:ffff:ffff:ffff,209735,Lagrange Cloud Technologies Limited
 2a06:9801:16::,2a06:9801:16:ffff:ffff:ffff:ffff:ffff,201666,AS201666
@@ -76121,7 +76125,9 @@
 2a06:a005:2200::,2a06:a005:220f:ffff:ffff:ffff:ffff:ffff,7480,STEVEYI-NETWORK
 2a06:a005:2280::,2a06:a005:228f:ffff:ffff:ffff:ffff:ffff,51312,7 CIRCLES LLC
 2a06:a005:2300::,2a06:a005:230f:ffff:ffff:ffff:ffff:ffff,60391,Papa-Razzi Media Group A.s.b.l.
-2a06:a005:2430::,2a06:a005:243f:ffff:ffff:ffff:ffff:ffff,212252,VIDAR TESSEM trading as VT KONSULENT TESSEM
+2a06:a005:2430::,2a06:a005:2430:ffff:ffff:ffff:ffff:ffff,212252,VIDAR TESSEM trading as VT KONSULENT TESSEM
+2a06:a005:243a::,2a06:a005:243a:ffff:ffff:ffff:ffff:ffff,212252,VIDAR TESSEM trading as VT KONSULENT TESSEM
+2a06:a005:243f::,2a06:a005:243f:ffff:ffff:ffff:ffff:ffff,212252,VIDAR TESSEM trading as VT KONSULENT TESSEM
 2a06:a005:24a0::,2a06:a005:24a4:ffff:ffff:ffff:ffff:ffff,200965,AS200965
 2a06:a005:24a5::,2a06:a005:24a5:ffff:ffff:ffff:ffff:ffff,152671,SPARCS
 2a06:a005:24a6::,2a06:a005:24af:ffff:ffff:ffff:ffff:ffff,200965,AS200965
@@ -82215,6 +82221,7 @@
 2a0b:4e07:1c00::,2a0b:4e07:1c02:ffff:ffff:ffff:ffff:ffff,151704,BHARAT DATACENTER
 2a0b:4e07:1c03::,2a0b:4e07:1c03:ffff:ffff:ffff:ffff:ffff,214485,HEROXHOST NETWORKS PRIVATE LIMITED
 2a0b:4e07:1c04::,2a0b:4e07:1fff:ffff:ffff:ffff:ffff:ffff,151704,BHARAT DATACENTER
+2a0b:4e07:2000::,2a0b:4e07:27ff:ffff:ffff:ffff:ffff:ffff,201398,AS201398
 2a0b:4e07:2c01::,2a0b:4e07:2c04:ffff:ffff:ffff:ffff:ffff,214223,Luis Jakob Bartel
 2a0b:4e07:2d01::,2a0b:4e07:2d04:ffff:ffff:ffff:ffff:ffff,214223,Luis Jakob Bartel
 2a0b:4e07:2e01::,2a0b:4e07:2e04:ffff:ffff:ffff:ffff:ffff,214223,Luis Jakob Bartel
@@ -83847,7 +83854,7 @@
 2a0c:9a40:8fe0::,2a0c:9a40:8fe0:ffff:ffff:ffff:ffff:ffff,207571,Remo Gloor
 2a0c:9a40:8fe1::,2a0c:9a40:90ff:ffff:ffff:ffff:ffff:ffff,34927,iFog GmbH
 2a0c:9a40:9100::,2a0c:9a40:91ff:ffff:ffff:ffff:ffff:ffff,203062,Alexandre Roux
-2a0c:9a40:9200::,2a0c:9a40:9204:ffff:ffff:ffff:ffff:ffff,151338,POLONETWORK LIMITED
+2a0c:9a40:9200::,2a0c:9a40:9205:ffff:ffff:ffff:ffff:ffff,151338,POLONETWORK LIMITED
 2a0c:9a40:9210::,2a0c:9a40:9212:ffff:ffff:ffff:ffff:ffff,151338,POLONETWORK LIMITED
 2a0c:9a40:9300::,2a0c:9a40:93ff:ffff:ffff:ffff:ffff:ffff,210445,CHEN-YI WANG
 2a0c:9a40:9400::,2a0c:9a40:94ff:ffff:ffff:ffff:ffff:ffff,215826,Partner Hosting LTD
@@ -86755,8 +86762,8 @@
 2a0e:8f02:21a0::,2a0e:8f02:21a5:ffff:ffff:ffff:ffff:ffff,208763,Alexander Becker trading as Bitflow Development
 2a0e:8f02:21c0::,2a0e:8f02:21cf:ffff:ffff:ffff:ffff:ffff,207618,AS207618
 2a0e:8f02:21d0::,2a0e:8f02:21df:ffff:ffff:ffff:ffff:ffff,203528,Fabrizzio Jose Petrucci
-2a0e:8f02:21f0::,2a0e:8f02:21f0:ffff:ffff:ffff:ffff:ffff,48752,AS48752
-2a0e:8f02:21f2::,2a0e:8f02:21ff:ffff:ffff:ffff:ffff:ffff,202197,AS202197
+2a0e:8f02:21f0::,2a0e:8f02:21f0:ffff:ffff:ffff:ffff:ffff,202197,AS202197
+2a0e:8f02:21f4::,2a0e:8f02:21f4:ffff:ffff:ffff:ffff:ffff,202197,AS202197
 2a0e:8f02:2200::,2a0e:8f02:220f:ffff:ffff:ffff:ffff:ffff,49192,Openfactory GmbH
 2a0e:8f02:2210::,2a0e:8f02:221f:ffff:ffff:ffff:ffff:ffff,203807,Wouter Goyen
 2a0e:8f02:2220::,2a0e:8f02:222f:ffff:ffff:ffff:ffff:ffff,206215,"KAERU Labs, S.L."
@@ -88640,6 +88647,7 @@
 2a0f:6280:1100::,2a0f:6280:ffff:ffff:ffff:ffff:ffff:ffff,61138,Zappie Host LLC
 2a0f:6281::,2a0f:6281:ffff:ffff:ffff:ffff:ffff:ffff,7029,Windstream Communications LLC
 2a0f:6282::,2a0f:6282:fff:ffff:ffff:ffff:ffff:ffff,201279,AS201279
+2a0f:6282:1000::,2a0f:6282:1fff:ffff:ffff:ffff:ffff:ffff,201269,AS201269
 2a0f:6282:4000::,2a0f:6282:7fff:ffff:ffff:ffff:ffff:ffff,201398,AS201398
 2a0f:6283::,2a0f:6283:fff:ffff:ffff:ffff:ffff:ffff,214016,Amarebox LLC
 2a0f:6283:1000::,2a0f:6283:10ff:ffff:ffff:ffff:ffff:ffff,214223,Luis Jakob Bartel
@@ -89433,6 +89441,7 @@
 2a0f:85c1:e2f::,2a0f:85c1:e2f:ffff:ffff:ffff:ffff:ffff,201815,AS201815
 2a0f:85c1:e37::,2a0f:85c1:e37:ffff:ffff:ffff:ffff:ffff,211008,Arturs Lihners
 2a0f:85c1:e3b::,2a0f:85c1:e3c:ffff:ffff:ffff:ffff:ffff,211008,Arturs Lihners
+2a0f:85c1:e41::,2a0f:85c1:e41:ffff:ffff:ffff:ffff:ffff,201061,AS201061
 2a0f:85c1:beef::,2a0f:85c1:beef:ffff:ffff:ffff:ffff:ffff,207781,Marcel Menzel
 2a0f:85c1:cafe::,2a0f:85c1:cafe:ffff:ffff:ffff:ffff:ffff,207781,Marcel Menzel
 2a0f:85c2::,2a0f:85c2:ff:ffff:ffff:ffff:ffff:ffff,207841,Inferno Communications Ltd
@@ -96109,7 +96118,9 @@
 2a13:7ec0::,2a13:7ec7:ffff:ffff:ffff:ffff:ffff:ffff,202154,Brevan Howard Asset Management LLP
 2a13:7fc0::,2a13:7fc0:100f:ffff:ffff:ffff:ffff:ffff,213216,LuxChan S.A R.L.-S
 2a13:7fc0:1010::,2a13:7fc0:1010:ffff:ffff:ffff:ffff:ffff,214587,Rulx Alexis
-2a13:7fc0:1011::,2a13:7fc0:101e:ffff:ffff:ffff:ffff:ffff,213216,LuxChan S.A R.L.-S
+2a13:7fc0:1011::,2a13:7fc0:1014:ffff:ffff:ffff:ffff:ffff,213216,LuxChan S.A R.L.-S
+2a13:7fc0:1015::,2a13:7fc0:1015:ffff:ffff:ffff:ffff:ffff,214587,Rulx Alexis
+2a13:7fc0:1016::,2a13:7fc0:101e:ffff:ffff:ffff:ffff:ffff,213216,LuxChan S.A R.L.-S
 2a13:7fc0:101f::,2a13:7fc0:101f:ffff:ffff:ffff:ffff:ffff,214587,Rulx Alexis
 2a13:7fc0:1020::,2a13:7fc0:ffff:ffff:ffff:ffff:ffff:ffff,213216,LuxChan S.A R.L.-S
 2a13:8080::,2a13:8080:ffff:ffff:ffff:ffff:ffff:ffff,199704,"Freemedia Internet, S.L."
@@ -96443,6 +96454,7 @@
 2a13:9500:134::,2a13:9500:134:ffff:ffff:ffff:ffff:ffff,1916,Rede Nacional de Ensino e Pesquisa
 2a13:9500:135::,2a13:9500:135:ffff:ffff:ffff:ffff:ffff,202076,57North Hacklab Ltd
 2a13:9500:136::,2a13:9500:136:ffff:ffff:ffff:ffff:ffff,201132,AS201132
+2a13:9500:137::,2a13:9500:137:ffff:ffff:ffff:ffff:ffff,9833,AS9833
 2a13:9540::,2a13:9547:ffff:ffff:ffff:ffff:ffff:ffff,204203,Atrin Information & Communications Technology Company PJS
 2a13:9580::,2a13:9587:ffff:ffff:ffff:ffff:ffff:ffff,7029,Windstream Communications LLC
 2a13:9600::,2a13:9607:ffff:ffff:ffff:ffff:ffff:ffff,44947,AMWAJ ALKHYR COMMERCIAL BROKERS CO.
@@ -97116,7 +97128,7 @@
 2a14:7c0:1000::,2a14:7c0:1002:ffff:ffff:ffff:ffff:ffff,215365,Tom Gewiese
 2a14:7c0:1003::,2a14:7c0:1003:ffff:ffff:ffff:ffff:ffff,208208,Marco Lingl trading as Cyberse GmbH & Co. KG
 2a14:7c0:1004::,2a14:7c0:11ff:ffff:ffff:ffff:ffff:ffff,215365,Tom Gewiese
-2a14:7c0:1200::,2a14:7c0:12ff:ffff:ffff:ffff:ffff:ffff,58212,dataforest GmbH
+2a14:7c0:1200::,2a14:7c0:12ff:ffff:ffff:ffff:ffff:ffff,201687,AS201687
 2a14:7c0:1300::,2a14:7c0:13ff:ffff:ffff:ffff:ffff:ffff,213850,Justin Harth
 2a14:7c0:1400::,2a14:7c0:171f:ffff:ffff:ffff:ffff:ffff,215460,AS215460
 2a14:7c0:1720::,2a14:7c0:172f:ffff:ffff:ffff:ffff:ffff,214806,AS214806
@@ -98174,8 +98186,8 @@
 2a14:7581:3540::,2a14:7581:3540:ffff:ffff:ffff:ffff:ffff,396968,imput
 2a14:7581:358d::,2a14:7581:358d:ffff:ffff:ffff:ffff:ffff,396968,imput
 2a14:7581:35c7::,2a14:7581:35c7:ffff:ffff:ffff:ffff:ffff,396968,imput
-2a14:7581:3701::,2a14:7581:3704:ffff:ffff:ffff:ffff:ffff,214223,Luis Jakob Bartel
-2a14:7581:3707::,2a14:7581:3709:ffff:ffff:ffff:ffff:ffff,214223,Luis Jakob Bartel
+2a14:7581:3701::,2a14:7581:3701:ffff:ffff:ffff:ffff:ffff,214223,Luis Jakob Bartel
+2a14:7581:3703::,2a14:7581:3709:ffff:ffff:ffff:ffff:ffff,214223,Luis Jakob Bartel
 2a14:7581:3810::,2a14:7581:381f:ffff:ffff:ffff:ffff:ffff,151673,Chen Xinyu
 2a14:7581:3961::,2a14:7581:3962:ffff:ffff:ffff:ffff:ffff,199763,Piotr Chrzanowski
 2a14:7581:3966::,2a14:7581:3966:ffff:ffff:ffff:ffff:ffff,199763,Piotr Chrzanowski
@@ -98352,7 +98364,6 @@
 2a14:7584:e200::,2a14:7584:e2ff:ffff:ffff:ffff:ffff:ffff,4179,City of Los Angeles
 2a14:7584:e390::,2a14:7584:e3af:ffff:ffff:ffff:ffff:ffff,397032,SPARKED HOST LLC
 2a14:7584:e3f0::,2a14:7584:e3ff:ffff:ffff:ffff:ffff:ffff,429492,AS429492
-2a14:7584:e700::,2a14:7584:e7ff:ffff:ffff:ffff:ffff:ffff,214481,Wojciech Czapkowicz
 2a14:7584:e900::,2a14:7584:e92f:ffff:ffff:ffff:ffff:ffff,214677,Matteo Martelloni trading as DELUXHOST
 2a14:7584:f000::,2a14:7584:ffff:ffff:ffff:ffff:ffff:ffff,174,Cogent Communications
 2a14:7586::,2a14:7586:fff:ffff:ffff:ffff:ffff:ffff,199459,Alexandro Setiawan

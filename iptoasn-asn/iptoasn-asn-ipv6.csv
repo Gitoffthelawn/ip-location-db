@@ -936,7 +936,6 @@
 2001:500:86::,2001:500:87:ffff:ffff:ffff:ffff:ffff,26710,ICANN-ANYCASTED-SERVICES
 2001:500:88::,2001:500:88:ffff:ffff:ffff:ffff:ffff,16876,ICANN-DC
 2001:500:89::,2001:500:89:ffff:ffff:ffff:ffff:ffff,26710,ICANN-ANYCASTED-SERVICES
-2001:500:8c::,2001:500:8c:ffff:ffff:ffff:ffff:ffff,20144,IMRS
 2001:500:8d::,2001:500:8d:ffff:ffff:ffff:ffff:ffff,26710,ICANN-ANYCASTED-SERVICES
 2001:500:8e::,2001:500:8e:ffff:ffff:ffff:ffff:ffff,12041,AS-AFILIAS1
 2001:500:8f::,2001:500:8f:ffff:ffff:ffff:ffff:ffff,26710,ICANN-ANYCASTED-SERVICES
@@ -1137,7 +1136,8 @@
 2001:559:43::,2001:559:43:ffff:ffff:ffff:ffff:ffff,7922,COMCAST-7922
 2001:559:44::,2001:559:44:ffff:ffff:ffff:ffff:ffff,33668,CMCS
 2001:559:45::,2001:559:45:ffff:ffff:ffff:ffff:ffff,33659,CMCS
-2001:559:46::,2001:559:47:ffff:ffff:ffff:ffff:ffff,7922,COMCAST-7922
+2001:559:46::,2001:559:46:ffff:ffff:ffff:ffff:ffff,7922,COMCAST-7922
+2001:559:47::,2001:559:47:ffff:ffff:ffff:ffff:ffff,33659,CMCS
 2001:559:48::,2001:559:48:ffff:ffff:ffff:ffff:ffff,33657,CMCS
 2001:559:49::,2001:559:49:ffff:ffff:ffff:ffff:ffff,33491,COMCAST-33491
 2001:559:4a::,2001:559:4a:ffff:ffff:ffff:ffff:ffff,7922,COMCAST-7922
@@ -1333,8 +1333,7 @@
 2001:559:18b::,2001:559:18b:ffff:ffff:ffff:ffff:ffff,20214,COMCAST-20214
 2001:559:18c::,2001:559:18c:ffff:ffff:ffff:ffff:ffff,33662,CMCS
 2001:559:18d::,2001:559:18e:ffff:ffff:ffff:ffff:ffff,7922,COMCAST-7922
-2001:559:18f::,2001:559:18f:ffff:ffff:ffff:ffff:ffff,7016,CCCH-3
-2001:559:190::,2001:559:190:ffff:ffff:ffff:ffff:ffff,7922,COMCAST-7922
+2001:559:18f::,2001:559:190:ffff:ffff:ffff:ffff:ffff,7016,CCCH-3
 2001:559:191::,2001:559:191:ffff:ffff:ffff:ffff:ffff,33659,CMCS
 2001:559:192::,2001:559:192:ffff:ffff:ffff:ffff:ffff,7922,COMCAST-7922
 2001:559:193::,2001:559:193:ffff:ffff:ffff:ffff:ffff,33287,COMCAST-33287
@@ -2394,7 +2393,9 @@
 2001:559:801d::,2001:559:801d:ffff:ffff:ffff:ffff:ffff,7015,COMCAST-7015
 2001:559:801e::,2001:559:801e:ffff:ffff:ffff:ffff:ffff,7922,COMCAST-7922
 2001:559:801f::,2001:559:801f:ffff:ffff:ffff:ffff:ffff,33287,COMCAST-33287
-2001:559:8020::,2001:559:8039:ffff:ffff:ffff:ffff:ffff,7922,COMCAST-7922
+2001:559:8020::,2001:559:8031:ffff:ffff:ffff:ffff:ffff,7922,COMCAST-7922
+2001:559:8032::,2001:559:8032:ffff:ffff:ffff:ffff:ffff,7015,COMCAST-7015
+2001:559:8033::,2001:559:8039:ffff:ffff:ffff:ffff:ffff,7922,COMCAST-7922
 2001:559:803a::,2001:559:803a:ffff:ffff:ffff:ffff:ffff,33491,COMCAST-33491
 2001:559:803b::,2001:559:803b:ffff:ffff:ffff:ffff:ffff,7922,COMCAST-7922
 2001:559:803c::,2001:559:803c:ffff:ffff:ffff:ffff:ffff,33491,COMCAST-33491
@@ -3227,8 +3228,7 @@
 2001:559:84f8::,2001:559:84f8:ffff:ffff:ffff:ffff:ffff,33659,CMCS
 2001:559:84f9::,2001:559:84f9:ffff:ffff:ffff:ffff:ffff,33287,COMCAST-33287
 2001:559:84fa::,2001:559:84fa:ffff:ffff:ffff:ffff:ffff,7016,CCCH-3
-2001:559:84fb::,2001:559:84fb:ffff:ffff:ffff:ffff:ffff,33668,CMCS
-2001:559:84fc::,2001:559:84fd:ffff:ffff:ffff:ffff:ffff,7922,COMCAST-7922
+2001:559:84fb::,2001:559:84fd:ffff:ffff:ffff:ffff:ffff,7922,COMCAST-7922
 2001:559:84fe::,2001:559:84ff:ffff:ffff:ffff:ffff:ffff,33659,CMCS
 2001:559:8500::,2001:559:8500:ffff:ffff:ffff:ffff:ffff,33490,COMCAST-33490
 2001:559:8501::,2001:559:8501:ffff:ffff:ffff:ffff:ffff,33650,COMCAST-33650
@@ -3886,9 +3886,7 @@
 2001:559:c0c0::,2001:559:c0c0:ffff:ffff:ffff:ffff:ffff,7016,CCCH-3
 2001:559:c0c1::,2001:559:c0c1:ffff:ffff:ffff:ffff:ffff,33652,CMCS
 2001:559:c0c2::,2001:559:c0c4:ffff:ffff:ffff:ffff:ffff,33657,CMCS
-2001:559:c0c5::,2001:559:c0c5:ffff:ffff:ffff:ffff:ffff,7922,COMCAST-7922
-2001:559:c0c6::,2001:559:c0c6:ffff:ffff:ffff:ffff:ffff,33657,CMCS
-2001:559:c0c7::,2001:559:c0c7:ffff:ffff:ffff:ffff:ffff,7922,COMCAST-7922
+2001:559:c0c5::,2001:559:c0c7:ffff:ffff:ffff:ffff:ffff,7922,COMCAST-7922
 2001:559:c0c8::,2001:559:c0c8:ffff:ffff:ffff:ffff:ffff,33668,CMCS
 2001:559:c0c9::,2001:559:c0c9:ffff:ffff:ffff:ffff:ffff,7922,COMCAST-7922
 2001:559:c0ca::,2001:559:c0ca:ffff:ffff:ffff:ffff:ffff,7015,COMCAST-7015
@@ -5050,6 +5048,7 @@
 2001:678:3a4::,2001:678:3a4:ffff:ffff:ffff:ffff:ffff,48635,CLDIN-NL Your Hosting B.V. part of Your.Online
 2001:678:3a8::,2001:678:3a8:ffff:ffff:ffff:ffff:ffff,34309,LINK11 Link11 GmbH
 2001:678:3ac::,2001:678:3ac:ffff:ffff:ffff:ffff:ffff,197961,EPIX-CDN1
+2001:678:3b8::,2001:678:3b8:ffff:ffff:ffff:ffff:ffff,208733,FFVEC
 2001:678:3bc::,2001:678:3bc:ffff:ffff:ffff:ffff:ffff,198126,TELANDGO
 2001:678:3c4::,2001:678:3c4:ffff:ffff:ffff:ffff:ffff,20712,AS20712 Andrews & Arnold Ltd
 2001:678:3c8::,2001:678:3c8:ffff:ffff:ffff:ffff:ffff,34516,ARX-NET
@@ -6086,7 +6085,6 @@
 2001:67c:e2c::,2001:67c:e2c:ffff:ffff:ffff:ffff:ffff,35236,AS35236
 2001:67c:e3c::,2001:67c:e3c:ffff:ffff:ffff:ffff:ffff,215296,RAOULBROUNS
 2001:67c:e40::,2001:67c:e40:ffff:ffff:ffff:ffff:ffff,215197,ZEROSERVICESGMBH-AS
-2001:67c:e44::,2001:67c:e44:ffff:ffff:ffff:ffff:ffff,213368,MARCOBOX
 2001:67c:e50::,2001:67c:e50:ffff:ffff:ffff:ffff:ffff,50648,UAINET-AS
 2001:67c:e54::,2001:67c:e54:ffff:ffff:ffff:ffff:ffff,29322,"STREAMWIDE-AS The company STREAMWIDE located in Paris, France"
 2001:67c:e5c::,2001:67c:e5c:ffff:ffff:ffff:ffff:ffff,215131,AS215131
@@ -6101,8 +6099,6 @@
 2001:67c:e94::,2001:67c:e94:ffff:ffff:ffff:ffff:ffff,43541,VSHOSTING
 2001:67c:e98::,2001:67c:e98:ffff:ffff:ffff:ffff:ffff,50673,SERVERIUS-AS
 2001:67c:e9c::,2001:67c:e9c:ffff:ffff:ffff:ffff:ffff,205614,MEDIALINE-EUROTRADE-AG
-2001:67c:ea0::,2001:67c:ea0:ffff:ffff:ffff:ffff:ffff,213368,MARCOBOX
-2001:67c:ea4::,2001:67c:ea4:ffff:ffff:ffff:ffff:ffff,213368,MARCOBOX
 2001:67c:ea8::,2001:67c:ea8:ffff:ffff:ffff:ffff:ffff,57811,REDGETECHNOLOGIES
 2001:67c:eb0::,2001:67c:eb0:ffff:ffff:ffff:ffff:ffff,51088,A2B
 2001:67c:eb4::,2001:67c:eb4:ffff:ffff:ffff:ffff:ffff,44418,BITDEFENDER-AS
@@ -6771,7 +6767,6 @@
 2001:67c:273c::,2001:67c:273c:ffff:ffff:ffff:ffff:ffff,3303,SWISSCOM Swisscom Switzerland Ltd
 2001:67c:2740::,2001:67c:2740:ffff:ffff:ffff:ffff:ffff,198543,SK-JOJ-ASN
 2001:67c:274c::,2001:67c:274c:ffff:ffff:ffff:ffff:ffff,42034,DN-SYSTEMS
-2001:67c:2754::,2001:67c:2754:ffff:ffff:ffff:ffff:ffff,213368,MARCOBOX
 2001:67c:2758::,2001:67c:2758:ffff:ffff:ffff:ffff:ffff,41618,KTR-AS
 2001:67c:275c::,2001:67c:275c:ffff:ffff:ffff:ffff:ffff,197782,CHAOSTREFF-DORTMUND
 2001:67c:2760::,2001:67c:2760:ffff:ffff:ffff:ffff:ffff,47655,LINKINTEL
@@ -6828,6 +6823,7 @@
 2001:67c:2904::,2001:67c:2904:ffff:ffff:ffff:ffff:ffff,212125,ABZIEHER-AS
 2001:67c:2908::,2001:67c:2908:ffff:ffff:ffff:ffff:ffff,209718,REDPANDA-DNS-AS
 2001:67c:2910::,2001:67c:2910:ffff:ffff:ffff:ffff:ffff,3301,TELIANET-SWEDEN Telia Company
+2001:67c:2918::,2001:67c:2918:ffff:ffff:ffff:ffff:ffff,212034,sclrnet.com research net
 2001:67c:2920::,2001:67c:2920:ffff:ffff:ffff:ffff:ffff,213405,INGSERVIS
 2001:67c:2924::,2001:67c:2924:ffff:ffff:ffff:ffff:ffff,215737,-Reserved AS-
 2001:67c:292c::,2001:67c:292c:ffff:ffff:ffff:ffff:ffff,210211,SUMUP-AS
@@ -6915,7 +6911,6 @@
 2001:67c:2bb0::,2001:67c:2bb0:ffff:ffff:ffff:ffff:ffff,28674,ITERGO-CORP-AS
 2001:67c:2bb4::,2001:67c:2bb4:ffff:ffff:ffff:ffff:ffff,207537,AS_BLOMME
 2001:67c:2bb8::,2001:67c:2bb8:ffff:ffff:ffff:ffff:ffff,35731,VRATANET
-2001:67c:2bbc::,2001:67c:2bbc:ffff:ffff:ffff:ffff:ffff,213368,MARCOBOX
 2001:67c:2bc0::,2001:67c:2bc0:ffff:ffff:ffff:ffff:ffff,3301,TELIANET-SWEDEN Telia Company
 2001:67c:2bd0::,2001:67c:2bd0:ffff:ffff:ffff:ffff:ffff,204847,SE-BORGHOLM
 2001:67c:2bd4::,2001:67c:2bd4:ffff:ffff:ffff:ffff:ffff,1257,TELE2
@@ -6968,6 +6963,7 @@
 2001:67c:2d68::,2001:67c:2d68:ffff:ffff:ffff:ffff:ffff,31169,SOGNENETT-AS Providing fiber and wireless access
 2001:67c:2d6c::,2001:67c:2d6c:ffff:ffff:ffff:ffff:ffff,16302,SUOMICOMMUNICATIONS
 2001:67c:2d70::,2001:67c:2d70:ffff:ffff:ffff:ffff:ffff,57118,COMMUNITYRACK
+2001:67c:2d74::,2001:67c:2d74:ffff:ffff:ffff:ffff:ffff,34387,"NETCREW Helsinki, Finland"
 2001:67c:2d7c::,2001:67c:2d7c:ffff:ffff:ffff:ffff:ffff,12859,NL-BIT BIT BV
 2001:67c:2d80::,2001:67c:2d80:ffff:ffff:ffff:ffff:ffff,203218,PAPADAKIS-AS
 2001:67c:2d88::,2001:67c:2d88:ffff:ffff:ffff:ffff:ffff,3320,DTAG Internet service provider operations
@@ -7175,18 +7171,13 @@
 2001:7f9:8::,2001:7f9:8:ffff:ffff:ffff:ffff:ffff,51354,AM-TLD-ANYCAST-AS
 2001:7f9:c::,2001:7f9:c:ffff:ffff:ffff:ffff:ffff,15606,NASK-DNS-ANYCAST
 2001:7fa:5::,2001:7fa:5:ffff:ffff:ffff:ffff:ffff,23911,CNGI-BJIX-AS-AP China Next Generation Internet Beijing IX
-2001:7fb:ee00::,2001:7fb:ee05:ffff:ffff:ffff:ffff:ffff,12654,RIPE-NCC-RIS-AS Reseaux IP Europeens Network Coordination Centre RIPE NCC
 2001:7fb:ef00::,2001:7fb:ef05:ffff:ffff:ffff:ffff:ffff,12654,RIPE-NCC-RIS-AS Reseaux IP Europeens Network Coordination Centre RIPE NCC
 2001:7fb:fb01:100::,2001:7fb:fb01:200:ffff:ffff:ffff:ffff,12654,RIPE-NCC-RIS-AS Reseaux IP Europeens Network Coordination Centre RIPE NCC
 2001:7fb:fd02::,2001:7fb:fd03:ffff:ffff:ffff:ffff:ffff,12654,RIPE-NCC-RIS-AS Reseaux IP Europeens Network Coordination Centre RIPE NCC
 2001:7fb:fd05::,2001:7fb:fd05:ffff:ffff:ffff:ffff:ffff,12654,RIPE-NCC-RIS-AS Reseaux IP Europeens Network Coordination Centre RIPE NCC
-2001:7fb:fe00::,2001:7fb:fe01:ffff:ffff:ffff:ffff:ffff,12654,RIPE-NCC-RIS-AS Reseaux IP Europeens Network Coordination Centre RIPE NCC
-2001:7fb:fe03::,2001:7fb:fe07:ffff:ffff:ffff:ffff:ffff,12654,RIPE-NCC-RIS-AS Reseaux IP Europeens Network Coordination Centre RIPE NCC
-2001:7fb:fe0a::,2001:7fb:fe10:ffff:ffff:ffff:ffff:ffff,12654,RIPE-NCC-RIS-AS Reseaux IP Europeens Network Coordination Centre RIPE NCC
-2001:7fb:fe12::,2001:7fb:fe19:ffff:ffff:ffff:ffff:ffff,12654,RIPE-NCC-RIS-AS Reseaux IP Europeens Network Coordination Centre RIPE NCC
-2001:7fb:fe20::,2001:7fb:fe20:ffff:ffff:ffff:ffff:ffff,12654,RIPE-NCC-RIS-AS Reseaux IP Europeens Network Coordination Centre RIPE NCC
-2001:7fb:ff00::,2001:7fb:ff01:ffff:ffff:ffff:ffff:ffff,12654,RIPE-NCC-RIS-AS Reseaux IP Europeens Network Coordination Centre RIPE NCC
-2001:7fb:ff03::,2001:7fb:ff07:ffff:ffff:ffff:ffff:ffff,12654,RIPE-NCC-RIS-AS Reseaux IP Europeens Network Coordination Centre RIPE NCC
+2001:7fb:fe10::,2001:7fb:fe10:ffff:ffff:ffff:ffff:ffff,12654,RIPE-NCC-RIS-AS Reseaux IP Europeens Network Coordination Centre RIPE NCC
+2001:7fb:fe19::,2001:7fb:fe19:ffff:ffff:ffff:ffff:ffff,12654,RIPE-NCC-RIS-AS Reseaux IP Europeens Network Coordination Centre RIPE NCC
+2001:7fb:ff00::,2001:7fb:ff07:ffff:ffff:ffff:ffff:ffff,12654,RIPE-NCC-RIS-AS Reseaux IP Europeens Network Coordination Centre RIPE NCC
 2001:7fb:ff0a::,2001:7fb:ff10:ffff:ffff:ffff:ffff:ffff,12654,RIPE-NCC-RIS-AS Reseaux IP Europeens Network Coordination Centre RIPE NCC
 2001:7fb:ff12::,2001:7fb:ff19:ffff:ffff:ffff:ffff:ffff,12654,RIPE-NCC-RIS-AS Reseaux IP Europeens Network Coordination Centre RIPE NCC
 2001:7fb:ff20::,2001:7fb:ff20:ffff:ffff:ffff:ffff:ffff,12654,RIPE-NCC-RIS-AS Reseaux IP Europeens Network Coordination Centre RIPE NCC
@@ -7942,7 +7933,6 @@
 2001:de8:17::,2001:de8:17:ffff:ffff:ffff:ffff:ffff,9912,QIS-AS-AP Quality Internet Services
 2001:dea:4001::,2001:dea:4001:ffff:ffff:ffff:ffff:ffff,7615,BTIX-AS-AP Bhutan Internet Exchange
 2001:deb::,2001:deb::ffff:ffff:ffff:ffff:ffff,63528,BKNIX-AS-AP Bangkok Neutral Internet Exchange
-2001:dec::,2001:dec::ffff:ffff:ffff:ffff:ffff,132797,VANUATU-AS-AP Vanuatu Internet Exchange VIX
 2001:dec:8000::,2001:dec:8000:ffff:ffff:ffff:ffff:ffff,17557,PKTELECOM-AS-PK Pakistan Telecommunication Company Limited
 2001:ded:8000::,2001:ded:8000:ffff:ffff:ffff:ffff:ffff,23726,IIFON-AS-AP India Internet Foundation
 2001:dee:8001::,2001:dee:8001:ffff:ffff:ffff:ffff:ffff,10084,WAIA-TRANSIT-AP Western Australian Internet Association
@@ -8157,7 +8147,6 @@
 2001:df0:6e80::,2001:df0:6e80:ffff:ffff:ffff:ffff:ffff,17439,NCINSPL-IN NTT COMMUNICATIONS INDIA NETWORK SERVICES PRIVATE LIMITED
 2001:df0:7080::,2001:df0:7080:ffff:ffff:ffff:ffff:ffff,23954,BANKMANDIRI-CBN-ID PT. Bank Mandiri Persero Tbk.
 2001:df0:7240::,2001:df0:7240:ffff:ffff:ffff:ffff:ffff,149235,SUSNEHAM-AS-IN Susneham Private Limited
-2001:df0:7400::,2001:df0:7400:ffff:ffff:ffff:ffff:ffff,4755,TATACOMM-AS TATA Communications formerly VSNL is Leading ISP
 2001:df0:7440::,2001:df0:7440:ffff:ffff:ffff:ffff:ffff,131112,MMTC-AS-ID Sekolah Tinggi Multi Media MMTC Yogyakarta
 2001:df0:7480::,2001:df0:7480:ffff:ffff:ffff:ffff:ffff,139076,ENJOYVC-AS-AP EnjoyVC Japan Corporation
 2001:df0:74c0::,2001:df0:74c0:ffff:ffff:ffff:ffff:ffff,150861,POWERNET-VN POWERNET COMPANY LIMITED
@@ -8681,7 +8670,6 @@
 2001:df2:3500::,2001:df2:3500:ffff:ffff:ffff:ffff:ffff,135848,DIGITAX-AS Digitax India Communications Pvt Ltd.
 2001:df2:3680::,2001:df2:3680:ffff:ffff:ffff:ffff:ffff,131124,NHCSXH-AS-VN Vietnam Bank For Social Policies
 2001:df2:37c0::,2001:df2:37c0:ffff:ffff:ffff:ffff:ffff,151061,WPSDL-AS-AP Winning Partner Software Development Limited
-2001:df2:3800::,2001:df2:3800:ffff:ffff:ffff:ffff:ffff,56118,"OCSC-TH Office of the Civil Service Commission 47111 Tiwanon Road, Talad Kwan Sub-District, Muang District, Nonthaburi 11000"
 2001:df2:3840::,2001:df2:3840:ffff:ffff:ffff:ffff:ffff,7545,TPG-INTERNET-AP TPG Telecom Limited
 2001:df2:38c0::,2001:df2:38c0:ffff:ffff:ffff:ffff:ffff,141674,IDNIC-DARTANET-AS-ID PT Data Arta Sedaya
 2001:df2:3940::,2001:df2:3940:ffff:ffff:ffff:ffff:ffff,149319,IDNIC-TRIDATARAYA-AS-ID PT Trisna Mega Abadi
@@ -8986,7 +8974,6 @@
 2001:df3:38c0::,2001:df3:38c0:ffff:ffff:ffff:ffff:ffff,152152,SIS-AS-AP SOLETECH IT SOLUTIONS
 2001:df3:3980::,2001:df3:3980:ffff:ffff:ffff:ffff:ffff,44592,SKYLINK
 2001:df3:3a00::,2001:df3:3a00:ffff:ffff:ffff:ffff:ffff,131306,CCI-AS-AP CITI Cableworld Inc.
-2001:df3:3a40::,2001:df3:3a40:ffff:ffff:ffff:ffff:ffff,150011,MAULEE01-AS-IN MAULEE BROADBAND PRIVATE LIMITED
 2001:df3:3a80::,2001:df3:3a80:ffff:ffff:ffff:ffff:ffff,10111,ZEONET-AS-AP Zeofast Network
 2001:df3:3b40::,2001:df3:3b40:ffff:ffff:ffff:ffff:ffff,2713,BBIX-AS-AP BBIX Australia Pty Ltd
 2001:df3:3d00::,2001:df3:3d00:ffff:ffff:ffff:ffff:ffff,9304,HUTCHISON-AS-AP HGC Global Communications Limited
@@ -9117,7 +9104,7 @@
 2001:df3:b480::,2001:df3:b480:ffff:ffff:ffff:ffff:ffff,136371,AIRWIR-AS Airwir Technologies Private Limited
 2001:df3:b5c0::,2001:df3:b5c0:ffff:ffff:ffff:ffff:ffff,141831,SKYNET123-AS-IN SKYNET BROADBAND SERVICES
 2001:df3:b640::,2001:df3:b640:ffff:ffff:ffff:ffff:ffff,140815,HTTVSERVER-VN HTTVSERVER TECHNOLOGY COMPANY LIMITED
-2001:df3:b6c0::,2001:df3:b6c0:ffff:ffff:ffff:ffff:ffff,149240,MNPL-AS-IN Megatel Networks Private Limited
+2001:df3:b6c0::,2001:df3:b6c0:ffff:ffff:ffff:ffff:ffff,150606,OTIS-AS-IN One Touch It Services
 2001:df3:b840::,2001:df3:b840:ffff:ffff:ffff:ffff:ffff,135700,NRDATASERVICE-AS N R DATA SERVICE PVT LTD
 2001:df3:b880::,2001:df3:b880:ffff:ffff:ffff:ffff:ffff,17538,CIRCLECOM-AS-ID-AP PT. Circlecom Nusantara Indonesia
 2001:df3:b980::,2001:df3:b980:ffff:ffff:ffff:ffff:ffff,17538,CIRCLECOM-AS-ID-AP PT. Circlecom Nusantara Indonesia
@@ -9336,7 +9323,6 @@
 2001:df4:75c0::,2001:df4:75c0:ffff:ffff:ffff:ffff:ffff,135103,ALEX-NEO-AS-AP Alex Neo
 2001:df4:7700::,2001:df4:7702:ffff:ffff:ffff:ffff:ffff,137176,CCIL-AS The Clearing Corporation Of India Limited
 2001:df4:7840::,2001:df4:7840:ffff:ffff:ffff:ffff:ffff,134156,COVER-AS-AP Cover Communications Limited
-2001:df4:7841::,2001:df4:7841:ffff:ffff:ffff:ffff:ffff,153375,COVER-AS-AP Cover Communications Limited
 2001:df4:7940::,2001:df4:7940:ffff:ffff:ffff:ffff:ffff,136357,SIDDIQUI-AS-IN Siddiqui Global Services Pvt. Ltd.
 2001:df4:7bc0::,2001:df4:7bc0:ffff:ffff:ffff:ffff:ffff,153377,ETL-AS-AP Extent Technologies Limited
 2001:df4:80c0::,2001:df4:80c0:ffff:ffff:ffff:ffff:ffff,135905,VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
@@ -9446,6 +9432,7 @@
 2001:df4:f300::,2001:df4:f300:ffff:ffff:ffff:ffff:ffff,137349,IDNIC-GSMNET-AS-ID PT. GEMILANG SARANA MANDIRI
 2001:df4:f3c0::,2001:df4:f3c0:ffff:ffff:ffff:ffff:ffff,153263,JANAK-AS-IN JANAK DIGITAL NETWORK PRIVATE LIMITED
 2001:df4:f480::,2001:df4:f481:ffff:ffff:ffff:ffff:ffff,141225,DORONTOINFORMATIONTECHNOLOGYDIT-AS-AP Doronto Information TechnologyDIT
+2001:df4:f680::,2001:df4:f680:ffff:ffff:ffff:ffff:ffff,136360,INSPL-IN Isolnet Network Solution Pvt Ltd
 2001:df4:f840::,2001:df4:f840:ffff:ffff:ffff:ffff:ffff,153551,AXENTECPLC-AS-AP Axentec PLC
 2001:df4:f900::,2001:df4:f900:ffff:ffff:ffff:ffff:ffff,137351,DJASANET-AS-ID PT. Djaya Sampoerna Net
 2001:df4:fa40::,2001:df4:fa40:ffff:ffff:ffff:ffff:ffff,135872,GTPLKCBPL-AS GTPL KCBPL BROADBAND PVT LTD
@@ -9719,6 +9706,7 @@
 2001:df6:7c0::,2001:df6:7c0:ffff:ffff:ffff:ffff:ffff,154167,ABLVDC-AS-AP Rackmill
 2001:df6:900::,2001:df6:900:ffff:ffff:ffff:ffff:ffff,137373,IDNIC-SUITEN-AS-ID PT. SUITEN INOVASI SUKSES
 2001:df6:980::,2001:df6:980:ffff:ffff:ffff:ffff:ffff,134880,FLIX-AS-IN Flix Broadband Services Private Limited
+2001:df6:b40::,2001:df6:b40:ffff:ffff:ffff:ffff:ffff,134860,ECABOPL-AS Entire Cable And Broadband Opc Private Limited
 2001:df6:c00::,2001:df6:c00:ffff:ffff:ffff:ffff:ffff,55451,NBTC-THAI-AS-TH Office of the National Broadcasting and
 2001:df6:c40::,2001:df6:c40:ffff:ffff:ffff:ffff:ffff,154191,IDNIC-WLD-ID PT WIFIKCB LINTAS DATA
 2001:df6:d00::,2001:df6:d00:ffff:ffff:ffff:ffff:ffff,138025,RBCCABLE-AS-AP RBC Cable Master System
@@ -9759,6 +9747,7 @@
 2001:df6:2e80::,2001:df6:2e80:ffff:ffff:ffff:ffff:ffff,149268,ROARNET-AS-IN Roarnet Broadband Pvt Ltd
 2001:df6:3080::,2001:df6:3080:ffff:ffff:ffff:ffff:ffff,132746,INFO22-AS Infolink System
 2001:df6:3100::,2001:df6:3100:ffff:ffff:ffff:ffff:ffff,135067,"LOGICOM-AS-AP LOGICOM TECHNOLOGY CO.,LIMITED"
+2001:df6:3140::,2001:df6:3140:ffff:ffff:ffff:ffff:ffff,137939,IDNIC-INETPLUS-AS-ID PT Inovasi Network Plus
 2001:df6:3180::,2001:df6:3180:ffff:ffff:ffff:ffff:ffff,141988,OPTIMUS-AS-AP Optimus Technologies
 2001:df6:31c0::,2001:df6:31c0:ffff:ffff:ffff:ffff:ffff,153930,TUNETALKSDNBHD-AS-AP Tune Talk Sdn. Bhd
 2001:df6:3480::,2001:df6:3481:ffff:ffff:ffff:ffff:ffff,150787,CGCL-AS CHANNEL G COMPANY LIMITED
@@ -10480,7 +10469,7 @@
 2001:1260:4::,2001:1260:4:ffff:ffff:ffff:ffff:ffff,28535,"Mexico Red de Telecomunicaciones, S. de R.L. de C.V."
 2001:1260:5::,2001:1260:5:ffff:ffff:ffff:ffff:ffff,28544,"Mexico Red de Telecomunicaciones, S. de R.L. de C.V."
 2001:1260:6::,2001:1260:6:ffff:ffff:ffff:ffff:ffff,28534,"Mexico Red de Telecomunicaciones, S. de R.L. de C.V."
-2001:1260:7::,2001:1260:7:ffff:ffff:ffff:ffff:ffff,13591,"Mexico Red de Telecomunicaciones, S. de R.L. de C.V."
+2001:1260:7::,2001:1260:7:ffff:ffff:ffff:ffff:ffff,28532,"Mexico Red de Telecomunicaciones, S. de R.L. de C.V."
 2001:1260:8::,2001:1260:8:ffff:ffff:ffff:ffff:ffff,28531,"Mexico Red de Telecomunicaciones, S. de R.L. de C.V."
 2001:1260:9::,2001:1260:9:ffff:ffff:ffff:ffff:ffff,28533,"Mexico Red de Telecomunicaciones, S. de R.L. de C.V."
 2001:1260:a::,2001:1260:b:ffff:ffff:ffff:ffff:ffff,13591,"Mexico Red de Telecomunicaciones, S. de R.L. de C.V."
@@ -10500,7 +10489,9 @@
 2001:1260:340::,2001:1260:34c:ffff:ffff:ffff:ffff:ffff,28537,"Mexico Red de Telecomunicaciones, S. de R.L. de C.V."
 2001:1260:34d::,2001:1260:34d:ffff:ffff:ffff:ffff:ffff,13591,"Mexico Red de Telecomunicaciones, S. de R.L. de C.V."
 2001:1260:34e::,2001:1260:34e:ffff:ffff:ffff:ffff:ffff,28537,"Mexico Red de Telecomunicaciones, S. de R.L. de C.V."
-2001:1260:34f::,2001:1260:5ef:ffff:ffff:ffff:ffff:ffff,13591,"Mexico Red de Telecomunicaciones, S. de R.L. de C.V."
+2001:1260:34f::,2001:1260:3ff:ffff:ffff:ffff:ffff:ffff,13591,"Mexico Red de Telecomunicaciones, S. de R.L. de C.V."
+2001:1260:400::,2001:1260:4ff:ffff:ffff:ffff:ffff:ffff,28532,"Mexico Red de Telecomunicaciones, S. de R.L. de C.V."
+2001:1260:500::,2001:1260:5ef:ffff:ffff:ffff:ffff:ffff,13591,"Mexico Red de Telecomunicaciones, S. de R.L. de C.V."
 2001:1260:5f0::,2001:1260:5f0:ffff:ffff:ffff:ffff:ffff,28534,"Mexico Red de Telecomunicaciones, S. de R.L. de C.V."
 2001:1260:5f1::,2001:1260:5ff:ffff:ffff:ffff:ffff:ffff,13591,"Mexico Red de Telecomunicaciones, S. de R.L. de C.V."
 2001:1260:600::,2001:1260:601:ffff:ffff:ffff:ffff:ffff,28531,"Mexico Red de Telecomunicaciones, S. de R.L. de C.V."
@@ -10627,6 +10618,7 @@
 2001:13c7:6012::,2001:13c7:6012:ffff:ffff:ffff:ffff:ffff,52403,CABASE Camara Arg de Base de Datos y Serv en Linea
 2001:13c7:6013::,2001:13c7:6013:ffff:ffff:ffff:ffff:ffff,52404,CABASE Camara Arg de Base de Datos y Serv en Linea
 2001:13c7:6014::,2001:13c7:6014:ffff:ffff:ffff:ffff:ffff,52500,CABASE Camara Arg de Base de Datos y Serv en Linea
+2001:13c7:6015::,2001:13c7:6015:ffff:ffff:ffff:ffff:ffff,61441,CABASE Camara Arg de Base de Datos y Serv en Linea
 2001:13c7:6017::,2001:13c7:6017:ffff:ffff:ffff:ffff:ffff,61504,CABASE Camara Arg de Base de Datos y Serv en Linea
 2001:13c7:601a::,2001:13c7:601a:ffff:ffff:ffff:ffff:ffff,52509,CABASE Camara Arg de Base de Datos y Serv en Linea
 2001:13c7:601c::,2001:13c7:601c:ffff:ffff:ffff:ffff:ffff,61521,CABASE Camara Arg de Base de Datos y Serv en Linea
@@ -10832,9 +10824,7 @@
 2001:16a2:bb29::,2001:16a2:bb29:ffff:ffff:ffff:ffff:ffff,25019,SAUDINETSTC-AS
 2001:16a2:bb2a::,2001:16a2:bb2a:ffff:ffff:ffff:ffff:ffff,39386,STC-IGW-AS
 2001:16a2:bb2b::,2001:16a2:bb2b:ffff:ffff:ffff:ffff:ffff,25019,SAUDINETSTC-AS
-2001:16a2:bb2c::,2001:16a2:bb2c:ffff:ffff:ffff:ffff:ffff,39386,STC-IGW-AS
-2001:16a2:bb2d::,2001:16a2:bb2d:ffff:ffff:ffff:ffff:ffff,25019,SAUDINETSTC-AS
-2001:16a2:bb2e::,2001:16a2:bb2f:ffff:ffff:ffff:ffff:ffff,39386,STC-IGW-AS
+2001:16a2:bb2c::,2001:16a2:bb2f:ffff:ffff:ffff:ffff:ffff,39386,STC-IGW-AS
 2001:16a2:bb30::,2001:16a2:bb30:ffff:ffff:ffff:ffff:ffff,25019,SAUDINETSTC-AS
 2001:16a2:bb31::,2001:16a2:bb31:ffff:ffff:ffff:ffff:ffff,39386,STC-IGW-AS
 2001:16a2:bb32::,2001:16a2:bb32:ffff:ffff:ffff:ffff:ffff,25019,SAUDINETSTC-AS
@@ -10855,8 +10845,8 @@
 2001:16a2:bb4d::,2001:16a2:bb4e:ffff:ffff:ffff:ffff:ffff,39386,STC-IGW-AS
 2001:16a2:bb4f::,2001:16a2:bb50:ffff:ffff:ffff:ffff:ffff,25019,SAUDINETSTC-AS
 2001:16a2:bb51::,2001:16a2:bb52:ffff:ffff:ffff:ffff:ffff,39386,STC-IGW-AS
-2001:16a2:bb53::,2001:16a2:bb65:ffff:ffff:ffff:ffff:ffff,25019,SAUDINETSTC-AS
-2001:16a2:bb66::,2001:16a2:bfff:ffff:ffff:ffff:ffff:ffff,39386,STC-IGW-AS
+2001:16a2:bb53::,2001:16a2:bb67:ffff:ffff:ffff:ffff:ffff,25019,SAUDINETSTC-AS
+2001:16a2:bb68::,2001:16a2:bfff:ffff:ffff:ffff:ffff:ffff,39386,STC-IGW-AS
 2001:16a2:c000::,2001:16a2:c0df:ffff:ffff:ffff:ffff:ffff,39891,ALJAWWALSTC-AS
 2001:16a2:c0e0::,2001:16a2:c0ff:ffff:ffff:ffff:ffff:ffff,39386,STC-IGW-AS
 2001:16a2:c100::,2001:16a2:c10f:ffff:ffff:ffff:ffff:ffff,39891,ALJAWWALSTC-AS
@@ -10911,9 +10901,9 @@
 2001:16a3:d85::,2001:16a3:dcf:ffff:ffff:ffff:ffff:ffff,25019,SAUDINETSTC-AS
 2001:16a3:dd0::,2001:16a3:dff:ffff:ffff:ffff:ffff:ffff,39386,STC-IGW-AS
 2001:16a3:e00::,2001:16a3:fff:ffff:ffff:ffff:ffff:ffff,25019,SAUDINETSTC-AS
-2001:16a3:1000::,2001:16a3:201d:ffff:ffff:ffff:ffff:ffff,39386,STC-IGW-AS
-2001:16a3:201e::,2001:16a3:201e:ffff:ffff:ffff:ffff:ffff,25019,SAUDINETSTC-AS
-2001:16a3:201f::,2001:16a3:ffff:ffff:ffff:ffff:ffff:ffff,39386,STC-IGW-AS
+2001:16a3:1000::,2001:16a3:201e:ffff:ffff:ffff:ffff:ffff,39386,STC-IGW-AS
+2001:16a3:201f::,2001:16a3:201f:ffff:ffff:ffff:ffff:ffff,25019,SAUDINETSTC-AS
+2001:16a3:2020::,2001:16a3:ffff:ffff:ffff:ffff:ffff:ffff,39386,STC-IGW-AS
 2001:16a4::,2001:16a4:8f:ffff:ffff:ffff:ffff:ffff,39891,ALJAWWALSTC-AS
 2001:16a4:90::,2001:16a4:af:ffff:ffff:ffff:ffff:ffff,39386,STC-IGW-AS
 2001:16a4:b0::,2001:16a4:df:ffff:ffff:ffff:ffff:ffff,39891,ALJAWWALSTC-AS
@@ -11105,7 +11095,9 @@
 2001:1a10:1680::,2001:1a10:2400:ffff:ffff:ffff:ffff:ffff,8781,QA-ISP
 2001:1a10:2401::,2001:1a10:2409:ffff:ffff:ffff:ffff:ffff,42298,GCC-MPLS-PEERING GCC MPLS peering
 2001:1a10:240a::,2001:1a10:240a:ffff:ffff:ffff:ffff:ffff,8781,QA-ISP
-2001:1a10:240b::,2001:1a10:241e:ffff:ffff:ffff:ffff:ffff,42298,GCC-MPLS-PEERING GCC MPLS peering
+2001:1a10:240b::,2001:1a10:240c:ffff:ffff:ffff:ffff:ffff,42298,GCC-MPLS-PEERING GCC MPLS peering
+2001:1a10:240d::,2001:1a10:240d:ffff:ffff:ffff:ffff:ffff,8781,QA-ISP
+2001:1a10:240e::,2001:1a10:241e:ffff:ffff:ffff:ffff:ffff,42298,GCC-MPLS-PEERING GCC MPLS peering
 2001:1a10:241f::,2001:1a10:241f:ffff:ffff:ffff:ffff:ffff,8781,QA-ISP
 2001:1a10:2420::,2001:1a10:2421:ffff:ffff:ffff:ffff:ffff,42298,GCC-MPLS-PEERING GCC MPLS peering
 2001:1a10:2422::,2001:1a10:2422:ffff:ffff:ffff:ffff:ffff,8781,QA-ISP
@@ -11623,6 +11615,7 @@
 2001:3786:4500::,2001:3786:4500:ffff:ffff:ffff:ffff:ffff,205563,ZGATO
 2001:3786:4600::,2001:3786:4600:ffff:ffff:ffff:ffff:ffff,205563,ZGATO
 2001:3786:4848::,2001:3786:4848:ffff:ffff:ffff:ffff:ffff,205563,ZGATO
+2001:3786:4949::,2001:3786:4949:ffff:ffff:ffff:ffff:ffff,205563,ZGATO
 2001:3786:5000::,2001:3786:5009:ffff:ffff:ffff:ffff:ffff,205563,ZGATO
 2001:3786:5010::,2001:3786:5012:ffff:ffff:ffff:ffff:ffff,205563,ZGATO
 2001:3786:5015::,2001:3786:5017:ffff:ffff:ffff:ffff:ffff,205563,ZGATO
@@ -11660,7 +11653,7 @@
 2001:3786:bddb::,2001:3786:bddb:ffff:ffff:ffff:ffff:ffff,205563,ZGATO
 2001:3786:cc01::,2001:3786:cc01:ffff:ffff:ffff:ffff:ffff,205563,ZGATO
 2001:3786:cccc::,2001:3786:cccc:ffff:ffff:ffff:ffff:ffff,205563,ZGATO
-2001:3786:d4a6::,2001:3786:d4a6:ffff:ffff:ffff:ffff:ffff,205563,ZGATO
+2001:3786:d4a5::,2001:3786:d4a6:ffff:ffff:ffff:ffff:ffff,205563,ZGATO
 2001:3786:ebeb::,2001:3786:ebeb:ffff:ffff:ffff:ffff:ffff,205563,ZGATO
 2001:3786:ee01::,2001:3786:ee03:ffff:ffff:ffff:ffff:ffff,205563,ZGATO
 2001:3786:fff8::,2001:3786:fff9:ffff:ffff:ffff:ffff:ffff,205563,ZGATO
@@ -12133,15 +12126,16 @@
 2001:4490:898::,2001:4490:89f:ffff:ffff:ffff:ffff:ffff,9829,BSNL-NIB National Internet Backbone
 2001:4490:c00::,2001:4490:fff:ffff:ffff:ffff:ffff:ffff,9829,BSNL-NIB National Internet Backbone
 2001:4490:33f4::,2001:4490:33f7:ffff:ffff:ffff:ffff:ffff,9829,BSNL-NIB National Internet Backbone
-2001:4490:33fc::,2001:4490:343f:ffff:ffff:ffff:ffff:ffff,9829,BSNL-NIB National Internet Backbone
+2001:4490:3400::,2001:4490:343f:ffff:ffff:ffff:ffff:ffff,9829,BSNL-NIB National Internet Backbone
 2001:4490:3600::,2001:4490:363f:ffff:ffff:ffff:ffff:ffff,9829,BSNL-NIB National Internet Backbone
 2001:4490:37f8::,2001:4490:37fb:ffff:ffff:ffff:ffff:ffff,9829,BSNL-NIB National Internet Backbone
 2001:4490:3800::,2001:4490:383f:ffff:ffff:ffff:ffff:ffff,9829,BSNL-NIB National Internet Backbone
 2001:4490:3a00::,2001:4490:3a3f:ffff:ffff:ffff:ffff:ffff,9829,BSNL-NIB National Internet Backbone
 2001:4490:3bf8::,2001:4490:3bfb:ffff:ffff:ffff:ffff:ffff,9829,BSNL-NIB National Internet Backbone
-2001:4490:3df8::,2001:4490:3e3f:ffff:ffff:ffff:ffff:ffff,9829,BSNL-NIB National Internet Backbone
+2001:4490:3df8::,2001:4490:3dfb:ffff:ffff:ffff:ffff:ffff,9829,BSNL-NIB National Internet Backbone
+2001:4490:3e00::,2001:4490:3e3f:ffff:ffff:ffff:ffff:ffff,9829,BSNL-NIB National Internet Backbone
 2001:4490:3f00::,2001:4490:3f3f:ffff:ffff:ffff:ffff:ffff,9829,BSNL-NIB National Internet Backbone
-2001:4490:3fb8::,2001:4490:3fbf:ffff:ffff:ffff:ffff:ffff,9829,BSNL-NIB National Internet Backbone
+2001:4490:3fb8::,2001:4490:3fbb:ffff:ffff:ffff:ffff:ffff,9829,BSNL-NIB National Internet Backbone
 2001:4490:3fe4::,2001:4490:40e7:ffff:ffff:ffff:ffff:ffff,9829,BSNL-NIB National Internet Backbone
 2001:4490:4400::,2001:4490:44fb:ffff:ffff:ffff:ffff:ffff,9829,BSNL-NIB National Internet Backbone
 2001:4490:4808::,2001:4490:4933:ffff:ffff:ffff:ffff:ffff,9829,BSNL-NIB National Internet Backbone
@@ -12927,7 +12921,9 @@
 2001:4cb8:266::,2001:4cb8:266:ffff:ffff:ffff:ffff:ffff,39700,SIGNETBREEDBAND
 2001:4cb8:267::,2001:4cb8:290:ffff:ffff:ffff:ffff:ffff,28878,SIGNET-AS
 2001:4cb8:291::,2001:4cb8:291:ffff:ffff:ffff:ffff:ffff,39700,SIGNETBREEDBAND
-2001:4cb8:292::,2001:4cb8:401:ffff:ffff:ffff:ffff:ffff,28878,SIGNET-AS
+2001:4cb8:292::,2001:4cb8:37a:ffff:ffff:ffff:ffff:ffff,28878,SIGNET-AS
+2001:4cb8:37b::,2001:4cb8:37b:ffff:ffff:ffff:ffff:ffff,39700,SIGNETBREEDBAND
+2001:4cb8:37c::,2001:4cb8:401:ffff:ffff:ffff:ffff:ffff,28878,SIGNET-AS
 2001:4cb8:402::,2001:4cb8:402:ffff:ffff:ffff:ffff:ffff,39700,SIGNETBREEDBAND
 2001:4cb8:403::,2001:4cb8:40a:ffff:ffff:ffff:ffff:ffff,28878,SIGNET-AS
 2001:4cb8:40b::,2001:4cb8:40b:ffff:ffff:ffff:ffff:ffff,49685,SIGNET-AS Signet B.V.
@@ -13774,6 +13770,7 @@
 2400:9800:6077::,2400:9800:6077:ffff:ffff:ffff:ffff:ffff,139994,XLNET-FTTH-ID PT XL Axiata Tbk
 2400:9800:6078::,2400:9800:ffff:ffff:ffff:ffff:ffff:ffff,24203,NAPXLNET-AS-ID PT XL Axiata
 2400:9820::,2400:9820:ffff:ffff:ffff:ffff:ffff:ffff,137127,NAVKARS-AS Navkar Supertech Pvt Ltd
+2400:9840::,2400:9840:ffff:ffff:ffff:ffff:ffff:ffff,136217,MOON-AS-AP MOON NET
 2400:9860::,2400:9860:ffff:ffff:ffff:ffff:ffff:ffff,138043,T2-AS-AP T Network
 2400:9880::,2400:9880:ffff:ffff:ffff:ffff:ffff:ffff,133333,FNPL-AS-AP Frontier Networks Pty Ltd
 2400:98e0::,2400:98e0:ffff:ffff:ffff:ffff:ffff:ffff,138713,NM1737-AP MANISHA TRADERS
@@ -13782,7 +13779,7 @@
 2400:99a0::,2400:99a0:ffff:ffff:ffff:ffff:ffff:ffff,24271,ICTV Iruma CATV co.
 2400:9b40::,2400:9b40:ffff:ffff:ffff:ffff:ffff:ffff,131349,DIGINET-AS-VN Digital telecomminication service joint stock
 2400:9b60:3::,2400:9b60:4:ffff:ffff:ffff:ffff:ffff,38760,IDNIC-MSA-AS-ID PT Media Sarana Akses
-2400:9ba0:1::,2400:9ba0:f:ffff:ffff:ffff:ffff:ffff,150021,QUICKNETC-AS-IN QUICKNET COMMUNICATION PVT LTD
+2400:9ba0:1::,2400:9ba0:8:ffff:ffff:ffff:ffff:ffff,150021,QUICKNETC-AS-IN QUICKNET COMMUNICATION PVT LTD
 2400:9bc0::,2400:9bc0:ffff:ffff:ffff:ffff:ffff:ffff,55313,HANELCOM-AS-VN Hanel Communication JSC
 2400:9c00::,2400:9c00:ffff:ffff:ffff:ffff:ffff:ffff,38880,M21-AS-AP Micron21 Datacentre Pty Ltd
 2400:9c20::,2400:9c20:ffff:ffff:ffff:ffff:ffff:ffff,9913,IIG-AS-AP Internet Information Group
@@ -14004,6 +14001,7 @@
 2400:b6a0:3ff::,2400:b6a0:3ff:ffff:ffff:ffff:ffff:ffff,55814,SINETISP-IN Siliguri Internet & Cable TV Pvt. Ltd.
 2400:b700::,2400:b700::ffff:ffff:ffff:ffff:ffff,23724,"CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation"
 2400:b800::,2400:b800:8:ffff:ffff:ffff:ffff:ffff,45638,SYNERGYWHOLESALE-AP SYNERGY WHOLESALE PTY LTD
+2400:b860::,2400:b860:ffff:ffff:ffff:ffff:ffff:ffff,138961,PCTN-AS-AP Paradise Cable Television Network
 2400:b880::,2400:b880:ffff:ffff:ffff:ffff:ffff:ffff,17551,ANYCAST-AS-AP Anycast Global Backbone
 2400:b8a0::,2400:b8a0:ffff:ffff:ffff:ffff:ffff:ffff,132669,IDNIC-GNET-AS-ID PT Globalnet Multi Data
 2400:b8c0::,2400:b8c0:ffff:ffff:ffff:ffff:ffff:ffff,138195,MOACKCOLTD-AS-AP MOACK.Co.LTD
@@ -14411,7 +14409,7 @@
 2400:cb00:960::,2400:cb00:968:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
 2400:cb00:969::,2400:cb00:969:ffff:ffff:ffff:ffff:ffff,14789,CLOUDFLARENET
 2400:cb00:970::,2400:cb00:970:ffff:ffff:ffff:ffff:ffff,14789,CLOUDFLARENET
-2400:cb00:972::,2400:cb00:979:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
+2400:cb00:971::,2400:cb00:979:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
 2400:cb00:980::,2400:cb00:989:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
 2400:cb00:990::,2400:cb00:992:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
 2400:cb00:994::,2400:cb00:999:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
@@ -14544,8 +14542,6 @@
 2400:cb00:a771::,2400:cb00:a773:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
 2400:cb00:a781::,2400:cb00:a781:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
 2400:cb00:a791::,2400:cb00:a791:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
-2400:cb00:a7b1::,2400:cb00:a7b3:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
-2400:cb00:a7b5::,2400:cb00:a7b5:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
 2400:cb00:a7c1::,2400:cb00:a7c1:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
 2400:cb00:a7d1::,2400:cb00:a7d3:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
 2400:cb00:a7e1::,2400:cb00:a7e4:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
@@ -14559,7 +14555,7 @@
 2400:cb00:a982::,2400:cb00:a982:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
 2400:cb00:a9a1::,2400:cb00:a9a1:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
 2400:cb00:a9b1::,2400:cb00:a9b1:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
-2400:cb00:a9f1::,2400:cb00:a9f3:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
+2400:cb00:a9f2::,2400:cb00:a9f3:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
 2400:cb00:aa21::,2400:cb00:aa23:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
 2400:cb00:aa51::,2400:cb00:aa52:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
 2400:cb00:aa61::,2400:cb00:aa61:ffff:ffff:ffff:ffff:ffff,13335,CLOUDFLARENET
@@ -15383,6 +15379,7 @@
 2401:1fe0::,2401:1fe0:6:ffff:ffff:ffff:ffff:ffff,967,VMISS-
 2401:2000::,2401:2000:ffff:ffff:ffff:ffff:ffff:ffff,4608,APNIC-SERVICES Asia Pacific Network Information Centre
 2401:2060:2000::,2401:2060:2000:ffff:ffff:ffff:ffff:ffff,24322,INFININET-AS-AP Infininet Global Pty Ltd
+2401:2060:b000::,2401:2060:b000:ffff:ffff:ffff:ffff:ffff,24381,BGPE-AS BGP.Exchange
 2401:2060:b002::,2401:2060:b002:ffff:ffff:ffff:ffff:ffff,24322,INFININET-AS-AP Infininet Global Pty Ltd
 2401:20c0::,2401:20c0:ffff:ffff:ffff:ffff:ffff:ffff,136573,ZCCT-AS-AP Sanjoy Saha ta Zip Cyber Cafe & Technology
 2401:20e0::,2401:20e0:ffff:ffff:ffff:ffff:ffff:ffff,138164,MUST-AS-AP Macau University of Science and Technology
@@ -15390,8 +15387,7 @@
 2401:21c0::,2401:21c0:ffff:ffff:ffff:ffff:ffff:ffff,59362,KSNETWORK-AS-AP KS Network Limited
 2401:2200::,2401:2200::ffff:ffff:ffff:ffff:ffff,55420,SABAHNET-AS-AP APNIC ASN Block
 2401:2200:10::,2401:2200:10:ffff:ffff:ffff:ffff:ffff,55420,SABAHNET-AS-AP APNIC ASN Block
-2401:2200:30::,2401:2200:30:ffff:ffff:ffff:ffff:ffff,55420,SABAHNET-AS-AP APNIC ASN Block
-2401:2200:50::,2401:2200:51:ffff:ffff:ffff:ffff:ffff,55420,SABAHNET-AS-AP APNIC ASN Block
+2401:2200:50::,2401:2200:50:ffff:ffff:ffff:ffff:ffff,55420,SABAHNET-AS-AP APNIC ASN Block
 2401:2200:1000::,2401:2200:16ff:ffff:ffff:ffff:ffff:ffff,55420,SABAHNET-AS-AP APNIC ASN Block
 2401:2200:2000::,2401:2200:20ff:ffff:ffff:ffff:ffff:ffff,55420,SABAHNET-AS-AP APNIC ASN Block
 2401:2220::,2401:2220::ffff:ffff:ffff:ffff:ffff,150872,TECHCLOUD-VN TECHCLOUD SOLUTION JOINT STOCK COMPANY
@@ -16015,6 +16011,7 @@
 2401:4900:8f74::,2401:4900:8f81:ffff:ffff:ffff:ffff:ffff,24560,"AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services"
 2401:4900:8f84::,2401:4900:8f87:ffff:ffff:ffff:ffff:ffff,24560,"AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services"
 2401:4900:8f90::,2401:4900:8f93:ffff:ffff:ffff:ffff:ffff,24560,"AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services"
+2401:4900:8fbc::,2401:4900:8fbd:ffff:ffff:ffff:ffff:ffff,24560,"AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services"
 2401:4900:8fc0::,2401:4900:8ff3:ffff:ffff:ffff:ffff:ffff,24560,"AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services"
 2401:4900:8ff8::,2401:4900:8fff:ffff:ffff:ffff:ffff:ffff,24560,"AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services"
 2401:4900:9000::,2401:4900:902f:ffff:ffff:ffff:ffff:ffff,45609,BHARTI-MOBILITY-AS-AP Bharti Airtel Ltd. AS for GPRS Service
@@ -16185,8 +16182,9 @@
 2401:4900:d050::,2401:4900:d08f:ffff:ffff:ffff:ffff:ffff,45609,BHARTI-MOBILITY-AS-AP Bharti Airtel Ltd. AS for GPRS Service
 2401:4900:d0d0::,2401:4900:d0df:ffff:ffff:ffff:ffff:ffff,45609,BHARTI-MOBILITY-AS-AP Bharti Airtel Ltd. AS for GPRS Service
 2401:4900:d0e0::,2401:4900:d0e3:ffff:ffff:ffff:ffff:ffff,24560,"AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services"
-2401:4900:d0e8::,2401:4900:d0f3:ffff:ffff:ffff:ffff:ffff,24560,"AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services"
+2401:4900:d0e8::,2401:4900:d0fb:ffff:ffff:ffff:ffff:ffff,24560,"AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services"
 2401:4900:d101::,2401:4900:d106:ffff:ffff:ffff:ffff:ffff,45609,BHARTI-MOBILITY-AS-AP Bharti Airtel Ltd. AS for GPRS Service
+2401:4900:d800::,2401:4900:d82f:ffff:ffff:ffff:ffff:ffff,45609,BHARTI-MOBILITY-AS-AP Bharti Airtel Ltd. AS for GPRS Service
 2401:4a00::,2401:4a00:ffff:ffff:ffff:ffff:ffff:ffff,17444,HKBNESL-AS-AP HKBN Enterprise Solutions Limited
 2401:4a60::,2401:4a60:ffff:ffff:ffff:ffff:ffff:ffff,149934,IDNIC-PALINDONET-AS-ID PT Pangkalan Lintas Data
 2401:4a80::,2401:4a80:ffff:ffff:ffff:ffff:ffff:ffff,59016,"HACN China Broadcast Henan Network Co., Ltd"
@@ -16291,8 +16289,7 @@
 2401:7200:2011::,2401:7200:2011:ffff:ffff:ffff:ffff:ffff,55328,"REMEX-AU Level 2, Building C"
 2401:7200:2102::,2401:7200:2102:ffff:ffff:ffff:ffff:ffff,55328,"REMEX-AU Level 2, Building C"
 2401:7200:2193::,2401:7200:2193:ffff:ffff:ffff:ffff:ffff,55328,"REMEX-AU Level 2, Building C"
-2401:7200:a000::,2401:7200:a000:ffff:ffff:ffff:ffff:ffff,55328,"REMEX-AU Level 2, Building C"
-2401:7200:a003::,2401:7200:a003:ffff:ffff:ffff:ffff:ffff,55328,"REMEX-AU Level 2, Building C"
+2401:7200:a000::,2401:7200:a003:ffff:ffff:ffff:ffff:ffff,55328,"REMEX-AU Level 2, Building C"
 2401:72e0::,2401:72e0:ffff:ffff:ffff:ffff:ffff:ffff,151837,JOYPURCOLO-AS-AP JOYPUR COLO
 2401:73c0::,2401:73c0:1:ffff:ffff:ffff:ffff:ffff,136792,MIMECAST-AS-AP Mimecast Australia Pty Ltd
 2401:73c0:4::,2401:73c0:4:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
@@ -16525,6 +16522,7 @@
 2401:aca0::,2401:aca0:7:ffff:ffff:ffff:ffff:ffff,135277,FGSB-AS-AP Freshtel Group SDN BHD
 2401:ada0::,2401:ada0:1ff:ffff:ffff:ffff:ffff:ffff,17476,CHL-AS-AP CloudRadium HK Limited
 2401:ae00::,2401:ae00::ffff:ffff:ffff:ffff:ffff,38753,"SOLUSINDO-AS-ID Solusindo Bintang Pratama, PT"
+2401:ae00:2::,2401:ae00:2:ffff:ffff:ffff:ffff:ffff,38753,"SOLUSINDO-AS-ID Solusindo Bintang Pratama, PT"
 2401:ae00:8::,2401:ae00:8:ffff:ffff:ffff:ffff:ffff,38753,"SOLUSINDO-AS-ID Solusindo Bintang Pratama, PT"
 2401:ae00:7000::,2401:ae00:7003:ffff:ffff:ffff:ffff:ffff,38753,"SOLUSINDO-AS-ID Solusindo Bintang Pratama, PT"
 2401:ae00:7005::,2401:ae00:700c:ffff:ffff:ffff:ffff:ffff,38753,"SOLUSINDO-AS-ID Solusindo Bintang Pratama, PT"
@@ -16840,6 +16838,7 @@
 2401:e380:2102::,2401:e380:2103:ffff:ffff:ffff:ffff:ffff,131091,GSS-AS-AP GSS Global
 2401:e380:7551::,2401:e380:7551:ffff:ffff:ffff:ffff:ffff,131091,GSS-AS-AP GSS Global
 2401:e380:8522::,2401:e380:8523:ffff:ffff:ffff:ffff:ffff,131091,GSS-AS-AP GSS Global
+2401:e3a0:1::,2401:e3a0:1:ffff:ffff:ffff:ffff:ffff,137933,HOMERHOST-AS-AP CyberForest LLC.
 2401:e3e0::,2401:e3e0::ffff:ffff:ffff:ffff:ffff,152619,VERYFAST-AS-TW Very Fast Network LTD
 2401:e3e0:53::,2401:e3e0:53:ffff:ffff:ffff:ffff:ffff,152619,VERYFAST-AS-TW Very Fast Network LTD
 2401:e3e0:300::,2401:e3e0:30f:ffff:ffff:ffff:ffff:ffff,198954,CH-NETWORK
@@ -16862,9 +16861,7 @@
 2401:e880::,2401:e880:ffff:ffff:ffff:ffff:ffff:ffff,45873,NEHOS-AU Nehos Communications Pty Ltd
 2401:e900::,2401:e900:5:ffff:ffff:ffff:ffff:ffff,23991,RANKS-AS-BD Ranks ITT Ltd.
 2401:e900:1000::,2401:e900:1000:ffff:ffff:ffff:ffff:ffff,23991,RANKS-AS-BD Ranks ITT Ltd.
-2401:e920::,2401:e920:87ff:ffff:ffff:ffff:ffff:ffff,152565,JOYSVC-AS-IN JOY SERVICES
-2401:e920:8800::,2401:e920:8800:ffff:ffff:ffff:ffff:ffff,153786,SERVERSTEP-AS-AP SERVERSTEP
-2401:e920:8801::,2401:e920:bfff:ffff:ffff:ffff:ffff:ffff,152565,JOYSVC-AS-IN JOY SERVICES
+2401:e920::,2401:e920:bfff:ffff:ffff:ffff:ffff:ffff,152565,JOYSVC-AS-IN JOY SERVICES
 2401:e920:c00c::,2401:e920:c00c:ffff:ffff:ffff:ffff:ffff,152565,JOYSVC-AS-IN JOY SERVICES
 2401:e920:fe00::,2401:e920:feff:ffff:ffff:ffff:ffff:ffff,153522,JDS-AS-AP Joy Data Services
 2401:e920:fffa::,2401:e920:fffc:ffff:ffff:ffff:ffff:ffff,152565,JOYSVC-AS-IN JOY SERVICES
@@ -17462,7 +17459,7 @@
 2402:3a80:c094::,2402:3a80:c095:ffff:ffff:ffff:ffff:ffff,38266,VIL-AS-AP Vodafone Idea Ltd
 2402:3b00::,2402:3b00:ffff:ffff:ffff:ffff:ffff:ffff,38648,"F-REGI F-REGI Co.,Ltd."
 2402:3b60::,2402:3b60::ffff:ffff:ffff:ffff:ffff,142618,GWIS-AS-AP GH Telecom
-2402:3b60:30::,2402:3b60:39:ffff:ffff:ffff:ffff:ffff,142618,GWIS-AS-AP GH Telecom
+2402:3b60:31::,2402:3b60:39:ffff:ffff:ffff:ffff:ffff,142618,GWIS-AS-AP GH Telecom
 2402:3b60:2380::,2402:3b60:2380:ffff:ffff:ffff:ffff:ffff,138926,NICPL-AS-AP Netpoint IT & Communications Pvt. Ltd
 2402:3b80::,2402:3b80:ffff:ffff:ffff:ffff:ffff:ffff,134128,MEGASPEEDNET-AS Mega Speed Net
 2402:3bc0::,2402:3bc0:ffff:ffff:ffff:ffff:ffff:ffff,137225,RENAULT-AS-AP Renault Nissan Technology & Business Centre India Private Limited
@@ -17511,7 +17508,6 @@
 2402:4600::,2402:4600:ff:ffff:ffff:ffff:ffff:ffff,45186,IAMAGEEKNZ-AP IamaGeekNZ
 2402:4620::,2402:4620:ffff:ffff:ffff:ffff:ffff:ffff,152605,ZCOMNETWORKS-AS-AP Z COM NETWORKS
 2402:4700::,2402:4700:ffff:ffff:ffff:ffff:ffff:ffff,17931,"NETFOREST Netforest,Inc."
-2402:4760::,2402:4760:1f:ffff:ffff:ffff:ffff:ffff,152616,"LEYUN Leyun Digital CO., LTD"
 2402:47c0::,2402:47c0:ffff:ffff:ffff:ffff:ffff:ffff,137280,KSYUNGLOBAL-AS-AP Kingsoft cloud corporation limited
 2402:4800::,2402:4800:ffff:ffff:ffff:ffff:ffff:ffff,18228,NCSHUB-SG-AP NCS IDC in Singapore
 2402:4840::,2402:4840:ffff:ffff:ffff:ffff:ffff:ffff,137329,ALDM-ID PT. ARTHA LINTAS DATA MANDIRI
@@ -18037,7 +18033,7 @@
 2402:e500:1000::,2402:e500:1fff:ffff:ffff:ffff:ffff:ffff,56057,ENTITYDATA-AU Entity Data Pty Limited
 2402:e500:f000::,2402:e500:f000:ffff:ffff:ffff:ffff:ffff,56057,ENTITYDATA-AU Entity Data Pty Limited
 2402:e580:73e9::,2402:e580:73eb:ffff:ffff:ffff:ffff:ffff,40138,MDNET
-2402:e580:73ee::,2402:e580:73f3:ffff:ffff:ffff:ffff:ffff,40138,MDNET
+2402:e580:73ee::,2402:e580:73f2:ffff:ffff:ffff:ffff:ffff,40138,MDNET
 2402:e580:73f6::,2402:e580:73f9:ffff:ffff:ffff:ffff:ffff,40138,MDNET
 2402:e580:744d::,2402:e580:7450:ffff:ffff:ffff:ffff:ffff,40138,MDNET
 2402:e580:7452::,2402:e580:7453:ffff:ffff:ffff:ffff:ffff,40138,MDNET
@@ -18377,7 +18373,7 @@
 2403:5a00::,2403:5a00:ffff:ffff:ffff:ffff:ffff:ffff,23783,"CNA Cable Networks Akita Co.,ltd."
 2403:5a40::,2403:5a40:ff:ffff:ffff:ffff:ffff:ffff,134562,DISCOVERY-INTERNET-AS-AP DISCOVERY INTERNET
 2403:5c80::,2403:5c80::ffff:ffff:ffff:ffff:ffff,23724,"CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation"
-2403:5cc0::,2403:5cc0:ffff:ffff:ffff:ffff:ffff:ffff,134883,WSNS-AS Wsns Pvt. Ltd.
+2403:5cc0::,2403:5cc0:8f:ffff:ffff:ffff:ffff:ffff,134883,WSNS-AS Wsns Pvt. Ltd.
 2403:5f40::,2403:5f40:fff:ffff:ffff:ffff:ffff:ffff,58869,RAY-AS-AP Ray White Real Estate Pty Ltd
 2403:5f40:ca05::,2403:5f40:ca05:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
 2403:6000::,2403:6000:ffff:ffff:ffff:ffff:ffff:ffff,24085,QTSC-AS-VN Quang Trung Software City Development Company
@@ -18474,7 +18470,7 @@
 2403:8300:813f::,2403:8300:813f:ffff:ffff:ffff:ffff:ffff,2516,KDDI KDDI CORPORATION
 2403:8300:a500::,2403:8300:a501:ffff:ffff:ffff:ffff:ffff,136767,BMW-AG-AS-AP BMW AG Bayerische Motoren Werke Aktiengesellschaft
 2403:8300:e002::,2403:8300:e004:ffff:ffff:ffff:ffff:ffff,136767,BMW-AG-AS-AP BMW AG Bayerische Motoren Werke Aktiengesellschaft
-2403:8340::,2403:8340:ffff:ffff:ffff:ffff:ffff:ffff,63896,"TAICOM-NET Taiwan Communications Technology Service Co., Ltd."
+2403:8340::,2403:8340:ffff:ffff:ffff:ffff:ffff:ffff,56850,AKARI-AS
 2403:8400::,2403:8400:2:ffff:ffff:ffff:ffff:ffff,17917,QTLTELECOM-AS-AP Quadrant Televentures Limited
 2403:8400:10::,2403:8400:11:ffff:ffff:ffff:ffff:ffff,17917,QTLTELECOM-AS-AP Quadrant Televentures Limited
 2403:8400:80::,2403:8400:87:ffff:ffff:ffff:ffff:ffff,17917,QTLTELECOM-AS-AP Quadrant Televentures Limited
@@ -18608,6 +18604,7 @@
 2403:ad80:90::,2403:ad80:90:ffff:ffff:ffff:ffff:ffff,135309,GGN1-AP Geekzu Networks
 2403:ad80:94::,2403:ad80:94:ffff:ffff:ffff:ffff:ffff,135309,GGN1-AP Geekzu Networks
 2403:ad80:98::,2403:ad80:a7:ffff:ffff:ffff:ffff:ffff,134835,SNL-HK Starry Network Limited
+2403:ad80:101a::,2403:ad80:101b:ffff:ffff:ffff:ffff:ffff,215084,BINSAR-APIKU-
 2403:ad80:102a::,2403:ad80:102a:ffff:ffff:ffff:ffff:ffff,207338,AS_ZZ Novazy Network
 2403:ad80:3c00::,2403:ad80:3fff:ffff:ffff:ffff:ffff:ffff,134835,SNL-HK Starry Network Limited
 2403:ad80:4c00::,2403:ad80:53ff:ffff:ffff:ffff:ffff:ffff,134835,SNL-HK Starry Network Limited
@@ -18985,7 +18982,7 @@
 2404:3100:1000::,2404:3100:107f:ffff:ffff:ffff:ffff:ffff,45669,MOBILINK-AS-PK PMCL LDI IP TRANSIT
 2404:3100:1400::,2404:3100:147f:ffff:ffff:ffff:ffff:ffff,45669,MOBILINK-AS-PK PMCL LDI IP TRANSIT
 2404:3100:1800::,2404:3100:18ff:ffff:ffff:ffff:ffff:ffff,45669,MOBILINK-AS-PK PMCL LDI IP TRANSIT
-2404:3100:1c00::,2404:3100:1d0f:ffff:ffff:ffff:ffff:ffff,45669,MOBILINK-AS-PK PMCL LDI IP TRANSIT
+2404:3100:1c00::,2404:3100:1dff:ffff:ffff:ffff:ffff:ffff,45669,MOBILINK-AS-PK PMCL LDI IP TRANSIT
 2404:3200::,2404:3200:ffff:ffff:ffff:ffff:ffff:ffff,17509,"STARNET STARNET Co.,Ltd."
 2404:3280::,2404:3280:ffff:ffff:ffff:ffff:ffff:ffff,9287,TIDCC-AS-AP True Internet Data Center Company Limited
 2404:3380::,2404:3380:ffff:ffff:ffff:ffff:ffff:ffff,134707,RCC-AS-AP RoyalCable Flash
@@ -19243,7 +19240,7 @@
 2404:8280::,2404:8280:ffff:ffff:ffff:ffff:ffff:ffff,38719,DREAMSCAPE-AS-AP Dreamscape Networks Limited
 2404:82c0::,2404:82c0:45:ffff:ffff:ffff:ffff:ffff,135377,UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED
 2404:82c0:49::,2404:82c0:49:ffff:ffff:ffff:ffff:ffff,135377,UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED
-2404:8300:5::,2404:8300:5:ffff:ffff:ffff:ffff:ffff,18053,SNET-AS-AP Special Communication Organization
+2404:8300::,2404:8300:ffff:ffff:ffff:ffff:ffff:ffff,18053,SNET-AS-AP Special Communication Organization
 2404:8380::,2404:8380:1fff:ffff:ffff:ffff:ffff:ffff,135158,AS-SOFTNET-HK Softnet Limited
 2404:8500::,2404:8500:ffff:ffff:ffff:ffff:ffff:ffff,55470,CYFUTURE-AS-IN Cyfuture India Pvt. Ltd.
 2404:85c0::,2404:85c0:ffff:ffff:ffff:ffff:ffff:ffff,59110,BPS BPS Inc.
@@ -19445,9 +19442,7 @@
 2404:bf40:8240::,2404:bf40:8240:ffff:ffff:ffff:ffff:ffff,7545,TPG-INTERNET-AP TPG Telecom Limited
 2404:bf40:8241::,2404:bf40:82bf:ffff:ffff:ffff:ffff:ffff,139084,DIGITALIMMORTALITY-AS-AP DIGITAL IMMORTALITY PTY LTD
 2404:bf40:82c0::,2404:bf40:82c0:ffff:ffff:ffff:ffff:ffff,7545,TPG-INTERNET-AP TPG Telecom Limited
-2404:bf40:82c1::,2404:bf40:8301:ffff:ffff:ffff:ffff:ffff,139084,DIGITALIMMORTALITY-AS-AP DIGITAL IMMORTALITY PTY LTD
-2404:bf40:8302::,2404:bf40:8302:ffff:ffff:ffff:ffff:ffff,7545,TPG-INTERNET-AP TPG Telecom Limited
-2404:bf40:8303::,2404:bf40:833f:ffff:ffff:ffff:ffff:ffff,139084,DIGITALIMMORTALITY-AS-AP DIGITAL IMMORTALITY PTY LTD
+2404:bf40:82c1::,2404:bf40:833f:ffff:ffff:ffff:ffff:ffff,139084,DIGITALIMMORTALITY-AS-AP DIGITAL IMMORTALITY PTY LTD
 2404:bf40:8340::,2404:bf40:8340:ffff:ffff:ffff:ffff:ffff,7545,TPG-INTERNET-AP TPG Telecom Limited
 2404:bf40:8341::,2404:bf40:837f:ffff:ffff:ffff:ffff:ffff,139084,DIGITALIMMORTALITY-AS-AP DIGITAL IMMORTALITY PTY LTD
 2404:bf40:8380::,2404:bf40:8381:ffff:ffff:ffff:ffff:ffff,7545,TPG-INTERNET-AP TPG Telecom Limited
@@ -19489,8 +19484,8 @@
 2404:bf40:8782::,2404:bf40:8782:ffff:ffff:ffff:ffff:ffff,7545,TPG-INTERNET-AP TPG Telecom Limited
 2404:bf40:8783::,2404:bf40:87ff:ffff:ffff:ffff:ffff:ffff,139084,DIGITALIMMORTALITY-AS-AP DIGITAL IMMORTALITY PTY LTD
 2404:bf40:8800::,2404:bf40:8800:ffff:ffff:ffff:ffff:ffff,7545,TPG-INTERNET-AP TPG Telecom Limited
-2404:bf40:8801::,2404:bf40:8840:ffff:ffff:ffff:ffff:ffff,139084,DIGITALIMMORTALITY-AS-AP DIGITAL IMMORTALITY PTY LTD
-2404:bf40:8841::,2404:bf40:8843:ffff:ffff:ffff:ffff:ffff,7545,TPG-INTERNET-AP TPG Telecom Limited
+2404:bf40:8801::,2404:bf40:8841:ffff:ffff:ffff:ffff:ffff,139084,DIGITALIMMORTALITY-AS-AP DIGITAL IMMORTALITY PTY LTD
+2404:bf40:8842::,2404:bf40:8843:ffff:ffff:ffff:ffff:ffff,7545,TPG-INTERNET-AP TPG Telecom Limited
 2404:bf40:8844::,2404:bf40:897f:ffff:ffff:ffff:ffff:ffff,139084,DIGITALIMMORTALITY-AS-AP DIGITAL IMMORTALITY PTY LTD
 2404:bf40:8980::,2404:bf40:8980:ffff:ffff:ffff:ffff:ffff,7545,TPG-INTERNET-AP TPG Telecom Limited
 2404:bf40:8981::,2404:bf40:89c1:ffff:ffff:ffff:ffff:ffff,139084,DIGITALIMMORTALITY-AS-AP DIGITAL IMMORTALITY PTY LTD
@@ -20669,7 +20664,10 @@
 2406:840:9970::,2406:840:997f:ffff:ffff:ffff:ffff:ffff,7721,QC-NET Qin Cloud Networks
 2406:840:9980::,2406:840:9980:ffff:ffff:ffff:ffff:ffff,200078,POTAT0-NETWORK - Hurricane Electric -
 2406:840:9ff0::,2406:840:9fff:ffff:ffff:ffff:ffff:ffff,216452,EDVIN-AS
+2406:840:b000::,2406:840:b001:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2406:840:b0ff::,2406:840:b0ff:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
 2406:840:d000::,2406:840:dfff:ffff:ffff:ffff:ffff:ffff,38136,AKARI-NETWORKS-AS-AP Akari Networks
+2406:840:e071::,2406:840:e071:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
 2406:840:e072::,2406:840:e072:ffff:ffff:ffff:ffff:ffff,139317,ZX-AS-AP Ningbo Dahuamao Information Technology Co Ltd
 2406:840:e080::,2406:840:e08f:ffff:ffff:ffff:ffff:ffff,141776,BAOSHUO-AS-AP Baoshuo Network
 2406:840:e0cf::,2406:840:e0cf:ffff:ffff:ffff:ffff:ffff,141429,AGATHA-AS-AP Agatha Network
@@ -21319,6 +21317,7 @@
 2406:bd00:de00::,2406:bd00:de00:ffff:ffff:ffff:ffff:ffff,55651,DBOLICALPTYLTD-AU DBOLICAL PTY LTD
 2406:bd00:de50::,2406:bd00:de50:ffff:ffff:ffff:ffff:ffff,55651,DBOLICALPTYLTD-AU DBOLICAL PTY LTD
 2406:bd00:decd::,2406:bd00:decd:ffff:ffff:ffff:ffff:ffff,55651,DBOLICALPTYLTD-AU DBOLICAL PTY LTD
+2406:be40:5758::,2406:be40:5758:ffff:ffff:ffff:ffff:ffff,138818,IIS-AS-ID Internet Ini Saja
 2406:be40:b15a::,2406:be40:b15a:ffff:ffff:ffff:ffff:ffff,23679,NUSANET-AS-ID PT. Media Antar Nusa
 2406:be40:babe::,2406:be40:babe:ffff:ffff:ffff:ffff:ffff,23679,NUSANET-AS-ID PT. Media Antar Nusa
 2406:be40:cafe::,2406:be40:cafe:ffff:ffff:ffff:ffff:ffff,23679,NUSANET-AS-ID PT. Media Antar Nusa
@@ -37060,7 +37059,9 @@
 2600:1014:9010::,2600:1014:90ff:ffff:ffff:ffff:ffff:ffff,22394,CELLCO
 2600:1014:9100::,2600:1014:910f:ffff:ffff:ffff:ffff:ffff,6167,CELLCO-PART
 2600:1014:9110::,2600:1014:9fff:ffff:ffff:ffff:ffff:ffff,22394,CELLCO
-2600:1014:a000::,2600:1014:a024:ffff:ffff:ffff:ffff:ffff,6167,CELLCO-PART
+2600:1014:a000::,2600:1014:a021:ffff:ffff:ffff:ffff:ffff,6167,CELLCO-PART
+2600:1014:a022::,2600:1014:a022:ffff:ffff:ffff:ffff:ffff,22394,CELLCO
+2600:1014:a023::,2600:1014:a024:ffff:ffff:ffff:ffff:ffff,6167,CELLCO-PART
 2600:1014:a025::,2600:1014:a02f:ffff:ffff:ffff:ffff:ffff,22394,CELLCO
 2600:1014:a030::,2600:1014:a03f:ffff:ffff:ffff:ffff:ffff,6167,CELLCO-PART
 2600:1014:a040::,2600:1014:a0ff:ffff:ffff:ffff:ffff:ffff,22394,CELLCO
@@ -37070,7 +37071,9 @@
 2600:1014:a140::,2600:1014:afff:ffff:ffff:ffff:ffff:ffff,22394,CELLCO
 2600:1014:b000::,2600:1014:b098:ffff:ffff:ffff:ffff:ffff,6167,CELLCO-PART
 2600:1014:b099::,2600:1014:b09f:ffff:ffff:ffff:ffff:ffff,22394,CELLCO
-2600:1014:b0a0::,2600:1014:b0ef:ffff:ffff:ffff:ffff:ffff,6167,CELLCO-PART
+2600:1014:b0a0::,2600:1014:b0b7:ffff:ffff:ffff:ffff:ffff,6167,CELLCO-PART
+2600:1014:b0b8::,2600:1014:b0bf:ffff:ffff:ffff:ffff:ffff,22394,CELLCO
+2600:1014:b0c0::,2600:1014:b0ef:ffff:ffff:ffff:ffff:ffff,6167,CELLCO-PART
 2600:1014:b0f0::,2600:1014:b0ff:ffff:ffff:ffff:ffff:ffff,22394,CELLCO
 2600:1014:b100::,2600:1014:b198:ffff:ffff:ffff:ffff:ffff,6167,CELLCO-PART
 2600:1014:b199::,2600:1014:b19f:ffff:ffff:ffff:ffff:ffff,22394,CELLCO
@@ -38935,6 +38938,7 @@
 2602:f50c:210::,2602:f50c:215:ffff:ffff:ffff:ffff:ffff,60900,SSMIDGETECHNOLOGIES Ssmidge Technologies
 2602:f50c:220::,2602:f50c:221:ffff:ffff:ffff:ffff:ffff,60900,SSMIDGETECHNOLOGIES Ssmidge Technologies
 2602:f50c:230::,2602:f50c:231:ffff:ffff:ffff:ffff:ffff,60900,SSMIDGETECHNOLOGIES Ssmidge Technologies
+2602:f50c:240::,2602:f50c:241:ffff:ffff:ffff:ffff:ffff,60900,SSMIDGETECHNOLOGIES Ssmidge Technologies
 2602:f50c:410::,2602:f50c:411:ffff:ffff:ffff:ffff:ffff,60900,SSMIDGETECHNOLOGIES Ssmidge Technologies
 2602:f50c:610::,2602:f50c:611:ffff:ffff:ffff:ffff:ffff,60900,SSMIDGETECHNOLOGIES Ssmidge Technologies
 2602:f50c:620::,2602:f50c:621:ffff:ffff:ffff:ffff:ffff,60900,SSMIDGETECHNOLOGIES Ssmidge Technologies
@@ -38974,8 +38978,7 @@
 2602:f57d::,2602:f57d:ff:ffff:ffff:ffff:ffff:ffff,47689,PUDU Main public network
 2602:f57f::,2602:f57f:fff:ffff:ffff:ffff:ffff:ffff,401779,AAROBAND
 2602:f585::,2602:f585:ff:ffff:ffff:ffff:ffff:ffff,25618,-Reserved AS-
-2602:f586::,2602:f586:3:ffff:ffff:ffff:ffff:ffff,21939,-Reserved AS-
-2602:f586:4::,2602:f586:7:ffff:ffff:ffff:ffff:ffff,402048,PCCUA-DEWITT-AS
+2602:f586::,2602:f586:7:ffff:ffff:ffff:ffff:ffff,21939,-Reserved AS-
 2602:f586:8::,2602:f586:b:ffff:ffff:ffff:ffff:ffff,402049,PCCUA-STUTTGART-AS
 2602:f586:c::,2602:f586:ff:ffff:ffff:ffff:ffff:ffff,21939,-Reserved AS-
 2602:f587::,2602:f587:fff:ffff:ffff:ffff:ffff:ffff,19790,-Reserved AS-
@@ -39171,7 +39174,6 @@
 2602:f72c::,2602:f72c::ffff:ffff:ffff:ffff:ffff,401604,COLOCATAIRES
 2602:f72d::,2602:f72d:bff:ffff:ffff:ffff:ffff:ffff,401605,WEB-HOST-MOST-ASN-1
 2602:f72e::,2602:f72e:1f:ffff:ffff:ffff:ffff:ffff,11967,HOP179
-2602:f72e:3a::,2602:f72e:3b:ffff:ffff:ffff:ffff:ffff,213293,ARIF-AS-ID Arif Setiawan
 2602:f72e:3f::,2602:f72e:3f:ffff:ffff:ffff:ffff:ffff,133504,"PCLONET-AS-AP PAOCLOUD CO., LTD."
 2602:f72e:179::,2602:f72e:179:ffff:ffff:ffff:ffff:ffff,11967,HOP179
 2602:f732:1::,2602:f732:2:ffff:ffff:ffff:ffff:ffff,8143,CLOUDFLOW
@@ -39371,6 +39373,7 @@
 2602:f83a::,2602:f83a:ff:ffff:ffff:ffff:ffff:ffff,62467,TXNET
 2602:f83b:2::,2602:f83b:2:ffff:ffff:ffff:ffff:ffff,38047,TAIWAN-TELECOM
 2602:f83b:54::,2602:f83b:55:ffff:ffff:ffff:ffff:ffff,38047,TAIWAN-TELECOM
+2602:f83b:ca::,2602:f83b:ca:ffff:ffff:ffff:ffff:ffff,38047,TAIWAN-TELECOM
 2602:f83b:886::,2602:f83b:886:ffff:ffff:ffff:ffff:ffff,38047,TAIWAN-TELECOM
 2602:f83b:1688::,2602:f83b:1688:ffff:ffff:ffff:ffff:ffff,38047,TAIWAN-TELECOM
 2602:f83b:1886::,2602:f83b:1886:ffff:ffff:ffff:ffff:ffff,38047,TAIWAN-TELECOM
@@ -39458,6 +39461,7 @@
 2602:f8b3::,2602:f8b3:ff:ffff:ffff:ffff:ffff:ffff,401143,BYTEBROADBAND
 2602:f8b4::,2602:f8b4:1:ffff:ffff:ffff:ffff:ffff,401082,SPICYTRADE
 2602:f8b7::,2602:f8b7:ff:ffff:ffff:ffff:ffff:ffff,14099,OTTOH
+2602:f8ba::,2602:f8ba:ff:ffff:ffff:ffff:ffff:ffff,401012,LTIS-BB
 2602:f8c0:2::,2602:f8c0:3:ffff:ffff:ffff:ffff:ffff,46829,LAMHOSTING
 2602:f8c0:5::,2602:f8c0:6:ffff:ffff:ffff:ffff:ffff,46829,LAMHOSTING
 2602:f8c0:8::,2602:f8c0:9:ffff:ffff:ffff:ffff:ffff,46829,LAMHOSTING
@@ -39481,6 +39485,7 @@
 2602:f8d5:a6::,2602:f8d5:a6:ffff:ffff:ffff:ffff:ffff,8075,MICROSOFT-CORP-MSN-AS-BLOCK
 2602:f8d5:100::,2602:f8d5:100:ffff:ffff:ffff:ffff:ffff,33151,TRUSTWAVE-ASN
 2602:f8d5:e13::,2602:f8d5:e13:ffff:ffff:ffff:ffff:ffff,33151,TRUSTWAVE-ASN
+2602:f8d6::,2602:f8d6:fff:ffff:ffff:ffff:ffff:ffff,27439,MULTIPLEX-NET
 2602:f8da::,2602:f8da::ffff:ffff:ffff:ffff:ffff,53514,UHQ
 2602:f8e9::,2602:f8e9:ff:ffff:ffff:ffff:ffff:ffff,23532,IOVZ-NETWORKS
 2602:f8ea::,2602:f8ea:ff:ffff:ffff:ffff:ffff:ffff,63025,NOHAVPS
@@ -39530,6 +39535,7 @@
 2602:f922::,2602:f922:1:ffff:ffff:ffff:ffff:ffff,400967,ASSUREDNET-ASN1
 2602:f922:78::,2602:f922:78:ffff:ffff:ffff:ffff:ffff,400967,ASSUREDNET-ASN1
 2602:f922:f4::,2602:f922:f7:ffff:ffff:ffff:ffff:ffff,400967,ASSUREDNET-ASN1
+2602:f922:ff::,2602:f922:ff:ffff:ffff:ffff:ffff:ffff,400967,ASSUREDNET-ASN1
 2602:f923::,2602:f923:fff:ffff:ffff:ffff:ffff:ffff,23352,SERVERCENTRAL
 2602:f925::,2602:f925:ff:ffff:ffff:ffff:ffff:ffff,18909,-Reserved AS-
 2602:f926::,2602:f926:fff:ffff:ffff:ffff:ffff:ffff,21658,CHAMELEON-LABS
@@ -39599,8 +39605,8 @@
 2602:f956:f2::,2602:f956:f2:ffff:ffff:ffff:ffff:ffff,401012,LTIS-BB
 2602:f957:a00::,2602:f957:a00:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
 2602:f959::,2602:f959::ffff:ffff:ffff:ffff:ffff,50236,VERTEXLINK_COMMUNICATIONS
-2602:f959:1::,2602:f959:1:ffff:ffff:ffff:ffff:ffff,398741,AS-VERTEXLINK-01
-2602:f959:2::,2602:f959:ff:ffff:ffff:ffff:ffff:ffff,50236,VERTEXLINK_COMMUNICATIONS
+2602:f959:1::,2602:f959:2:ffff:ffff:ffff:ffff:ffff,398741,AS-VERTEXLINK-01
+2602:f959:3::,2602:f959:ff:ffff:ffff:ffff:ffff:ffff,50236,VERTEXLINK_COMMUNICATIONS
 2602:f95a::,2602:f95a:fff:ffff:ffff:ffff:ffff:ffff,394256,CLOUDSINGULARITY
 2602:f95b:1::,2602:f95b:1:ffff:ffff:ffff:ffff:ffff,31898,ORACLE-BMC-31898
 2602:f95c:ca1::,2602:f95c:ca2:ffff:ffff:ffff:ffff:ffff,33039,UNIFYMEDIA
@@ -39807,7 +39813,7 @@
 2602:fa43::,2602:fa43:2:ffff:ffff:ffff:ffff:ffff,54148,DYNAMIC-QUANTUM-NETWORKS
 2602:fa43:10::,2602:fa43:5f:ffff:ffff:ffff:ffff:ffff,54148,DYNAMIC-QUANTUM-NETWORKS
 2602:fa43:80::,2602:fa43:9b:ffff:ffff:ffff:ffff:ffff,54148,DYNAMIC-QUANTUM-NETWORKS
-2602:fa43:a4::,2602:fa43:af:ffff:ffff:ffff:ffff:ffff,54148,DYNAMIC-QUANTUM-NETWORKS
+2602:fa43:a4::,2602:fa43:b3:ffff:ffff:ffff:ffff:ffff,54148,DYNAMIC-QUANTUM-NETWORKS
 2602:fa43:f0::,2602:fa43:f0:ffff:ffff:ffff:ffff:ffff,200351,DQN-AS-ANYCAST
 2602:fa44::,2602:fa44:ff:ffff:ffff:ffff:ffff:ffff,398820,EA-ASN-01
 2602:fa45::,2602:fa45::ffff:ffff:ffff:ffff:ffff,30671,DATABRIDGE
@@ -40116,7 +40122,7 @@
 2602:fb61::,2602:fb61:ff:ffff:ffff:ffff:ffff:ffff,893,NINJA-IX-FOUNDATION-ASN
 2602:fb62::,2602:fb62:fff:ffff:ffff:ffff:ffff:ffff,886,SBH-IX-SERVICES
 2602:fb64::,2602:fb64:fff:ffff:ffff:ffff:ffff:ffff,397097,IMA-MODERN-AS
-2602:fb65::,2602:fb65::ffff:ffff:ffff:ffff:ffff,14478,RECURSE-CENTER
+2602:fb65::,2602:fb65:1:ffff:ffff:ffff:ffff:ffff,14478,RECURSE-CENTER
 2602:fb67::,2602:fb67:1:ffff:ffff:ffff:ffff:ffff,397244,TACKITT-NETWORKS
 2602:fb68::,2602:fb68:3f:ffff:ffff:ffff:ffff:ffff,207556,SF-SERVERFORGE
 2602:fb68:40::,2602:fb68:bf:ffff:ffff:ffff:ffff:ffff,50842,SERVERFORGE
@@ -40182,7 +40188,8 @@
 2602:fba2:20::,2602:fba2:7f:ffff:ffff:ffff:ffff:ffff,54681,ROSE-AS
 2602:fba2:90::,2602:fba2:9f:ffff:ffff:ffff:ffff:ffff,54681,ROSE-AS
 2602:fba2:100::,2602:fba2:2ff:ffff:ffff:ffff:ffff:ffff,54681,ROSE-AS
-2602:fba2:400::,2602:fba2:6ff:ffff:ffff:ffff:ffff:ffff,54681,ROSE-AS
+2602:fba2:400::,2602:fba2:4ff:ffff:ffff:ffff:ffff:ffff,54681,ROSE-AS
+2602:fba2:600::,2602:fba2:6ff:ffff:ffff:ffff:ffff:ffff,54681,ROSE-AS
 2602:fba3::,2602:fba3:301:ffff:ffff:ffff:ffff:ffff,13627,AMBYRE
 2602:fba3:302::,2602:fba3:302:ffff:ffff:ffff:ffff:ffff,1004,AMBYRE
 2602:fba3:303::,2602:fba3:3ff:ffff:ffff:ffff:ffff:ffff,13627,AMBYRE
@@ -40261,6 +40268,7 @@
 2602:fbef::,2602:fbef::ffff:ffff:ffff:ffff:ffff,32150,BRADFITZ-DANGA
 2602:fbef:47::,2602:fbef:47:ffff:ffff:ffff:ffff:ffff,32150,BRADFITZ-DANGA
 2602:fbef:aa::,2602:fbef:aa:ffff:ffff:ffff:ffff:ffff,32150,BRADFITZ-DANGA
+2602:fbf0::,2602:fbf0:ffff:ffff:ffff:ffff:ffff:ffff,400312,KHITOMER-NETWORKS
 2602:fbf1:a000::,2602:fbf1:bfff:ffff:ffff:ffff:ffff:ffff,38136,AKARI-NETWORKS-AS-AP Akari Networks
 2602:fbf1:c000::,2602:fbf1:cfff:ffff:ffff:ffff:ffff:ffff,983,AKARI-NETWORKS
 2602:fbf5::,2602:fbf5::ffff:ffff:ffff:ffff:ffff,923,HWS
@@ -40914,7 +40922,7 @@
 2602:fed2:731c::,2602:fed2:731c:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
 2602:fed2:731d::,2602:fed2:731d:ffff:ffff:ffff:ffff:ffff,142418,AS142418
 2602:fed2:731f::,2602:fed2:731f:ffff:ffff:ffff:ffff:ffff,213617,ORG-BN162-RIPE
-2602:fed2:7600::,2602:fed2:76ff:ffff:ffff:ffff:ffff:ffff,53356,FREE RANGE CLOUD
+2602:fed2:7400::,2602:fed2:76ff:ffff:ffff:ffff:ffff:ffff,53356,FREE RANGE CLOUD
 2602:fed2:7701::,2602:fed2:7701:ffff:ffff:ffff:ffff:ffff,53356,FREE RANGE CLOUD
 2602:fed2:770a::,2602:fed2:770a:ffff:ffff:ffff:ffff:ffff,25846,US-CLOUDNIUM-01
 2602:fed2:770b::,2602:fed2:770b:ffff:ffff:ffff:ffff:ffff,34924,PANKERL-MEDIA
@@ -40996,7 +41004,7 @@
 2602:feda:d60::,2602:feda:d61:ffff:ffff:ffff:ffff:ffff,212034,sclrnet.com research net
 2602:feda:d63::,2602:feda:d63:ffff:ffff:ffff:ffff:ffff,212034,sclrnet.com research net
 2602:feda:d66::,2602:feda:d67:ffff:ffff:ffff:ffff:ffff,212034,sclrnet.com research net
-2602:feda:d69::,2602:feda:d6a:ffff:ffff:ffff:ffff:ffff,212034,sclrnet.com research net
+2602:feda:d69::,2602:feda:d6c:ffff:ffff:ffff:ffff:ffff,212034,sclrnet.com research net
 2602:feda:d70::,2602:feda:d70:ffff:ffff:ffff:ffff:ffff,138435,YUETAU-AS-HK YuetAu Network
 2602:feda:d83::,2602:feda:d83:ffff:ffff:ffff:ffff:ffff,209645,TRASH-NETWORK
 2602:feda:dd0::,2602:feda:ddf:ffff:ffff:ffff:ffff:ffff,46997,NATOLAB
@@ -41026,45 +41034,37 @@
 2602:fefd:100::,2602:fefd:100:ffff:ffff:ffff:ffff:ffff,402157,PUPPYGIRL-LABS - Puppygirl Labs LLC
 2602:fefd:e20::,2602:fefd:e20:ffff:ffff:ffff:ffff:ffff,402157,PUPPYGIRL-LABS - Puppygirl Labs LLC
 2602:ff01::,2602:ff01::ffff:ffff:ffff:ffff:ffff,396101,NETCLOUD-ASN
-2602:ff03:59::,2602:ff03:59:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:97::,2602:ff03:97:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:b7::,2602:ff03:b7:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:fe::,2602:ff03:fe:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:115::,2602:ff03:115:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
 2602:ff03:14b::,2602:ff03:14b:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:181::,2602:ff03:181:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:227::,2602:ff03:227:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:22a::,2602:ff03:22a:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:244::,2602:ff03:244:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:254::,2602:ff03:254:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:299::,2602:ff03:299:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:2c8::,2602:ff03:2c8:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:385::,2602:ff03:385:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:389::,2602:ff03:389:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:532::,2602:ff03:532:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:538::,2602:ff03:538:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:54f::,2602:ff03:54f:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:579::,2602:ff03:579:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:5df::,2602:ff03:5df:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:6b0::,2602:ff03:6b0:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:6bb::,2602:ff03:6bb:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:723::,2602:ff03:723:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:940::,2602:ff03:940:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:9c0::,2602:ff03:9c0:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:a44::,2602:ff03:a44:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:a5c::,2602:ff03:a5c:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:b0f::,2602:ff03:b0f:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:b55::,2602:ff03:b55:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:bc6::,2602:ff03:bc6:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:bf5::,2602:ff03:bf5:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:c86::,2602:ff03:c86:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:17a::,2602:ff03:17a:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:1a7::,2602:ff03:1a7:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:211::,2602:ff03:211:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:2b0::,2602:ff03:2b0:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:3a9::,2602:ff03:3a9:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:3b9::,2602:ff03:3b9:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:3d4::,2602:ff03:3d4:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:472::,2602:ff03:472:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:4a2::,2602:ff03:4a2:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:5fe::,2602:ff03:5fe:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:680::,2602:ff03:680:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:6bd::,2602:ff03:6bd:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:72b::,2602:ff03:72b:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:8b5::,2602:ff03:8b5:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:a0b::,2602:ff03:a0b:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:a46::,2602:ff03:a46:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:a86::,2602:ff03:a86:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:aad::,2602:ff03:aad:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:bf1::,2602:ff03:bf1:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:cdf::,2602:ff03:cdf:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:d16::,2602:ff03:d16:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
 2602:ff03:d8b::,2602:ff03:d8b:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:db8::,2602:ff03:db8:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:e77::,2602:ff03:e77:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:ede::,2602:ff03:ede:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:ee1::,2602:ff03:ee1:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:ee5::,2602:ff03:ee5:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:f0e::,2602:ff03:f0e:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:f9d::,2602:ff03:f9d:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2602:ff03:fa3::,2602:ff03:fa3:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:e0d::,2602:ff03:e0d:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:e0f::,2602:ff03:e0f:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:e1e::,2602:ff03:e1e:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:e61::,2602:ff03:e61:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:e65::,2602:ff03:e65:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2602:ff03:f0a::,2602:ff03:f0a:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
 2602:ff06:725::,2602:ff06:725:ffff:ffff:ffff:ffff:ffff,6939,HURRICANE
 2602:ff0b::,2602:ff0b:fff:ffff:ffff:ffff:ffff:ffff,11071,IW-ASN-11071
 2602:ff0c::,2602:ff0c:a2:ffff:ffff:ffff:ffff:ffff,6939,HURRICANE
@@ -41318,7 +41318,6 @@
 2603:4:1500::,2603:4:1500:ffff:ffff:ffff:ffff:ffff,44273,GODADDY-DNS
 2603:4:1504::,2603:4:1504:ffff:ffff:ffff:ffff:ffff,44273,GODADDY-DNS
 2603:5:2100::,2603:5:22ff:ffff:ffff:ffff:ffff:ffff,44273,GODADDY-DNS
-2603:5:2f00::,2603:5:2f0f:ffff:ffff:ffff:ffff:ffff,44273,GODADDY-DNS
 2603:1000::,2603:1063:2ff:ffff:ffff:ffff:ffff:ffff,8075,MICROSOFT-CORP-MSN-AS-BLOCK
 2603:1063:300::,2603:1063:3ff:ffff:ffff:ffff:ffff:ffff,8070,MICROSOFT-CORP-MSN-AS-BLOCK
 2603:1063:400::,2603:1063:20ff:ffff:ffff:ffff:ffff:ffff,8075,MICROSOFT-CORP-MSN-AS-BLOCK
@@ -41333,7 +41332,7 @@
 2603:40ff:2000::,2603:40ff:2fff:ffff:ffff:ffff:ffff:ffff,10578,GIGAPOP-NE
 2603:40ff:4000::,2603:40ff:4fff:ffff:ffff:ffff:ffff:ffff,10578,GIGAPOP-NE
 2603:40ff:6000::,2603:40ff:6fff:ffff:ffff:ffff:ffff:ffff,10578,GIGAPOP-NE
-2603:5000:60::,2603:5000:7f:ffff:ffff:ffff:ffff:ffff,36692,CISCO-UMBRELLA
+2603:5000:60::,2603:5000:8f:ffff:ffff:ffff:ffff:ffff,36692,CISCO-UMBRELLA
 2603:5000:3000::,2603:5000:303f:ffff:ffff:ffff:ffff:ffff,36692,CISCO-UMBRELLA
 2603:5000:3050::,2603:5000:3050:ffff:ffff:ffff:ffff:ffff,36692,CISCO-UMBRELLA
 2603:5000:3052::,2603:5000:3053:ffff:ffff:ffff:ffff:ffff,36692,CISCO-UMBRELLA
@@ -42113,7 +42112,7 @@
 2604:2800:ffe8::,2604:2800:ffeb:ffff:ffff:ffff:ffff:ffff,26793,ICS-LLC
 2604:2800:ffed::,2604:2800:ffed:ffff:ffff:ffff:ffff:ffff,26793,ICS-LLC
 2604:2800:ffef::,2604:2800:fff3:ffff:ffff:ffff:ffff:ffff,26793,ICS-LLC
-2604:2800:fff6::,2604:2800:fffb:ffff:ffff:ffff:ffff:ffff,26793,ICS-LLC
+2604:2800:fff7::,2604:2800:fffb:ffff:ffff:ffff:ffff:ffff,26793,ICS-LLC
 2604:2800:fffd::,2604:2800:ffff:ffff:ffff:ffff:ffff:ffff,26793,ICS-LLC
 2604:2820::,2604:2820:ffff:ffff:ffff:ffff:ffff:ffff,43641,SOLLUTIUM-NL
 2604:2880::,2604:2880::ffff:ffff:ffff:ffff:ffff,46562,PERFORMIVE
@@ -42127,6 +42126,7 @@
 2604:2a00::,2604:2a00:ffff:ffff:ffff:ffff:ffff:ffff,23138,FIRST-STEP
 2604:2a40::,2604:2a40:ffff:ffff:ffff:ffff:ffff:ffff,62943,AS62943-BLUEBIRD-NETWORK
 2604:2a80::,2604:2a80:ffff:ffff:ffff:ffff:ffff:ffff,20413,CHS1-20413
+2604:2aa0::,2604:2aa0:ffff:ffff:ffff:ffff:ffff:ffff,10918,-Reserved AS-
 2604:2b40::,2604:2b40:ffff:ffff:ffff:ffff:ffff:ffff,46262,RTASN
 2604:2b80::,2604:2b80:fff:ffff:ffff:ffff:ffff:ffff,54351,COMMUNICATEFREELY
 2604:2bc0::,2604:2bc0:ffff:ffff:ffff:ffff:ffff:ffff,396141,BARC-CONNECTS
@@ -42472,9 +42472,7 @@
 2604:8800::,2604:8800:ffff:ffff:ffff:ffff:ffff:ffff,23028,TEAM-CYMRU
 2604:8880::,2604:8880:ffff:ffff:ffff:ffff:ffff:ffff,8304,ECRITEL-FRANCE ISP and web hosting.
 2604:8900::,2604:8900:ffff:ffff:ffff:ffff:ffff:ffff,35986,VYVE-BROADBAND
-2604:89c0:da01::,2604:89c0:da01:ffff:ffff:ffff:ffff:ffff,35892,DREYFOUS
-2604:89c0:da10::,2604:89c0:da4f:ffff:ffff:ffff:ffff:ffff,35892,DREYFOUS
-2604:89c0:db10::,2604:89c0:db4f:ffff:ffff:ffff:ffff:ffff,35892,DREYFOUS
+2604:89c0:a000::,2604:89c0:bfff:ffff:ffff:ffff:ffff:ffff,35892,DREYFOUS
 2604:8a00::,2604:8a00:ffff:ffff:ffff:ffff:ffff:ffff,7250,SURRY-TELEPHONE-MEMB-CORP
 2604:8b00::,2604:8b00:ffff:ffff:ffff:ffff:ffff:ffff,19554,OPENTEXT-NA-US-1
 2604:8b80::,2604:8b80::ffff:ffff:ffff:ffff:ffff,55106,DATACATE-AS1
@@ -43552,18 +43550,20 @@
 2605:9cc0:3cc::,2605:9cc0:3cc:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
 2605:9cc0:40c::,2605:9cc0:40c:ffff:ffff:ffff:ffff:ffff,8987,AWS-GOVCLOUD AWS-GOVCLOUD
 2605:9cc0:492::,2605:9cc0:493:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
-2605:9cc0:c00::,2605:9cc0:c00:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
+2605:9cc0:c00::,2605:9cc0:c00:ffff:ffff:ffff:ffff:ffff,21664,AMZN-BYOASN
 2605:9cc0:c02::,2605:9cc0:c02:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
 2605:9cc0:c06::,2605:9cc0:c06:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
 2605:9cc0:c08::,2605:9cc0:c08:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
 2605:9cc0:c0a::,2605:9cc0:c0a:ffff:ffff:ffff:ffff:ffff,21664,AMZN-BYOASN
 2605:9cc0:c0b::,2605:9cc0:c0c:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
 2605:9cc0:c10::,2605:9cc0:c10:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
-2605:9cc0:c13::,2605:9cc0:c14:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
+2605:9cc0:c13::,2605:9cc0:c13:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
+2605:9cc0:c14::,2605:9cc0:c14:ffff:ffff:ffff:ffff:ffff,21664,AMZN-BYOASN
 2605:9cc0:c16::,2605:9cc0:c17:ffff:ffff:ffff:ffff:ffff,21664,AMZN-BYOASN
 2605:9cc0:c19::,2605:9cc0:c19:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
-2605:9cc0:c1b::,2605:9cc0:c1b:ffff:ffff:ffff:ffff:ffff,21664,AMZN-BYOASN
-2605:9cc0:c1c::,2605:9cc0:c1d:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
+2605:9cc0:c1b::,2605:9cc0:c1b:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
+2605:9cc0:c1c::,2605:9cc0:c1c:ffff:ffff:ffff:ffff:ffff,21664,AMZN-BYOASN
+2605:9cc0:c1d::,2605:9cc0:c1d:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
 2605:9cc0:c1e::,2605:9cc0:c1e:ffff:ffff:ffff:ffff:ffff,21664,AMZN-BYOASN
 2605:9cc0:f03e::,2605:9cc0:f03e:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
 2605:9d00::,2605:9d00::ff:ffff:ffff:ffff:ffff,53767,ICASTCENTER
@@ -43900,7 +43900,6 @@
 2605:e540::,2605:e540:ffff:ffff:ffff:ffff:ffff:ffff,26935,WHOLESAIL-NOEL-ASN
 2605:e680::,2605:e680:ffff:ffff:ffff:ffff:ffff:ffff,30500,WOLFPAWSERVICES
 2605:e6c0::,2605:e6c0:ffff:ffff:ffff:ffff:ffff:ffff,54270,LS1
-2605:e700:3000::,2605:e700:3fff:ffff:ffff:ffff:ffff:ffff,6914,HCSNET-ASNBLK
 2605:e740::,2605:e740:ff:ffff:ffff:ffff:ffff:ffff,1613,AS1613 - E SHELLS INC
 2605:e740:100::,2605:e740:1ff:ffff:ffff:ffff:ffff:ffff,30058,FDCSERVERS
 2605:e740:400::,2605:e740:5ff:ffff:ffff:ffff:ffff:ffff,1613,AS1613 - E SHELLS INC
@@ -44654,6 +44653,7 @@
 2606:9300::,2606:9300:ffff:ffff:ffff:ffff:ffff:ffff,16904,ARVIG-16904
 2606:9340::,2606:9340:ffff:ffff:ffff:ffff:ffff:ffff,399337,NETCRAWLER-INC
 2606:9380::,2606:9380:ffff:ffff:ffff:ffff:ffff:ffff,30600,AS-CMN
+2606:93c0::,2606:93c0:ffff:ffff:ffff:ffff:ffff:ffff,400220,PEARLCOMMFIBER-01
 2606:9400::,2606:9400:ffff:ffff:ffff:ffff:ffff:ffff,3737,AS-PTD
 2606:9440::,2606:9440:ffff:ffff:ffff:ffff:ffff:ffff,400289,AS-MFWIRELESS
 2606:94c0::,2606:94c0:ffff:ffff:ffff:ffff:ffff:ffff,393684,INFINITYLINK
@@ -44992,8 +44992,7 @@
 2606:f180:7::,2606:f180:7:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
 2606:f180:9::,2606:f180:9:ffff:ffff:ffff:ffff:ffff,28110,NAVEGALO S.A.
 2606:f180:c::,2606:f180:c:ffff:ffff:ffff:ffff:ffff,396356,LATITUDE-SH
-2606:f180:e::,2606:f180:e:ffff:ffff:ffff:ffff:ffff,64286,LOGICWEB
-2606:f180:10::,2606:f180:10:ffff:ffff:ffff:ffff:ffff,64286,LOGICWEB
+2606:f180:e::,2606:f180:10:ffff:ffff:ffff:ffff:ffff,64286,LOGICWEB
 2606:f180:11::,2606:f180:11:ffff:ffff:ffff:ffff:ffff,200113,AS60721
 2606:f181::,2606:f181:ffff:ffff:ffff:ffff:ffff:ffff,137409,GSLNETWORKS-AS-AP GSL Networks Pty LTD
 2606:f182::,2606:f183:ffff:ffff:ffff:ffff:ffff:ffff,64286,LOGICWEB
@@ -45837,7 +45836,7 @@
 2607:db40::,2607:db40:ffff:ffff:ffff:ffff:ffff:ffff,398940,USA-NETWORKING
 2607:dbc0::,2607:dbc0:f:ffff:ffff:ffff:ffff:ffff,14618,AMAZON-AES
 2607:dbc0:10::,2607:dbc0:2f:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
-2607:dbc0:400::,2607:dbc0:40f:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
+2607:dbc0:400::,2607:dbc0:41f:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
 2607:dbc0:800::,2607:dbc0:84f:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
 2607:dbc0:c00::,2607:dbc0:c8f:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
 2607:dbc0:1000::,2607:dbc0:100f:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
@@ -47060,9 +47059,7 @@
 2608:10b:5600::,2608:10b:56ff:ffff:ffff:ffff:ffff:ffff,369,DNIC-ASBLK-00306-00371
 2608:120::,2608:120:1:ffff:ffff:ffff:ffff:ffff,721,DNIC-ASBLK-00721-00726
 2608:120:2::,2608:120:2:ffff:ffff:ffff:ffff:ffff,27046,DNIC-ASBLK-27032-27159
-2608:120:3::,2608:120:3:ffff:ffff:ffff:ffff:ffff,721,DNIC-ASBLK-00721-00726
-2608:120:4::,2608:120:4:ffff:ffff:ffff:ffff:ffff,27046,DNIC-ASBLK-27032-27159
-2608:120:5::,2608:120:b:ffff:ffff:ffff:ffff:ffff,721,DNIC-ASBLK-00721-00726
+2608:120:3::,2608:120:b:ffff:ffff:ffff:ffff:ffff,721,DNIC-ASBLK-00721-00726
 2608:120:c::,2608:120:c:ffff:ffff:ffff:ffff:ffff,5927,DNIC-ASBLK-05800-06055
 2608:120:d::,2608:120:16:ffff:ffff:ffff:ffff:ffff,721,DNIC-ASBLK-00721-00726
 2608:120:17::,2608:120:17:ffff:ffff:ffff:ffff:ffff,367,DNIC-ASBLK-00306-00371
@@ -47081,11 +47078,9 @@
 2608:122:3ff0::,2608:122:3ff0:ffff:ffff:ffff:ffff:ffff,1540,DNIC-ASBLK-01534-01546
 2608:123:1::,2608:123:1:ffff:ffff:ffff:ffff:ffff,27046,DNIC-ASBLK-27032-27159
 2608:123:4::,2608:123:4:ffff:ffff:ffff:ffff:ffff,27046,DNIC-ASBLK-27032-27159
-2608:123:4220::,2608:123:4220:ffff:ffff:ffff:ffff:ffff,367,DNIC-ASBLK-00306-00371
 2608:124:1::,2608:124:1:ffff:ffff:ffff:ffff:ffff,27046,DNIC-ASBLK-27032-27159
 2608:124:4::,2608:124:4:ffff:ffff:ffff:ffff:ffff,27046,DNIC-ASBLK-27032-27159
 2608:124:b70::,2608:124:b70:ffff:ffff:ffff:ffff:ffff,1540,DNIC-ASBLK-01534-01546
-2608:124:4d10::,2608:124:4d10:ffff:ffff:ffff:ffff:ffff,367,DNIC-ASBLK-00306-00371
 2608:125::,2608:125::ffff:ffff:ffff:ffff:ffff,5307,AS5307
 2608:125:4::,2608:125:4:ffff:ffff:ffff:ffff:ffff,27046,DNIC-ASBLK-27032-27159
 2608:125:4ee0::,2608:125:4ee0:ffff:ffff:ffff:ffff:ffff,367,DNIC-ASBLK-00306-00371
@@ -47430,7 +47425,6 @@
 2610:a1:3018::,2610:a1:3018:ffff:ffff:ffff:ffff:ffff,16552,DIGICERT
 2610:a1:301c::,2610:a1:301c:ffff:ffff:ffff:ffff:ffff,16552,DIGICERT
 2610:a1:3020::,2610:a1:3020:ffff:ffff:ffff:ffff:ffff,16552,DIGICERT
-2610:a1:3024::,2610:a1:3024:ffff:ffff:ffff:ffff:ffff,16552,DIGICERT
 2610:a1:3028::,2610:a1:3028:ffff:ffff:ffff:ffff:ffff,16552,DIGICERT
 2610:a1:302c::,2610:a1:302c:ffff:ffff:ffff:ffff:ffff,16552,DIGICERT
 2610:a1:3030::,2610:a1:3030:ffff:ffff:ffff:ffff:ffff,16552,DIGICERT
@@ -47633,7 +47627,7 @@
 2620:0:2b70::,2620::2b7f:ffff:ffff:ffff:ffff:ffff,22847,BOWDOIN
 2620:0:2b80::,2620::2b8f:ffff:ffff:ffff:ffff:ffff,14702,INL-ASN2
 2620:0:2be0::,2620::2be0:ffff:ffff:ffff:ffff:ffff,19106,ANDREWS
-2620:0:2e50::,2620::2e50:ffff:ffff:ffff:ffff:ffff,15088,FNG
+2620:0:2e50::,2620::2e5f:ffff:ffff:ffff:ffff:ffff,15088,FNG
 2620:0:2e61::,2620::2e61:ffff:ffff:ffff:ffff:ffff,29997,VITAL-DNS
 2620:0:2e64::,2620::2e64:ffff:ffff:ffff:ffff:ffff,29997,VITAL-DNS
 2620:0:2ed0::,2620::2ed0:ffff:ffff:ffff:ffff:ffff,26711,ICANN-MDR
@@ -47859,6 +47853,7 @@
 2620:5a:d000::,2620:5a:d000:ffff:ffff:ffff:ffff:ffff,402164,"ROFAEL-ASN-01 - Rofael Aleezada, Sole Proprietorship"
 2620:5c:6000::,2620:5c:6000:ffff:ffff:ffff:ffff:ffff,27623,EDM-PUBLIC-LIBRARY
 2620:5c:a000::,2620:5c:a000:ffff:ffff:ffff:ffff:ffff,397138,JUSTUS-AS
+2620:5c:d000::,2620:5c:d000:ffff:ffff:ffff:ffff:ffff,402194,CANAD139-AS-01 - 14097335 Canada inc
 2620:5e:6000::,2620:5e:6000:ffff:ffff:ffff:ffff:ffff,397190,WSP-DIGITAL
 2620:5e:a000::,2620:5e:a001:ffff:ffff:ffff:ffff:ffff,394855,STRATUS-VIDEO
 2620:5e:e000::,2620:5e:e000:ffff:ffff:ffff:ffff:ffff,396088,SOMNET-AS-01
@@ -47918,7 +47913,7 @@
 2620:74:24::,2620:74:25:ffff:ffff:ffff:ffff:ffff,7342,VERISIGN-AS
 2620:74:2a::,2620:74:2a:ffff:ffff:ffff:ffff:ffff,396563,VRSN-AC50-340
 2620:74:2b::,2620:74:2b:ffff:ffff:ffff:ffff:ffff,25485,VERISIGN-AS
-2620:74:2c::,2620:74:2c:ffff:ffff:ffff:ffff:ffff,36623,HGTLD
+2620:74:2c::,2620:74:2c:ffff:ffff:ffff:ffff:ffff,22547,VGRS-AC20
 2620:74:2f::,2620:74:34:ffff:ffff:ffff:ffff:ffff,7342,VERISIGN-AS
 2620:74:37::,2620:74:4d:ffff:ffff:ffff:ffff:ffff,7342,VERISIGN-AS
 2620:74:4f::,2620:74:55:ffff:ffff:ffff:ffff:ffff,7342,VERISIGN-AS
@@ -48011,6 +48006,7 @@
 2620:8e:2000::,2620:8e:2000:ffff:ffff:ffff:ffff:ffff,397263,TECHLOQ-
 2620:8e:e000::,2620:8e:e000:ffff:ffff:ffff:ffff:ffff,398838,STRAUB-COLLABORATIVE
 2620:8f:4001::,2620:8f:4001:ffff:ffff:ffff:ffff:ffff,293,ESNET
+2620:8f:4020::,2620:8f:402f:ffff:ffff:ffff:ffff:ffff,3424,HFMT
 2620:90:a000::,2620:90:a000:ffff:ffff:ffff:ffff:ffff,398989,DEEPINTENT
 2620:90:a001::,2620:90:a001:ffff:ffff:ffff:ffff:ffff,399183,DEEPINTENT
 2620:90:c000::,2620:90:c000:ffff:ffff:ffff:ffff:ffff,701,UUNET
@@ -48341,7 +48337,6 @@
 2620:107::,2620:107:ff:ffff:ffff:ffff:ffff:ffff,11318,GU
 2620:107:3000::,2620:107:300f:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
 2620:107:4002::,2620:107:4005:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
-2620:107:6000::,2620:107:600f:ffff:ffff:ffff:ffff:ffff,6462,NATGEOGRAPH-AS
 2620:107:9036::,2620:107:9036:ffff:ffff:ffff:ffff:ffff,13767,DATABANK-DFW
 2620:107:9064::,2620:107:9064:ffff:ffff:ffff:ffff:ffff,18747,IFX18747
 2620:107:9098::,2620:107:909a:ffff:ffff:ffff:ffff:ffff,22787,ARRIS
@@ -49051,8 +49046,8 @@
 2620:171:b2::,2620:171:b3:ffff:ffff:ffff:ffff:ffff,715,WOODYNET-2
 2620:171:b4::,2620:171:b6:ffff:ffff:ffff:ffff:ffff,42,WOODYNET-1
 2620:171:b7::,2620:171:b9:ffff:ffff:ffff:ffff:ffff,715,WOODYNET-2
-2620:171:ba::,2620:171:bc:ffff:ffff:ffff:ffff:ffff,42,WOODYNET-1
-2620:171:bd::,2620:171:be:ffff:ffff:ffff:ffff:ffff,715,WOODYNET-2
+2620:171:ba::,2620:171:bd:ffff:ffff:ffff:ffff:ffff,42,WOODYNET-1
+2620:171:be::,2620:171:be:ffff:ffff:ffff:ffff:ffff,715,WOODYNET-2
 2620:171:bf::,2620:171:c0:ffff:ffff:ffff:ffff:ffff,42,WOODYNET-1
 2620:171:c1::,2620:171:c2:ffff:ffff:ffff:ffff:ffff,715,WOODYNET-2
 2620:171:c3::,2620:171:c5:ffff:ffff:ffff:ffff:ffff,42,WOODYNET-1
@@ -49180,7 +49175,7 @@
 2620:1fb::,2620:1fb:fff:ffff:ffff:ffff:ffff:ffff,12061,24HOURFITNESS
 2620:1fc::,2620:1fc:fff:ffff:ffff:ffff:ffff:ffff,55028,KIEWIT-
 2620:1ff::,2620:1ff:fff:ffff:ffff:ffff:ffff:ffff,10497,WORLDBANK
-2631:0:2::,2631::3:ffff:ffff:ffff:ffff:ffff,801,AMAZON-R
+2631:0:2::,2631::4:ffff:ffff:ffff:ffff:ffff,801,AMAZON-R
 2631:0:9::,2631::a:ffff:ffff:ffff:ffff:ffff,801,AMAZON-R
 2631:1:105::,2631:1:105:ffff:ffff:ffff:ffff:ffff,16509,AMAZON-02
 2631:1000::,2631:10ff:ffff:ffff:ffff:ffff:ffff:ffff,239,UTORONTO-AS
@@ -50141,10 +50136,8 @@
 2800:bf0:b42f::,2800:bf0:b43f:ffff:ffff:ffff:ffff:ffff,27947,Telconet S.A
 2800:bf0:b440::,2800:bf0:b441:ffff:ffff:ffff:ffff:ffff,52257,Telconet S.A
 2800:bf0:b442::,2800:bf0:b45f:ffff:ffff:ffff:ffff:ffff,27947,Telconet S.A
-2800:bf0:b460::,2800:bf0:b461:ffff:ffff:ffff:ffff:ffff,52257,Telconet S.A
-2800:bf0:b462::,2800:bf0:b463:ffff:ffff:ffff:ffff:ffff,27947,Telconet S.A
-2800:bf0:b464::,2800:bf0:b464:ffff:ffff:ffff:ffff:ffff,52257,Telconet S.A
-2800:bf0:b465::,2800:bf0:b480:ffff:ffff:ffff:ffff:ffff,27947,Telconet S.A
+2800:bf0:b460::,2800:bf0:b466:ffff:ffff:ffff:ffff:ffff,52257,Telconet S.A
+2800:bf0:b467::,2800:bf0:b480:ffff:ffff:ffff:ffff:ffff,27947,Telconet S.A
 2800:bf0:b481::,2800:bf0:b489:ffff:ffff:ffff:ffff:ffff,52257,Telconet S.A
 2800:bf0:b48a::,2800:bf0:b4a0:ffff:ffff:ffff:ffff:ffff,27947,Telconet S.A
 2800:bf0:b4a1::,2800:bf0:b4a1:ffff:ffff:ffff:ffff:ffff,52257,Telconet S.A
@@ -50246,7 +50239,6 @@
 2801:0:90::,2801::90:ffff:ffff:ffff:ffff:ffff,28109,FUNDACION DEL SUR PARA EL DESARROLLO TECNOLOGICO FUNDASUR
 2801:0:100::,2801::100:ffff:ffff:ffff:ffff:ffff,28039,Universidad EAN
 2801:0:140::,2801::140:ffff:ffff:ffff:ffff:ffff,52314,Universidad Nacional del Noroeste de Buenos Aires UNNOBA
-2801:0:141::,2801::141:ffff:ffff:ffff:ffff:ffff,264683,Universidad Nacional del Noroeste de Buenos Aires UNNOBA
 2801:0:180::,2801::180:ffff:ffff:ffff:ffff:ffff,19429,ETB - Colombia
 2801:0:190::,2801::190:ffff:ffff:ffff:ffff:ffff,264630,Universidad Nacional de Jujuy
 2801:0:1b0::,2801::1bf:ffff:ffff:ffff:ffff:ffff,16701,AGENCIA DE RECAUDACION Y CONTROL ADUANERO ARCA
@@ -50535,6 +50527,7 @@
 2801:80:1ae0::,2801:80:1ae0:ffff:ffff:ffff:ffff:ffff,266365,INTERIP TECNOLOGIA LTDA - EPP
 2801:80:1af0::,2801:80:1af0:ffff:ffff:ffff:ffff:ffff,266373,Justica Federal de Primeiro Grau em Santa Catarina
 2801:80:1b00::,2801:80:1b00:ffff:ffff:ffff:ffff:ffff,266407,ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIAS
+2801:80:1b10::,2801:80:1b10:ffff:ffff:ffff:ffff:ffff,266411,ALAGOAS TRIBUNAL DE CONTAS DO ESTADO DE ALAGOAS
 2801:80:1b80::,2801:80:1b80:ffff:ffff:ffff:ffff:ffff,266461,BETHA SISTEMAS LTDA.
 2801:80:1bb0::,2801:80:1bb0:ffff:ffff:ffff:ffff:ffff,266495,MUNICIPIO DE ARIQUEMES
 2801:80:1bc0::,2801:80:1bc0:ffff:ffff:ffff:ffff:ffff,266511,"INSTITUTO FEDERAL DE EDUC, CIENCIA E TEC DO PIAUI"
@@ -50568,7 +50561,6 @@
 2801:80:2360::,2801:80:2361:ffff:ffff:ffff:ffff:ffff,267310,COMPANHIA NACIONAL DE ABASTECIMENTO
 2801:80:2380::,2801:80:2380:ffff:ffff:ffff:ffff:ffff,267322,SOLINTEL - SOLUCOES INTELIGENTES EM TELECOM
 2801:80:23d0::,2801:80:23d0:ffff:ffff:ffff:ffff:ffff,268203,BANCO AGIBANK S.A
-2801:80:23f0::,2801:80:23f0:ffff:ffff:ffff:ffff:ffff,268293,Tribunal Regional do Trabalho - 11a Regiao
 2801:80:2400::,2801:80:2400:ffff:ffff:ffff:ffff:ffff,268302,SOMPO SEGUROS SA
 2801:80:2410::,2801:80:2410:ffff:ffff:ffff:ffff:ffff,268306,Instituto Federal de Sao Paulo
 2801:80:2460::,2801:80:246f:ffff:ffff:ffff:ffff:ffff,268441,PIAUI TRIBUNAL DE CONTAS DO ESTADO
@@ -50680,7 +50672,6 @@
 2801:c4:1e::,2801:c4:1e:ffff:ffff:ffff:ffff:ffff,265553,INSTITUTO FEDERAL DE TELECOMUNICACIONES
 2801:c4:20::,2801:c4:20:ffff:ffff:ffff:ffff:ffff,7173,"Instituto Nacional de Astrofisica, Optica y Electronica"
 2801:c4:26::,2801:c4:26:ffff:ffff:ffff:ffff:ffff,265584,YAHOO DE MEXICO S.A. DE C.V.
-2801:c4:32::,2801:c4:32:ffff:ffff:ffff:ffff:ffff,270170,"SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES INSTITUTO MEXICANO DEL TRANSPORTE"
 2801:c4:33::,2801:c4:33:ffff:ffff:ffff:ffff:ffff,270177,CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS
 2801:c4:35::,2801:c4:35:ffff:ffff:ffff:ffff:ffff,272365,LOTERIA NACIONAL
 2801:c4:36::,2801:c4:36:ffff:ffff:ffff:ffff:ffff,28563,Instituto Nacional de Salud Publica
@@ -50866,8 +50857,8 @@
 2801:155:81::,2801:155:81:ffff:ffff:ffff:ffff:ffff,64116,PIT PERU S.A.C
 2801:155:82::,2801:155:ff:ffff:ffff:ffff:ffff:ffff,273149,"PUNTO DE TRAFICO DE INTERCAMBIO DE INTERNET GUATEMALA, S.A. PIT GUATEMALA"
 2801:158::,2801:158:fff:ffff:ffff:ffff:ffff:ffff,52336,Autoridad Nacional para la Innovacion Gubernamental
-2801:159::,2801:159:1:ffff:ffff:ffff:ffff:ffff,273829,VISION SATELITAL COMUNICACIONES S.A.S.
-2801:159:2::,2801:159:3:ffff:ffff:ffff:ffff:ffff,262186,TV AZTECA SUCURSAL COLOMBIA
+2801:159::,2801:159::ffff:ffff:ffff:ffff:ffff,273829,VISION SATELITAL COMUNICACIONES S.A.S.
+2801:159:1::,2801:159:3:ffff:ffff:ffff:ffff:ffff,262186,TV AZTECA SUCURSAL COLOMBIA
 2801:159:4::,2801:159:f:ffff:ffff:ffff:ffff:ffff,273829,VISION SATELITAL COMUNICACIONES S.A.S.
 2801:15c::,2801:15c::ffff:ffff:ffff:ffff:ffff,14080,Telmex Colombia S.A.
 2801:15c:2::,2801:15c:2:ffff:ffff:ffff:ffff:ffff,10753,LUMEN-LEGACY-L3-CUSTOMER-SHARED-USE
@@ -50999,7 +50990,9 @@
 2801:1e5:13::,2801:1e5:13:ffff:ffff:ffff:ffff:ffff,19429,ETB - Colombia
 2801:1e5:14::,2801:1e5:15:ffff:ffff:ffff:ffff:ffff,273083,"SECRETARIA DISTRITAL DE CULTURA, RECREACION Y DEPORTE"
 2801:1e5:16::,2801:1e5:16:ffff:ffff:ffff:ffff:ffff,19429,ETB - Colombia
-2801:1e5:17::,2801:1e5:1e:ffff:ffff:ffff:ffff:ffff,273083,"SECRETARIA DISTRITAL DE CULTURA, RECREACION Y DEPORTE"
+2801:1e5:17::,2801:1e5:1a:ffff:ffff:ffff:ffff:ffff,273083,"SECRETARIA DISTRITAL DE CULTURA, RECREACION Y DEPORTE"
+2801:1e5:1b::,2801:1e5:1b:ffff:ffff:ffff:ffff:ffff,19429,ETB - Colombia
+2801:1e5:1c::,2801:1e5:1e:ffff:ffff:ffff:ffff:ffff,273083,"SECRETARIA DISTRITAL DE CULTURA, RECREACION Y DEPORTE"
 2801:1e5:1f::,2801:1e5:1f:ffff:ffff:ffff:ffff:ffff,19429,ETB - Colombia
 2801:1e5:20::,2801:1e5:27:ffff:ffff:ffff:ffff:ffff,273083,"SECRETARIA DISTRITAL DE CULTURA, RECREACION Y DEPORTE"
 2801:1e5:28::,2801:1e5:2b:ffff:ffff:ffff:ffff:ffff,19429,ETB - Colombia
@@ -51067,7 +51060,8 @@
 2803:440::,2803:440:ffff:ffff:ffff:ffff:ffff:ffff,263774,MARANDU COMUNICACIONES SOCIEDAD DEL ESTADO
 2803:450:100::,2803:450:dff:ffff:ffff:ffff:ffff:ffff,273123,CRAMCOMNET CIA.LTDA.
 2803:450:1200::,2803:450:12ff:ffff:ffff:ffff:ffff:ffff,273123,CRAMCOMNET CIA.LTDA.
-2803:450:1400::,2803:450:19ff:ffff:ffff:ffff:ffff:ffff,273123,CRAMCOMNET CIA.LTDA.
+2803:450:1400::,2803:450:15ff:ffff:ffff:ffff:ffff:ffff,273123,CRAMCOMNET CIA.LTDA.
+2803:450:1700::,2803:450:19ff:ffff:ffff:ffff:ffff:ffff,273123,CRAMCOMNET CIA.LTDA.
 2803:480:1::,2803:480:9:ffff:ffff:ffff:ffff:ffff,52458,WISP INTERNET ECUADOR
 2803:480:10::,2803:480:15:ffff:ffff:ffff:ffff:ffff,52458,WISP INTERNET ECUADOR
 2803:480:17::,2803:480:19:ffff:ffff:ffff:ffff:ffff,52458,WISP INTERNET ECUADOR
@@ -51110,7 +51104,7 @@
 2803:900:ff0::,2803:900:ff0:ffff:ffff:ffff:ffff:ffff,52279,ETERNET S.R.L.
 2803:900:1ff0::,2803:900:1ff0:ffff:ffff:ffff:ffff:ffff,52279,ETERNET S.R.L.
 2803:910::,2803:910:ffff:ffff:ffff:ffff:ffff:ffff,272009,INVERSIONES NUEVOS HORIZONTES S.A DE C.V
-2803:960:e000::,2803:960:efff:ffff:ffff:ffff:ffff:ffff,269735,KALU DE COLOMBIA SAS
+2803:960::,2803:960:ffff:ffff:ffff:ffff:ffff:ffff,269735,KALU DE COLOMBIA SAS
 2803:980::,2803:980:ffff:ffff:ffff:ffff:ffff:ffff,263248,GCI SERVICE PROVIDER S.A.
 2803:990::,2803:990:ffff:ffff:ffff:ffff:ffff:ffff,272942,GLOBAL RAICES S.A.S
 2803:9c0::,2803:9c0:fb:ffff:ffff:ffff:ffff:ffff,207036,AANETWORKS Ariel Antigua Networks aaNetworks
@@ -51644,7 +51638,6 @@
 2803:53e0:1003::,2803:53e0:1003:ffff:ffff:ffff:ffff:ffff,52468,UFINET PANAMA S.A.
 2803:53e0:1005::,2803:53e0:1005:ffff:ffff:ffff:ffff:ffff,52468,UFINET PANAMA S.A.
 2803:53e0:2000::,2803:53e0:2fff:ffff:ffff:ffff:ffff:ffff,272139,@ DIGITAL GROUP S.A.S.
-2803:53e0:3100::,2803:53e0:31ff:ffff:ffff:ffff:ffff:ffff,272139,@ DIGITAL GROUP S.A.S.
 2803:53e0:a000::,2803:53e0:a000:ffff:ffff:ffff:ffff:ffff,272139,@ DIGITAL GROUP S.A.S.
 2803:5440::,2803:5440::ffff:ffff:ffff:ffff:ffff,264738,Sebastian Souto SSSERVICIOS
 2803:5440:ca::,2803:5440:ca:ffff:ffff:ffff:ffff:ffff,264738,Sebastian Souto SSSERVICIOS
@@ -51660,10 +51653,11 @@
 2803:5440:cace::,2803:5440:cace:ffff:ffff:ffff:ffff:ffff,264738,Sebastian Souto SSSERVICIOS
 2803:5440:face::,2803:5440:face:ffff:ffff:ffff:ffff:ffff,264738,Sebastian Souto SSSERVICIOS
 2803:5440:ffff::,2803:5440:ffff:ffff:ffff:ffff:ffff:ffff,264738,Sebastian Souto SSSERVICIOS
+2803:5450:40::,2803:5450:7f:ffff:ffff:ffff:ffff:ffff,273134,HOLA TELECOMUNICACINES COLOMBIA S.A.S
 2803:5450:100::,2803:5450:13f:ffff:ffff:ffff:ffff:ffff,273134,HOLA TELECOMUNICACINES COLOMBIA S.A.S
 2803:5450:1c0::,2803:5450:1ff:ffff:ffff:ffff:ffff:ffff,273134,HOLA TELECOMUNICACINES COLOMBIA S.A.S
 2803:5450:480::,2803:5450:4bf:ffff:ffff:ffff:ffff:ffff,273134,HOLA TELECOMUNICACINES COLOMBIA S.A.S
-2803:5450:600::,2803:5450:63f:ffff:ffff:ffff:ffff:ffff,273134,HOLA TELECOMUNICACINES COLOMBIA S.A.S
+2803:5450:500::,2803:5450:63f:ffff:ffff:ffff:ffff:ffff,273134,HOLA TELECOMUNICACINES COLOMBIA S.A.S
 2803:5450:700::,2803:5450:73f:ffff:ffff:ffff:ffff:ffff,273134,HOLA TELECOMUNICACINES COLOMBIA S.A.S
 2803:5460::,2803:5460:ffff:ffff:ffff:ffff:ffff:ffff,267798,GENERACION WI-FI SA
 2803:5480::,2803:5480:ffff:ffff:ffff:ffff:ffff:ffff,28038,SAN LUIS CTV S.A.
@@ -51705,7 +51699,6 @@
 2803:5a90:8000::,2803:5a90:80ff:ffff:ffff:ffff:ffff:ffff,272883,BRITEL S.A.
 2803:5a90:8f00::,2803:5a90:8fff:ffff:ffff:ffff:ffff:ffff,272883,BRITEL S.A.
 2803:5ac0::,2803:5ac0:ffff:ffff:ffff:ffff:ffff:ffff,265633,Comunicaciones Galup C.A
-2803:5ad0::,2803:5ad0:1:ffff:ffff:ffff:ffff:ffff,274079,ANTARES WIFI SOCIEDAD ANONIMA
 2803:5b10::,2803:5b10:ffff:ffff:ffff:ffff:ffff:ffff,272083,"REYNOSO, S.R.L."
 2803:5b20:2000::,2803:5b20:5fff:ffff:ffff:ffff:ffff:ffff,27735,"TIVIT CHILE TERCERIZACION DE PROCESOS, SERVICIOS Y TECNOLOGIA SpA"
 2803:5b40::,2803:5b40:ffff:ffff:ffff:ffff:ffff:ffff,264716,Red Television SRL
@@ -51738,7 +51731,6 @@
 2803:5ce0:100::,2803:5ce0:1ff:ffff:ffff:ffff:ffff:ffff,270066,ASOCIACION DE LOS TESTIGOS DE JEHOVA
 2803:5ce0:400::,2803:5ce0:4ff:ffff:ffff:ffff:ffff:ffff,54235,WTBTSC-AS
 2803:5ce0:500::,2803:5ce0:5ff:ffff:ffff:ffff:ffff:ffff,271809,IGLESIA CRISTIANA DE LOS TESTIGOS DE JEHOVA
-2803:5ce0:600::,2803:5ce0:6ff:ffff:ffff:ffff:ffff:ffff,54235,WTBTSC-AS
 2803:5ce0:700::,2803:5ce0:7ff:ffff:ffff:ffff:ffff:ffff,27887,WIND Telecom S.A.
 2803:5ce0:a00::,2803:5ce0:aff:ffff:ffff:ffff:ffff:ffff,10753,LUMEN-LEGACY-L3-CUSTOMER-SHARED-USE
 2803:5ce0:b00::,2803:5ce0:bff:ffff:ffff:ffff:ffff:ffff,272799,ASOCIACION DE LOS TESTIGOS DE JEHOVA
@@ -52081,7 +52073,6 @@
 2803:8590:1::,2803:8590:1:ffff:ffff:ffff:ffff:ffff,3549,LVLT-3549
 2803:8590:2::,2803:8590:a:ffff:ffff:ffff:ffff:ffff,272966,VELOCITY-COORPORATION S.A.S.
 2803:8590:b::,2803:8590:ffff:ffff:ffff:ffff:ffff:ffff,3549,LVLT-3549
-2803:85d0::,2803:85d0:ffff:ffff:ffff:ffff:ffff:ffff,274166,GONZALEZ GAMARRA ARLIS JAVIER SOLUCIONES MAX
 2803:85e0::,2803:85e0:ffff:ffff:ffff:ffff:ffff:ffff,270031,TELENET DIGITAL S.A.S
 2803:8600::,2803:8600:ffff:ffff:ffff:ffff:ffff:ffff,27759,ACCESS HAITI S.A.
 2803:8610::,2803:8610:ffff:ffff:ffff:ffff:ffff:ffff,271938,Gavarrete Guadamuz y Compania Limitada
@@ -52388,7 +52379,6 @@
 2803:b1a0::,2803:b1a0:ffff:ffff:ffff:ffff:ffff:ffff,267704,SAMISTRARO BAMBERG DANGELO DANIEL
 2803:b1e0::,2803:b1e0:ffff:ffff:ffff:ffff:ffff:ffff,270003,CALLTOPBX S.A.S. VIVERCOM
 2803:b210::,2803:b210:ffff:ffff:ffff:ffff:ffff:ffff,271914,SEMPRINI EMILIANO EFREN
-2803:b220::,2803:b220:ffff:ffff:ffff:ffff:ffff:ffff,265844,ORBITH S.A
 2803:b290::,2803:b290:ffff:ffff:ffff:ffff:ffff:ffff,272868,SEQURE NETWORKS SRL
 2803:b2a0::,2803:b2a0:2:ffff:ffff:ffff:ffff:ffff,266860,CONEXION DIGITAL EXPRESS S.A.S.
 2803:b2a0:4::,2803:b2a0:f:ffff:ffff:ffff:ffff:ffff,266860,CONEXION DIGITAL EXPRESS S.A.S.
@@ -52461,7 +52451,7 @@
 2803:bb60::,2803:bb60:ffff:ffff:ffff:ffff:ffff:ffff,269813,COOP DE ELECTRICIDAD OBRAS Y SERVICIOS PUB LTDA DE CORONEL MOLDES
 2803:bb80::,2803:bb80:ffff:ffff:ffff:ffff:ffff:ffff,263701,"RGO SOMOS CABLE, C.A."
 2803:bbe0::,2803:bbe0:7ff:ffff:ffff:ffff:ffff:ffff,270088,GUAJIRANET ISP S.A.S.
-2803:bbe0:1b00::,2803:bbe0:1b00:ffff:ffff:ffff:ffff:ffff,270088,GUAJIRANET ISP S.A.S.
+2803:bbe0:1b00::,2803:bbe0:1bff:ffff:ffff:ffff:ffff:ffff,270088,GUAJIRANET ISP S.A.S.
 2803:bc00::,2803:bc00:ffff:ffff:ffff:ffff:ffff:ffff,52438,PLANISYS S.A.
 2803:bc40::,2803:bc40:ffff:ffff:ffff:ffff:ffff:ffff,52468,UFINET PANAMA S.A.
 2803:bc60::,2803:bc60:ffff:ffff:ffff:ffff:ffff:ffff,264773,GOZFLY S.A.
@@ -52739,7 +52729,6 @@
 2803:d680:a000::,2803:d680:afff:ffff:ffff:ffff:ffff:ffff,263224,EMPRESA DE TELECOMUNICACIONES MULTIMEDIA ALFA
 2803:d6c0:2::,2803:d6c0:2:ffff:ffff:ffff:ffff:ffff,265698,Internet Activo S.A.
 2803:d6c0:6::,2803:d6c0:6:ffff:ffff:ffff:ffff:ffff,265698,Internet Activo S.A.
-2803:d6c0:9::,2803:d6c0:9:ffff:ffff:ffff:ffff:ffff,265698,Internet Activo S.A.
 2803:d6d0::,2803:d6d0:ffff:ffff:ffff:ffff:ffff:ffff,274099,VALLENET SPA
 2803:d700::,2803:d700:ffff:ffff:ffff:ffff:ffff:ffff,61461,Airtek Solutions C.A.
 2803:d710::,2803:d710:ffff:ffff:ffff:ffff:ffff:ffff,272106,CORPORACION TARAZONA CATV S.A.C.
@@ -52756,7 +52745,6 @@
 2803:d760:ba00::,2803:d760:bdff:ffff:ffff:ffff:ffff:ffff,263703,VIGINET C.A
 2803:d760:c000::,2803:d760:ffff:ffff:ffff:ffff:ffff:ffff,263703,VIGINET C.A
 2803:d830::,2803:d830:ffff:ffff:ffff:ffff:ffff:ffff,274294,CABLE VISION MAGES S.A.C.
-2803:d850::,2803:d850:ffff:ffff:ffff:ffff:ffff:ffff,273118,WAYRA NETWORK S.A.C.
 2803:d880::,2803:d880:ffff:ffff:ffff:ffff:ffff:ffff,27908,Tracity Inc.
 2803:d890::,2803:d890:ffff:ffff:ffff:ffff:ffff:ffff,272808,FRANCO MENENDEZ RICARDO JAVIER
 2803:d8a0::,2803:d8a0:ffff:ffff:ffff:ffff:ffff:ffff,266812,CONEXIONTOTAL S.A.
@@ -53030,7 +53018,6 @@
 2803:fe00::,2803:fe00:ffff:ffff:ffff:ffff:ffff:ffff,27650,EMTEL S.A. E.S.P.
 2803:fe10::,2803:fe10:ffff:ffff:ffff:ffff:ffff:ffff,271982,"TELEVISION, PUNTO I COMUNICACIONES, S.R.L."
 2803:fe50::,2803:fe50:ffff:ffff:ffff:ffff:ffff:ffff,273235,Hardnet SRL
-2803:fed0::,2803:fed0:ffff:ffff:ffff:ffff:ffff:ffff,274125,Speednet S. de R. L. de C. V.
 2803:ff20::,2803:ff20:ffff:ffff:ffff:ffff:ffff:ffff,266816,SIMECT GROUP REDES E INTERNET S.A.S
 2803:ff40::,2803:ff40:ffff:ffff:ffff:ffff:ffff:ffff,263799,CARIBBEAN COMMUNICATION SERVICES
 2803:ff50:100::,2803:ff50:3ff:ffff:ffff:ffff:ffff:ffff,273959,GUECAM TECNOLOGIA Y SERVICIOS E.I.R.L.
@@ -53421,7 +53408,8 @@
 2804:2fc::,2804:2fc:ffff:ffff:ffff:ffff:ffff:ffff,53238,Chapeco Tecnologia em Telecomunicacoes Ltda.
 2804:300:2001::,2804:300:2001:ffff:ffff:ffff:ffff:ffff,53237,TELECOMUNICACOES BRASILEIRAS S. A. - TELEBRAS
 2804:300:c000::,2804:300:ffff:ffff:ffff:ffff:ffff:ffff,53237,TELECOMUNICACOES BRASILEIRAS S. A. - TELEBRAS
-2804:301:4000::,2804:301:bfff:ffff:ffff:ffff:ffff:ffff,53237,TELECOMUNICACOES BRASILEIRAS S. A. - TELEBRAS
+2804:301:4000::,2804:301:5fff:ffff:ffff:ffff:ffff:ffff,53237,TELECOMUNICACOES BRASILEIRAS S. A. - TELEBRAS
+2804:301:8000::,2804:301:bfff:ffff:ffff:ffff:ffff:ffff,53237,TELECOMUNICACOES BRASILEIRAS S. A. - TELEBRAS
 2804:302:4000::,2804:302:5fff:ffff:ffff:ffff:ffff:ffff,53237,TELECOMUNICACOES BRASILEIRAS S. A. - TELEBRAS
 2804:30c::,2804:30c:ffff:ffff:ffff:ffff:ffff:ffff,28343,UNIFIQUE TELECOMUNICACOES SA
 2804:310::,2804:310:ffff:ffff:ffff:ffff:ffff:ffff,262688,MHNET TELECOM
@@ -54500,7 +54488,7 @@
 2804:1618:8000::,2804:1618:ffff:ffff:ffff:ffff:ffff:ffff,263267,VIUNET PROVIMENTO DE ACESSO A INTERNET LTDA - ME
 2804:161c:30::,2804:161c:37:ffff:ffff:ffff:ffff:ffff,263268,VITORINO NET LTDA
 2804:161c:40::,2804:161c:7f:ffff:ffff:ffff:ffff:ffff,263268,VITORINO NET LTDA
-2804:161c:f20::,2804:161c:f2f:ffff:ffff:ffff:ffff:ffff,263268,VITORINO NET LTDA
+2804:161c:f00::,2804:161c:f3f:ffff:ffff:ffff:ffff:ffff,263268,VITORINO NET LTDA
 2804:161c:fc00::,2804:161c:fc00:ffff:ffff:ffff:ffff:ffff,263268,VITORINO NET LTDA
 2804:1620::,2804:1620:ffff:ffff:ffff:ffff:ffff:ffff,263269,RAGTEK TECNOLOGIA
 2804:1624::,2804:1624:ffff:ffff:ffff:ffff:ffff:ffff,263270,CONECTA FIBRA LTDA
@@ -54781,7 +54769,8 @@
 2804:1b5c::,2804:1b5c:ffff:ffff:ffff:ffff:ffff:ffff,28334,PROCESS SOLUTIONS TECNOLOGIA DA INFORMACAO LTDA
 2804:1b60::,2804:1b60:ffff:ffff:ffff:ffff:ffff:ffff,61724,VICOSANET TELECOM
 2804:1b64::,2804:1b64:ffff:ffff:ffff:ffff:ffff:ffff,61725,AZEVEDO PROVEDOR DE INTERNET LTDA
-2804:1b68::,2804:1b68:ffff:ffff:ffff:ffff:ffff:ffff,61726,Orixinet Telecom Ltda - Epp
+2804:1b68::,2804:1b68:7fff:ffff:ffff:ffff:ffff:ffff,61726,Orixinet Telecom Ltda - Epp
+2804:1b68:c000::,2804:1b68:ffff:ffff:ffff:ffff:ffff:ffff,61726,Orixinet Telecom Ltda - Epp
 2804:1b6c::,2804:1b6c:ffff:ffff:ffff:ffff:ffff:ffff,61727,SPN Telecom
 2804:1b74::,2804:1b74:ffff:ffff:ffff:ffff:ffff:ffff,61729,CB NET TELECOM LTDA
 2804:1b7c::,2804:1b7c:ffff:ffff:ffff:ffff:ffff:ffff,61731,Work 349 Internet Provedores ltda - ME
@@ -54888,7 +54877,6 @@
 2804:1dc0::,2804:1dc0:ffff:ffff:ffff:ffff:ffff:ffff,264391,Newnet Telecom Ltda
 2804:1dc4::,2804:1dc4:ffff:ffff:ffff:ffff:ffff:ffff,264392,AOM INFORMATICA LTDA
 2804:1dc8::,2804:1dc8:ffff:ffff:ffff:ffff:ffff:ffff,264393,NetBrasil Telecom LTDA
-2804:1dd0::,2804:1dd0:ffff:ffff:ffff:ffff:ffff:ffff,262332,AGI Informatica Ltda ME
 2804:1dd4::,2804:1dd4:ffff:ffff:ffff:ffff:ffff:ffff,264397,SUPRANET TELECOM INFORMATICA LTDA
 2804:1dd8::,2804:1dd8:ffff:ffff:ffff:ffff:ffff:ffff,264398,NEONET SERVICOS DE TELECOMUNICACOES LTDA
 2804:1ddc::,2804:1ddc:ffff:ffff:ffff:ffff:ffff:ffff,263258,INTERLIG TELECOM
@@ -55482,7 +55470,6 @@
 2804:27d8::,2804:27d8:ffff:ffff:ffff:ffff:ffff:ffff,263925,Acem Telecom Ltda
 2804:27dc::,2804:27dc:ffff:ffff:ffff:ffff:ffff:ffff,263926,Colares Provedor e Servicos de Internet LTDA - ME
 2804:27e0::,2804:27e0:ffff:ffff:ffff:ffff:ffff:ffff,262817,CARDOSONET INTERNET E SERVICOS DE INFORMATICA LTDA
-2804:27e4::,2804:27e4:ffff:ffff:ffff:ffff:ffff:ffff,263927,Marcio Morguenroth EPP
 2804:27e8::,2804:27e8:ffff:ffff:ffff:ffff:ffff:ffff,263928,JBMNET TELECOM
 2804:27ec::,2804:27ec:ffff:ffff:ffff:ffff:ffff:ffff,263929,E. S. DAMASCENO EIRELI - ME
 2804:27f0::,2804:27f0:f:ffff:ffff:ffff:ffff:ffff,263930,Mgcom Network Ltda-ME
@@ -56104,7 +56091,7 @@
 2804:340c::,2804:340c:ffff:ffff:ffff:ffff:ffff:ffff,265434,DELTA FIBRA
 2804:3410::,2804:3410:ffff:ffff:ffff:ffff:ffff:ffff,262982,Nardi & Cano Ltda
 2804:3414::,2804:3414:ffff:ffff:ffff:ffff:ffff:ffff,28666,HOSTLOCATION LTDA
-2804:3418:8000::,2804:3418:ffff:ffff:ffff:ffff:ffff:ffff,265435,E.W de Aguiar Lima e Comercio EPP
+2804:3418:8000::,2804:3418:bfff:ffff:ffff:ffff:ffff:ffff,265435,E.W de Aguiar Lima e Comercio EPP
 2804:341c::,2804:341c:ffff:ffff:ffff:ffff:ffff:ffff,265436,SkyNet Telecomunicacoes
 2804:3420::,2804:3420:ffff:ffff:ffff:ffff:ffff:ffff,265437,INTERNET CORPORATE & SOLAR LTDA
 2804:3424::,2804:3424:ffff:ffff:ffff:ffff:ffff:ffff,265438,UP TECNOLOGIA LTDA
@@ -56159,7 +56146,9 @@
 2804:350c::,2804:350c:ffff:ffff:ffff:ffff:ffff:ffff,265497,AltaVista Telecomunicacoes LTDA
 2804:3514::,2804:3514:ffff:ffff:ffff:ffff:ffff:ffff,265499,GS Telecomunicacoes Ltda
 2804:3518::,2804:3518:ffff:ffff:ffff:ffff:ffff:ffff,265500,ALMEIRIM TELECOM LTDA - ME
-2804:351c::,2804:351c:ffff:ffff:ffff:ffff:ffff:ffff,266269,MV TELECOM
+2804:351c::,2804:351c:3dea:ffff:ffff:ffff:ffff:ffff,266269,MV TELECOM
+2804:351c:3deb::,2804:351c:3deb:ffff:ffff:ffff:ffff:ffff,272677,PIX TELECOM PROVEDOR DE INTERNET LTDA
+2804:351c:3dec::,2804:351c:ffff:ffff:ffff:ffff:ffff:ffff,266269,MV TELECOM
 2804:3520:c000::,2804:3520:ffff:ffff:ffff:ffff:ffff:ffff,266270,WBR Telecom
 2804:3524::,2804:3524:ffff:ffff:ffff:ffff:ffff:ffff,266271,INTERAGE TELECOMUNICACOES E INFORMATICA LTDA ME
 2804:3528::,2804:3528:ffff:ffff:ffff:ffff:ffff:ffff,266272,MAGOFY TELECOMUNICACOES LTDA
@@ -56409,7 +56398,7 @@
 2804:39b4::,2804:39b4:ffff:ffff:ffff:ffff:ffff:ffff,266045,Art Compus Servicos de Comunicacao Multimidia Ltd
 2804:39bc::,2804:39bc:ffff:ffff:ffff:ffff:ffff:ffff,266047,Chapnet Servicos de Comunicacao Ltda
 2804:39c0::,2804:39c0:ffff:ffff:ffff:ffff:ffff:ffff,266048,UM TELECOM SOLUCOES EM TECNOLOGIA LTDA
-2804:39cc:310::,2804:39cc:31f:ffff:ffff:ffff:ffff:ffff,266051,BSB TIC SOLUCOES LTDA - EPP
+2804:39cc:310::,2804:39cc:31f:ffff:ffff:ffff:ffff:ffff,28338,Net Botanic Internet Inteligente SA
 2804:39d4::,2804:39d4:ffff:ffff:ffff:ffff:ffff:ffff,266053,Desbravadora Internet e Comunicacao Ltda
 2804:39dc::,2804:39dc:ffff:ffff:ffff:ffff:ffff:ffff,266055,ITANET PONTO COM LTDA
 2804:39ec::,2804:39ec:ffff:ffff:ffff:ffff:ffff:ffff,266059,HOSANNA PROV. DE SERV. DE INTERNET LTDA
@@ -56516,7 +56505,6 @@
 2804:3bfc::,2804:3bfc:1ff:ffff:ffff:ffff:ffff:ffff,52607,Irmaos Giotto Oliveira & Cia.Ltda.
 2804:3bfc:300::,2804:3bfc:4ff:ffff:ffff:ffff:ffff:ffff,52607,Irmaos Giotto Oliveira & Cia.Ltda.
 2804:3bfc:1100::,2804:3bfc:11ff:ffff:ffff:ffff:ffff:ffff,52607,Irmaos Giotto Oliveira & Cia.Ltda.
-2804:3c0c::,2804:3c0c:ffff:ffff:ffff:ffff:ffff:ffff,266187,LUIZ ANTONIO MARTINS RAMOS JUNIOR 38443782862
 2804:3c10::,2804:3c10:ffff:ffff:ffff:ffff:ffff:ffff,266188,A M TELECOM LTDA
 2804:3c18::,2804:3c18:ffff:ffff:ffff:ffff:ffff:ffff,266190,JABOATAONET SERVICOS DE COMUNICACAO MULTIMIDIA LTD
 2804:3c1c::,2804:3c1c:ffff:ffff:ffff:ffff:ffff:ffff,266191,INTERNET SUPER LTDA
@@ -57034,7 +57022,7 @@
 2804:4608::,2804:4608:ffff:ffff:ffff:ffff:ffff:ffff,266964,INFOWAYNET TELECOM
 2804:460c::,2804:460c:ffff:ffff:ffff:ffff:ffff:ffff,266965,FLORIANO TELECOM
 2804:4610::,2804:4610:ffff:ffff:ffff:ffff:ffff:ffff,266966,NAVEX TELECOM
-2804:4614:e000::,2804:4614:ffff:ffff:ffff:ffff:ffff:ffff,266967,Tera Fiber Telecomunicacoes Ltda
+2804:4614::,2804:4614:ffff:ffff:ffff:ffff:ffff:ffff,266967,Tera Fiber Telecomunicacoes Ltda
 2804:4618::,2804:4618:ffff:ffff:ffff:ffff:ffff:ffff,266968,SUANET TELECOMUNICACOES LTDA - ME
 2804:461c::,2804:461c:ffff:ffff:ffff:ffff:ffff:ffff,266969,Shimabukuro & Zanguettin Ltda ME
 2804:4624::,2804:4624:ffff:ffff:ffff:ffff:ffff:ffff,266971,Rede Megas Internet
@@ -58149,6 +58137,7 @@
 2804:5af0::,2804:5af0:ffff:ffff:ffff:ffff:ffff:ffff,268808,EASYNET SOLUCOES TECNOLOGICAS LTDA
 2804:5af4::,2804:5af4:ffff:ffff:ffff:ffff:ffff:ffff,268809,EDILEUZA EVARISTO BARRETO
 2804:5af8::,2804:5af8:ffff:ffff:ffff:ffff:ffff:ffff,268810,BAIANA NET TELECOM LTDA
+2804:5afc:1000::,2804:5afc:1fff:ffff:ffff:ffff:ffff:ffff,268811,GFA Telecomunicacoes LTDA
 2804:5afc:8000::,2804:5afc:ffff:ffff:ffff:ffff:ffff:ffff,268811,GFA Telecomunicacoes LTDA
 2804:5b00:4000::,2804:5b00:bfff:ffff:ffff:ffff:ffff:ffff,268812,BATISTA E SANTOS LTDA
 2804:5b04::,2804:5b04:ffff:ffff:ffff:ffff:ffff:ffff,268813,Freitas Sistema de Comunicacao Internet Eireli-ME
@@ -58466,7 +58455,7 @@
 2804:611c::,2804:611c:ffff:ffff:ffff:ffff:ffff:ffff,269213,UPLINK MAIS FIBRA
 2804:6120::,2804:6120:ffff:ffff:ffff:ffff:ffff:ffff,269214,J V ANDRADE TELECOMUNICACOES EIRELI ME
 2804:6124::,2804:6124:ffff:ffff:ffff:ffff:ffff:ffff,269215,Mega Net Telecom Ltda
-2804:6128::,2804:6128:7fff:ffff:ffff:ffff:ffff:ffff,269217,ATTILA ALMEIDA DE AGUIAR ME
+2804:6128::,2804:6128:ffff:ffff:ffff:ffff:ffff:ffff,269217,ATTILA ALMEIDA DE AGUIAR ME
 2804:612c::,2804:612c:ffff:ffff:ffff:ffff:ffff:ffff,269218,CARLETE DA SILVA CARDOSO
 2804:6130::,2804:6130:ffff:ffff:ffff:ffff:ffff:ffff,269219,HOLLINE INTERNET SERVICE LTDA - ME
 2804:6134::,2804:6134:ffff:ffff:ffff:ffff:ffff:ffff,269220,Vamos Internet Telecom Ltda
@@ -58996,8 +58985,7 @@
 2804:6a8c::,2804:6a8c:ffff:ffff:ffff:ffff:ffff:ffff,270343,MGT COMUNICACAO
 2804:6a90::,2804:6a90:ffff:ffff:ffff:ffff:ffff:ffff,270344,GA Telecom
 2804:6a98::,2804:6a98:ffff:ffff:ffff:ffff:ffff:ffff,270346,FULLNET CE
-2804:6aa0:4000::,2804:6aa0:7fff:ffff:ffff:ffff:ffff:ffff,270349,URANOX TELECOM
-2804:6aa0:c000::,2804:6aa0:ffff:ffff:ffff:ffff:ffff:ffff,270349,URANOX TELECOM
+2804:6aa0:4000::,2804:6aa0:ffff:ffff:ffff:ffff:ffff:ffff,270349,URANOX TELECOM
 2804:6aa4::,2804:6aa4:ffff:ffff:ffff:ffff:ffff:ffff,270350,RDS TECNOLOGIA-ME
 2804:6aa8::,2804:6aa8:ffff:ffff:ffff:ffff:ffff:ffff,270351,MF CONECT
 2804:6aac::,2804:6aac:ffff:ffff:ffff:ffff:ffff:ffff,270352,TELECOMSHOP COMERCIO E SERVICOS DE TELECOMUNICACOE
@@ -59734,7 +59722,6 @@
 2804:7800::,2804:7800:ffff:ffff:ffff:ffff:ffff:ffff,271214,INFORSUPER COMERCIO E SERVICOS EM INFORMATICA LTDA
 2804:7804::,2804:7804:9fff:ffff:ffff:ffff:ffff:ffff,271215,4CJ SERVICOS E TELECOMUNICACOES LTDA
 2804:7808::,2804:7808:ffff:ffff:ffff:ffff:ffff:ffff,271216,FLASHWIFI SOLUCOES EM INFORMATICA
-2804:7810:700::,2804:7810:7ff:ffff:ffff:ffff:ffff:ffff,271218,AL TELECOM - TELECOMUNICACOES LTDA
 2804:7818::,2804:7818:ffff:ffff:ffff:ffff:ffff:ffff,271220,CLICK INTERNET LTDA
 2804:7828::,2804:7828:ffff:ffff:ffff:ffff:ffff:ffff,271224,CONNECT TELECOMUNICACOES FIBRA OPTICA LTDA
 2804:782c::,2804:782c:ffff:ffff:ffff:ffff:ffff:ffff,271225,GAV TELECOM SERVICOS DE TELECOMUNICACAO LTDA - ME
@@ -59992,7 +59979,6 @@
 2804:7c90::,2804:7c90:ffff:ffff:ffff:ffff:ffff:ffff,271504,SYSTEC TELECOM
 2804:7c94::,2804:7c94:ffff:ffff:ffff:ffff:ffff:ffff,271505,CITY NET TELECOM EIRELI
 2804:7ca0::,2804:7ca0:ffff:ffff:ffff:ffff:ffff:ffff,271508,OPIX SERVICOS DE TECNOLOGIA EIRELI
-2804:7ca8::,2804:7ca8:ffff:ffff:ffff:ffff:ffff:ffff,271510,D. L. SPOHR & CIA LTDA
 2804:7cac::,2804:7cac:ffff:ffff:ffff:ffff:ffff:ffff,271511,EMPRESA COCAIENSE DE TELECOMUNICACAO LTDA
 2804:7cb0:3e80::,2804:7cb0:3e8f:ffff:ffff:ffff:ffff:ffff,271512,TRIUNFO SOLUCOES EM CONECTIVIDADE LTDA
 2804:7cb8::,2804:7cb8:ffff:ffff:ffff:ffff:ffff:ffff,271514,WEB ONLINE TELECOMUNICACOES EIRELI ME
@@ -60394,7 +60380,6 @@
 2804:8408::,2804:8408:ffff:ffff:ffff:ffff:ffff:ffff,272235,IMPERIAL INTERNET E TELECOMUNICACOES LTDA
 2804:840c::,2804:840c:ffff:ffff:ffff:ffff:ffff:ffff,272236,SPEED NET SERVICOS DE INTERNET LTDA - ME
 2804:8410::,2804:8410:3ff:ffff:ffff:ffff:ffff:ffff,272237,REDE NORTE TELECOM LTDA
-2804:8410:f400::,2804:8410:f7ff:ffff:ffff:ffff:ffff:ffff,272237,REDE NORTE TELECOM LTDA
 2804:8420::,2804:8420:ffff:ffff:ffff:ffff:ffff:ffff,272241,LIBERT TECNOLOGIA EM TELECOMUNICACOES EIRELI
 2804:8428::,2804:8428:ffff:ffff:ffff:ffff:ffff:ffff,272243,Vpm Servicos de Comunicacao Multimidia
 2804:842c::,2804:842c:ffff:ffff:ffff:ffff:ffff:ffff,272244,Pi Telecom
@@ -61010,6 +60995,7 @@
 2804:8fe4::,2804:8fe4:ffff:ffff:ffff:ffff:ffff:ffff,273519,ZAAP FIBRA TELECOMUNICACOES LTDA
 2804:8fec::,2804:8fec:ffff:ffff:ffff:ffff:ffff:ffff,273522,WPM TELECOM LTDA
 2804:8ff0::,2804:8ff0:ffff:ffff:ffff:ffff:ffff:ffff,273523,SNT SERVICOS DE TELECOMUNICACOES LTDA
+2804:8ff4::,2804:8ff4:ffff:ffff:ffff:ffff:ffff:ffff,273524,JR NET SERVICOS E COMERCIO DE INFORMATICA EIRELI
 2804:8ff8::,2804:8ff8:ffff:ffff:ffff:ffff:ffff:ffff,273525,SMARSUL CONECT FREY LTDA
 2804:8ffc::,2804:8ffc:ffff:ffff:ffff:ffff:ffff:ffff,273526,VILANET TELECOMUNICACOES LTDA
 2804:9008::,2804:9008:ffff:ffff:ffff:ffff:ffff:ffff,273529,VORTEX SERVICOS LTDA
@@ -61020,7 +61006,6 @@
 2804:901c::,2804:901c:ffff:ffff:ffff:ffff:ffff:ffff,273531,MEGA TELECOM PROVEDOR DE INTERNET LTDA - ME
 2804:9020::,2804:9020:ffff:ffff:ffff:ffff:ffff:ffff,273532,NETGEO SOLUCOES EM TECNOLOGIA LTDA
 2804:9024::,2804:9024:ffff:ffff:ffff:ffff:ffff:ffff,273533,FibraRede Gestao e Servicos de Infraestrutura Ltda
-2804:902c::,2804:902c:ffff:ffff:ffff:ffff:ffff:ffff,274592,Caximbo Network Eireli
 2804:9030::,2804:9030:efff:ffff:ffff:ffff:ffff:ffff,273535,SPEEDY FIBER TELECOMUNICACOES LTDA
 2804:9048::,2804:9048:ffff:ffff:ffff:ffff:ffff:ffff,273542,M2NET TELECOMUNICACOES DO NORDESTE LTDA
 2804:9050::,2804:9050:ffff:ffff:ffff:ffff:ffff:ffff,273544,Alex Ferreira dos Santos
@@ -61147,6 +61132,7 @@
 2804:9290::,2804:9290:ffff:ffff:ffff:ffff:ffff:ffff,274719,PRO SYSTEM COMERCIO E TELECOMUNICACOES LTDA
 2804:9298::,2804:9298:ffff:ffff:ffff:ffff:ffff:ffff,274721,M A COSTA MC NET - INTERNET RURAL
 2804:929c::,2804:929c:ffff:ffff:ffff:ffff:ffff:ffff,274722,MEGAFLEX Internet Telecom
+2804:92a0::,2804:92a0:ffff:ffff:ffff:ffff:ffff:ffff,274723,T. CANASSA TELECOM
 2804:92a4::,2804:92a4:ffff:ffff:ffff:ffff:ffff:ffff,274724,ARACATUBA INTERNET LTDA
 2804:92a8::,2804:92a8:ffff:ffff:ffff:ffff:ffff:ffff,274726,Giga Speed Provedor de acessi a internet LTDA
 2804:92ac::,2804:92ac:ffff:ffff:ffff:ffff:ffff:ffff,7365,CENTROIN PROVEDOR DE SERV. INTERNET. LTDA
@@ -61372,12 +61358,12 @@
 2804:9750::,2804:9750:ffff:ffff:ffff:ffff:ffff:ffff,275615,R de Abreu Machado
 2804:9754::,2804:9754:ffff:ffff:ffff:ffff:ffff:ffff,275616,FB TELECOMUNICACOES LTDA
 2804:9758::,2804:9758:ffff:ffff:ffff:ffff:ffff:ffff,275617,Conecta RS Solucoes em TI LTDA
-2804:975c::,2804:975c:ffff:ffff:ffff:ffff:ffff:ffff,275618,VIVIT TELECOMUNICACOES LTDA
 2804:9760::,2804:9760:ffff:ffff:ffff:ffff:ffff:ffff,275619,Apoio Digital Ti
 2804:9764::,2804:9764:ffff:ffff:ffff:ffff:ffff:ffff,275621,CARBON SERVICOS DE INTERNET LTDA
 2804:976c::,2804:976c:ffff:ffff:ffff:ffff:ffff:ffff,275623,E P DE ARAUJO LTDA
 2804:9774::,2804:9774:ffff:ffff:ffff:ffff:ffff:ffff,275625,A M GUERREIRO COMERCIO E SERVICOS DE C M SCM LTDA
 2804:9778::,2804:9778:ffff:ffff:ffff:ffff:ffff:ffff,262754,FLIX TELECOM
+2804:9780::,2804:9780:ffff:ffff:ffff:ffff:ffff:ffff,275627,Jemf Redes de Telecomunicacoes e Informatica LTDA
 2804:9784::,2804:9784:ffff:ffff:ffff:ffff:ffff:ffff,275628,MEGANET TELECOMUNICACOES LTDA
 2804:9788::,2804:9788:ffff:ffff:ffff:ffff:ffff:ffff,275629,STARNET TELECOM E INFORMATICA EIRELI
 2804:9790::,2804:9790:ffff:ffff:ffff:ffff:ffff:ffff,275631,CONEXAO ZN LTDA
@@ -61386,6 +61372,7 @@
 2804:97a8::,2804:97a8:ffff:ffff:ffff:ffff:ffff:ffff,275637,AS275637
 2804:97c4::,2804:97c4:ffff:ffff:ffff:ffff:ffff:ffff,275644,AS275644
 2804:97d0::,2804:97d0:ffff:ffff:ffff:ffff:ffff:ffff,275647,AS275647
+2804:97e4::,2804:97e4:ffff:ffff:ffff:ffff:ffff:ffff,275652,AS275652
 2805:f10:f12::,2805:f10:f14:ffff:ffff:ffff:ffff:ffff,262182,TELEFONICA GLOBAL SOLUTIONS PERU S.A.C.
 2806::,2806:f:ffff:ffff:ffff:ffff:ffff:ffff,6503,"Axtel, S.A.B. de C.V."
 2806:200::,2806:200:ffff:ffff:ffff:ffff:ffff:ffff,7438,PEGASO PCS
@@ -62507,6 +62494,7 @@
 2806:310:431::,2806:310:600:ffff:ffff:ffff:ffff:ffff,270161,"Television Internacional, S.A. de C.V."
 2806:310:610::,2806:310:610:ffff:ffff:ffff:ffff:ffff,28523,"Television Internacional, S.A. de C.V."
 2806:310:800::,2806:310:816:ffff:ffff:ffff:ffff:ffff,16960,"Television Internacional, S.A. de C.V."
+2806:310:8f0::,2806:310:8f0:ffff:ffff:ffff:ffff:ffff,16960,"Television Internacional, S.A. de C.V."
 2806:312::,2806:312:ffff:ffff:ffff:ffff:ffff:ffff,265562,Cosmored Puerto Vallarta S.A. de C.V.
 2806:319::,2806:319:4:ffff:ffff:ffff:ffff:ffff,270158,Wantelco SAS de CV
 2806:319:5::,2806:319:5:ffff:ffff:ffff:ffff:ffff,265587,HULUX TELECOMUNICACIONES
@@ -62801,8 +62789,7 @@
 2806:102e:2a::,2806:102e:2a:ffff:ffff:ffff:ffff:ffff,8151,UNINET
 2806:1030::,2806:1030:1102:ffff:ffff:ffff:ffff:ffff,8151,UNINET
 2806:1030:1103::,2806:1030:1103:ffff:ffff:ffff:ffff:ffff,278,Universidad Nacional Autonoma de Mexico
-2806:1030:1104::,2806:1030:1104:ffff:ffff:ffff:ffff:ffff,270170,"SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES INSTITUTO MEXICANO DEL TRANSPORTE"
-2806:1030:1105::,2806:1030:cefd:ffff:ffff:ffff:ffff:ffff,8151,UNINET
+2806:1030:1104::,2806:1030:cefd:ffff:ffff:ffff:ffff:ffff,8151,UNINET
 2806:1030:cefe::,2806:1030:cefe:ffff:ffff:ffff:ffff:ffff,20940,AKAMAI-ASN1
 2806:1030:ceff::,2806:1030:ffff:ffff:ffff:ffff:ffff:ffff,8151,UNINET
 2806:103e:1::,2806:103e:2:ffff:ffff:ffff:ffff:ffff,8151,UNINET
@@ -64028,6 +64015,7 @@
 2a00:6440::,2a00:6440:ffff:ffff:ffff:ffff:ffff:ffff,12406,BN-AS Belarussian data communication service provider.
 2a00:6480:8748::,2a00:6480:8748:ffff:ffff:ffff:ffff:ffff,29018,TRIVAGO-CAMPUS-AS
 2a00:6500::,2a00:6507:ffff:ffff:ffff:ffff:ffff:ffff,20723,"MGI CZ.MGI autonomous system, Czech Republic"
+2a00:6520::,2a00:6520:ffff:ffff:ffff:ffff:ffff:ffff,48739,IRNET-AS LTD SPUTNIK
 2a00:6580::,2a00:6580:ffff:ffff:ffff:ffff:ffff:ffff,39505,VESTITEL-AS
 2a00:65a0::,2a00:65a0:ffff:ffff:ffff:ffff:ffff:ffff,15930,WIPLINE-AS
 2a00:65e0::,2a00:65e0:ffff:ffff:ffff:ffff:ffff:ffff,198947,RETNRU-SPB-AS
@@ -64189,9 +64177,7 @@
 2a00:79e1:f75::,2a00:79e1:f75:ffff:ffff:ffff:ffff:ffff,395973,GOOGLE-2
 2a00:79e1:f76::,2a00:79e1:f7b:ffff:ffff:ffff:ffff:ffff,36384,GOOGLE-IT
 2a00:79e1:f7c::,2a00:79e1:f7c:ffff:ffff:ffff:ffff:ffff,395973,GOOGLE-2
-2a00:79e1:f7d::,2a00:79e1:f80:ffff:ffff:ffff:ffff:ffff,36384,GOOGLE-IT
-2a00:79e1:f81::,2a00:79e1:f81:ffff:ffff:ffff:ffff:ffff,395973,GOOGLE-2
-2a00:79e1:f82::,2a00:79e1:f88:ffff:ffff:ffff:ffff:ffff,36384,GOOGLE-IT
+2a00:79e1:f7d::,2a00:79e1:f88:ffff:ffff:ffff:ffff:ffff,36384,GOOGLE-IT
 2a00:79e1:f89::,2a00:79e1:f89:ffff:ffff:ffff:ffff:ffff,395973,GOOGLE-2
 2a00:79e1:f8a::,2a00:79e1:f95:ffff:ffff:ffff:ffff:ffff,36384,GOOGLE-IT
 2a00:79e1:f96::,2a00:79e1:f96:ffff:ffff:ffff:ffff:ffff,395973,GOOGLE-2
@@ -64275,6 +64261,7 @@
 2a00:8740:110::,2a00:8740:112:ffff:ffff:ffff:ffff:ffff,60246,PG-19
 2a00:8740:600::,2a00:8740:6ff:ffff:ffff:ffff:ffff:ffff,211282,PG19-VEYDELEVKA
 2a00:8740:700::,2a00:8740:7ff:ffff:ffff:ffff:ffff:ffff,206680,PG19-ROVENKI
+2a00:8740:2100::,2a00:8740:21ff:ffff:ffff:ffff:ffff:ffff,201219,VSD
 2a00:8740:f002::,2a00:8740:f002:ffff:ffff:ffff:ffff:ffff,214729,FREEDOMCOMMUNICATIONS
 2a00:8740:ff00::,2a00:8740:ff00:ffff:ffff:ffff:ffff:ffff,60246,PG-19
 2a00:8780::,2a00:8780:ffff:ffff:ffff:ffff:ffff:ffff,8829,ELMONET-AS
@@ -66090,6 +66077,7 @@
 2a01:a4c0::,2a01:a4c0:fff:ffff:ffff:ffff:ffff:ffff,30937,WALHALLA__AS30937
 2a01:a500::,2a01:a500:ffff:ffff:ffff:ffff:ffff:ffff,42831,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location"
 2a01:a501::,2a01:a501:ffff:ffff:ffff:ffff:ffff:ffff,215322,CONNECTCOV CONNECTCOV NETWORKS RESIDENTIAL & BUSINESS BROADBAND
+2a01:a502::,2a01:a502:ffff:ffff:ffff:ffff:ffff:ffff,42831,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location"
 2a01:a507::,2a01:a507:ffff:ffff:ffff:ffff:ffff:ffff,42831,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location"
 2a01:a520::,2a01:a520:ffff:ffff:ffff:ffff:ffff:ffff,62002,RISSAKRAFTLAG-AS
 2a01:a560::,2a01:a560:ffff:ffff:ffff:ffff:ffff:ffff,12552,IPO-EU
@@ -71447,7 +71435,6 @@
 2a03:2887:ff5f::,2a03:2887:ff60:ffff:ffff:ffff:ffff:ffff,63293,FACEBOOK-OFFNET
 2a03:2887:ff62::,2a03:2887:ff6a:ffff:ffff:ffff:ffff:ffff,63293,FACEBOOK-OFFNET
 2a03:2887:ff70::,2a03:2887:ff71:ffff:ffff:ffff:ffff:ffff,63293,FACEBOOK-OFFNET
-2a03:2887:ff73::,2a03:2887:ff73:ffff:ffff:ffff:ffff:ffff,63293,FACEBOOK-OFFNET
 2a03:28a0::,2a03:28a0:ffff:ffff:ffff:ffff:ffff:ffff,201650,WEBGURU
 2a03:2900::,2a03:2900:ffff:ffff:ffff:ffff:ffff:ffff,48823,AS48823
 2a03:2902::,2a03:2902:ffff:ffff:ffff:ffff:ffff:ffff,31400,ACCELERATED-IT
@@ -73188,6 +73175,7 @@
 2a04:4e40:7300::,2a04:4e40:7300:ffff:ffff:ffff:ffff:ffff,54113,FASTLY
 2a04:4e40:7400::,2a04:4e40:7400:ffff:ffff:ffff:ffff:ffff,54113,FASTLY
 2a04:4e40:7500::,2a04:4e40:7500:ffff:ffff:ffff:ffff:ffff,54113,FASTLY
+2a04:4e40:7600::,2a04:4e40:7600:ffff:ffff:ffff:ffff:ffff,54113,FASTLY
 2a04:4e40:7700::,2a04:4e40:7700:ffff:ffff:ffff:ffff:ffff,54113,FASTLY
 2a04:4e40:7710::,2a04:4e40:7710:ffff:ffff:ffff:ffff:ffff,54113,FASTLY
 2a04:4e40:7720::,2a04:4e40:7720:ffff:ffff:ffff:ffff:ffff,54113,FASTLY
@@ -74146,7 +74134,7 @@
 2a05:3f00::,2a05:3f07:ffff:ffff:ffff:ffff:ffff:ffff,201454,UPHEADS
 2a05:3f40::,2a05:3f47:ffff:ffff:ffff:ffff:ffff:ffff,60781,LEASEWEB-NL-AMS-01 Netherlands
 2a05:4100::,2a05:4107:ffff:ffff:ffff:ffff:ffff:ffff,204272,ASARTA-SPB-AS St.Petersburg
-2a05:4140:3::,2a05:4140:4:ffff:ffff:ffff:ffff:ffff,212271,C1V Internet Service Provider in Italy
+2a05:4140:2::,2a05:4140:4:ffff:ffff:ffff:ffff:ffff,212271,C1V Internet Service Provider in Italy
 2a05:4140:11::,2a05:4140:11:ffff:ffff:ffff:ffff:ffff,212271,C1V Internet Service Provider in Italy
 2a05:4140:19::,2a05:4140:19:ffff:ffff:ffff:ffff:ffff,203363,KUROIT Kuroit Limited
 2a05:4140:20::,2a05:4140:20:ffff:ffff:ffff:ffff:ffff,212271,C1V Internet Service Provider in Italy
@@ -74656,7 +74644,6 @@
 2a05:dfc1:62b0::,2a05:dfc1:62bf:ffff:ffff:ffff:ffff:ffff,197919,NOAHVDAA-AS
 2a05:dfc1:62c9::,2a05:dfc1:62c9:ffff:ffff:ffff:ffff:ffff,197919,NOAHVDAA-AS
 2a05:dfc1:6510::,2a05:dfc1:6510:ffff:ffff:ffff:ffff:ffff,203539,MAXMATI-AS
-2a05:dfc1:7106::,2a05:dfc1:7107:ffff:ffff:ffff:ffff:ffff,209574,HEXNET-AS
 2a05:dfc1:7110::,2a05:dfc1:7110:ffff:ffff:ffff:ffff:ffff,209574,HEXNET-AS
 2a05:dfc1:7200::,2a05:dfc1:7202:ffff:ffff:ffff:ffff:ffff,197532,SELFHOSTABLE-AS
 2a05:dfc1:7801::,2a05:dfc1:7801:ffff:ffff:ffff:ffff:ffff,198057,FLOOYD
@@ -75210,6 +75197,7 @@
 2a06:3707:f000::,2a06:3707:f000:ffff:ffff:ffff:ffff:ffff,57317,SERVERMEILE-AS
 2a06:3840::,2a06:3847:ffff:ffff:ffff:ffff:ffff:ffff,204182,AWV-TELEMATICA
 2a06:3880::,2a06:3887:ffff:ffff:ffff:ffff:ffff:ffff,49981,WORLDSTREAM
+2a06:3900::,2a06:3900:ffff:ffff:ffff:ffff:ffff:ffff,57492,HOST4BIZ-NET
 2a06:3980::,2a06:3987:ffff:ffff:ffff:ffff:ffff:ffff,34694,STWW-AS
 2a06:3a40::,2a06:3a40::ffff:ffff:ffff:ffff:ffff,215795,DAMINET DamiNet
 2a06:3a80::,2a06:3a80:ff:ffff:ffff:ffff:ffff:ffff,16097,HLKOMM 04107 Leipzig
@@ -75472,9 +75460,11 @@
 2a06:9801:4::,2a06:9801:4:ffff:ffff:ffff:ffff:ffff,201489,PTORBITZ
 2a06:9801:6::,2a06:9801:6:ffff:ffff:ffff:ffff:ffff,201741,NETY
 2a06:9801:8::,2a06:9801:8:ffff:ffff:ffff:ffff:ffff,201676,WAGHORN-CAPITAL-CO
+2a06:9801:a::,2a06:9801:a:ffff:ffff:ffff:ffff:ffff,201300,AZV6
 2a06:9801:d::,2a06:9801:d:ffff:ffff:ffff:ffff:ffff,201398,"MADEBYKEIRAN-UK Keiran Chippendale is a sole trader, trading under MBK Network, delivering reliable network, hosting, and internet services."
 2a06:9801:e::,2a06:9801:e:ffff:ffff:ffff:ffff:ffff,201075,FLASHING-LIGHTS
 2a06:9801:11::,2a06:9801:11:ffff:ffff:ffff:ffff:ffff,201423,LUNALIGHT-NETWORK
+2a06:9801:12::,2a06:9801:12:ffff:ffff:ffff:ffff:ffff,215327,MANSORA-NETWORK-LIMITED
 2a06:9801:16::,2a06:9801:16:ffff:ffff:ffff:ffff:ffff,201666,YSSOFT
 2a06:9801:17::,2a06:9801:17:ffff:ffff:ffff:ffff:ffff,201392,COZY-CRITTERS-SOCIETY
 2a06:9801:19::,2a06:9801:19:ffff:ffff:ffff:ffff:ffff,211708,MRTS-TERMINAL
@@ -76048,76 +76038,73 @@
 2a06:de01:400::,2a06:de01:7ff:ffff:ffff:ffff:ffff:ffff,215614,KANADE
 2a06:de02:20::,2a06:de02:23:ffff:ffff:ffff:ffff:ffff,214430,XRONOS
 2a06:de02:411::,2a06:de02:411:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:41b::,2a06:de02:41b:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:42a::,2a06:de02:42a:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:42d::,2a06:de02:42d:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
+2a06:de02:42c::,2a06:de02:42d:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
+2a06:de02:434::,2a06:de02:434:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:436::,2a06:de02:436:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:43f::,2a06:de02:43f:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:443::,2a06:de02:443:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:446::,2a06:de02:446:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:44a::,2a06:de02:44a:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:455::,2a06:de02:455:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
+2a06:de02:45d::,2a06:de02:45d:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:464::,2a06:de02:464:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:468::,2a06:de02:468:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:476::,2a06:de02:476:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:479::,2a06:de02:479:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:482::,2a06:de02:482:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:493::,2a06:de02:495:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:49a::,2a06:de02:49a:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
+2a06:de02:484::,2a06:de02:484:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
+2a06:de02:494::,2a06:de02:495:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:49d::,2a06:de02:49d:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:4a4::,2a06:de02:4a4:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:4a8::,2a06:de02:4a8:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:4aa::,2a06:de02:4aa:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:4c0::,2a06:de02:4c0:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:4c7::,2a06:de02:4c7:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:4d0::,2a06:de02:4d0:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:4d7::,2a06:de02:4d7:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:4dc::,2a06:de02:4dc:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:4de::,2a06:de02:4de:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
+2a06:de02:4e7::,2a06:de02:4e7:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:4f3::,2a06:de02:4f3:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:4f5::,2a06:de02:4f5:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:4f7::,2a06:de02:4f7:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:50a::,2a06:de02:50a:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
+2a06:de02:505::,2a06:de02:505:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:511::,2a06:de02:511:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:51a::,2a06:de02:51a:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:524::,2a06:de02:524:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:52e::,2a06:de02:52e:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:534::,2a06:de02:534:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:536::,2a06:de02:536:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:538::,2a06:de02:538:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:548::,2a06:de02:548:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:553::,2a06:de02:553:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:555::,2a06:de02:555:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:569::,2a06:de02:56a:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
+2a06:de02:56d::,2a06:de02:56d:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:572::,2a06:de02:572:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:574::,2a06:de02:574:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:57f::,2a06:de02:57f:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:587::,2a06:de02:587:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:589::,2a06:de02:589:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:594::,2a06:de02:594:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:59d::,2a06:de02:59d:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
+2a06:de02:595::,2a06:de02:595:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
+2a06:de02:5a0::,2a06:de02:5a0:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:5a4::,2a06:de02:5a4:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:5ab::,2a06:de02:5ab:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
+2a06:de02:5ab::,2a06:de02:5ac:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:5b1::,2a06:de02:5b1:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:5b7::,2a06:de02:5b7:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:5ca::,2a06:de02:5ca:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:5cf::,2a06:de02:5cf:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:5d5::,2a06:de02:5d5:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:5da::,2a06:de02:5da:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:5eb::,2a06:de02:5eb:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
+2a06:de02:5f0::,2a06:de02:5f0:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:5fc::,2a06:de02:5fc:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:60d::,2a06:de02:60d:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:60f::,2a06:de02:60f:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:613::,2a06:de02:613:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
+2a06:de02:61c::,2a06:de02:61c:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:628::,2a06:de02:628:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:62c::,2a06:de02:62d:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:62f::,2a06:de02:62f:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:634::,2a06:de02:634:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:639::,2a06:de02:639:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:63f::,2a06:de02:63f:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
+2a06:de02:643::,2a06:de02:643:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:647::,2a06:de02:647:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
+2a06:de02:654::,2a06:de02:654:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:658::,2a06:de02:658:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:65d::,2a06:de02:65d:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
+2a06:de02:661::,2a06:de02:661:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:676::,2a06:de02:676:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:678::,2a06:de02:678:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:686::,2a06:de02:686:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
@@ -76130,16 +76117,15 @@
 2a06:de02:6cf::,2a06:de02:6cf:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:6e8::,2a06:de02:6e8:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:704::,2a06:de02:704:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a06:de02:70b::,2a06:de02:70b:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:710::,2a06:de02:710:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:712::,2a06:de02:712:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
+2a06:de02:72a::,2a06:de02:72a:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:72c::,2a06:de02:72c:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:731::,2a06:de02:731:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a06:de02:1a01::,2a06:de02:1a01:ffff:ffff:ffff:ffff:ffff,214971,JANN-MIETZNER Jann Mietzner
 2a06:de02:1a02::,2a06:de02:1a02:ffff:ffff:ffff:ffff:ffff,47263,CUBEHOSTING1
 2a06:de04:10::,2a06:de04:10:ffff:ffff:ffff:ffff:ffff,47277,LWLCOM-TEST
 2a06:de04:43::,2a06:de04:44:ffff:ffff:ffff:ffff:ffff,201950,KIEKEMAL
-2a06:de05:6002::,2a06:de05:6002:ffff:ffff:ffff:ffff:ffff,199340,HONG-GUANWAN
 2a06:de05:6011::,2a06:de05:6011:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
 2a06:de05:6028::,2a06:de05:6028:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
 2a06:de05:606d::,2a06:de05:606d:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
@@ -76153,6 +76139,7 @@
 2a06:de05:60f3::,2a06:de05:60f3:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
 2a06:de05:60f5::,2a06:de05:60f5:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
 2a06:de05:60fd::,2a06:de05:60fd:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
+2a06:de05:6108::,2a06:de05:6108:ffff:ffff:ffff:ffff:ffff,199340,HONG-GUANWAN
 2a06:de05:612c::,2a06:de05:612c:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
 2a06:de05:6137::,2a06:de05:6138:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
 2a06:de05:6156::,2a06:de05:6156:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
@@ -76165,6 +76152,7 @@
 2a06:de05:61e2::,2a06:de05:61e2:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
 2a06:de05:61ed::,2a06:de05:61ed:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
 2a06:de05:61f1::,2a06:de05:61f1:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
+2a06:de05:61f2::,2a06:de05:61f2:ffff:ffff:ffff:ffff:ffff,199340,HONG-GUANWAN
 2a06:de05:6244::,2a06:de05:6244:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
 2a06:de05:626a::,2a06:de05:626a:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
 2a06:de05:628f::,2a06:de05:628f:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
@@ -76174,12 +76162,11 @@
 2a06:de05:62da::,2a06:de05:62da:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
 2a06:de05:62ea::,2a06:de05:62ea:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
 2a06:de05:62ef::,2a06:de05:62ef:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
+2a06:de05:632a::,2a06:de05:632a:ffff:ffff:ffff:ffff:ffff,199340,HONG-GUANWAN
 2a06:de05:632d::,2a06:de05:632d:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
 2a06:de05:6348::,2a06:de05:6348:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
-2a06:de05:6364::,2a06:de05:6364:ffff:ffff:ffff:ffff:ffff,199340,HONG-GUANWAN
 2a06:de05:636e::,2a06:de05:636e:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
 2a06:de05:6373::,2a06:de05:6373:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
-2a06:de05:63a9::,2a06:de05:63a9:ffff:ffff:ffff:ffff:ffff,199340,HONG-GUANWAN
 2a06:de05:63d2::,2a06:de05:63d2:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
 2a06:de05:63d6::,2a06:de05:63d6:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
 2a06:de05:63f7::,2a06:de05:63f7:ffff:ffff:ffff:ffff:ffff,53667,PONYNET
@@ -76703,7 +76690,8 @@
 2a07:54c1::,2a07:54c1:fff:ffff:ffff:ffff:ffff:ffff,50224,MYTHICALKITTEN mythicalkitten
 2a07:54c1:2000::,2a07:54c1:20ff:ffff:ffff:ffff:ffff:ffff,215363,WLES Wles
 2a07:54c1:2112::,2a07:54c1:2112:ffff:ffff:ffff:ffff:ffff,215382,STRX
-2a07:54c1:2200::,2a07:54c1:2205:ffff:ffff:ffff:ffff:ffff,216056,VIRTUALIZE-NETWORK
+2a07:54c1:2200::,2a07:54c1:2203:ffff:ffff:ffff:ffff:ffff,216056,VIRTUALIZE-NETWORK
+2a07:54c1:2205::,2a07:54c1:2205:ffff:ffff:ffff:ffff:ffff,216056,VIRTUALIZE-NETWORK
 2a07:54c1:2207::,2a07:54c1:2207:ffff:ffff:ffff:ffff:ffff,216056,VIRTUALIZE-NETWORK
 2a07:54c1:22aa::,2a07:54c1:22aa:ffff:ffff:ffff:ffff:ffff,216056,VIRTUALIZE-NETWORK
 2a07:54c1:3001::,2a07:54c1:3001:ffff:ffff:ffff:ffff:ffff,202262,LRTECHNET
@@ -79041,7 +79029,7 @@
 2a0a:79c0:1000::,2a0a:79c0:100f:ffff:ffff:ffff:ffff:ffff,208226,OUIHEBERG
 2a0a:79c0:1200::,2a0a:79c0:12ff:ffff:ffff:ffff:ffff:ffff,202909,KUEBLER
 2a0a:79c7:f001::,2a0a:79c7:f001:ffff:ffff:ffff:ffff:ffff,214022,VIRTNET
-2a0a:79c7:f100::,2a0a:79c7:f2ff:ffff:ffff:ffff:ffff:ffff,210464,AVSISP AVS ISP EU1
+2a0a:79c7:f200::,2a0a:79c7:f2ff:ffff:ffff:ffff:ffff:ffff,210464,AVSISP AVS ISP EU1
 2a0a:79c7:f300::,2a0a:79c7:f3ff:ffff:ffff:ffff:ffff:ffff,214976,AVSISP AVS ISP
 2a0a:79c7:f400::,2a0a:79c7:f4ff:ffff:ffff:ffff:ffff:ffff,23507,AVSISP
 2a0a:79c7:f500::,2a0a:79c7:f5ff:ffff:ffff:ffff:ffff:ffff,210464,AVSISP AVS ISP EU1
@@ -82596,7 +82584,7 @@
 2a0d:d940:376::,2a0d:d940:376:ffff:ffff:ffff:ffff:ffff,211980,ECHOES
 2a0d:d940:377::,2a0d:d940:377:ffff:ffff:ffff:ffff:ffff,205710,CREALAB
 2a0d:d940:400::,2a0d:d940:4ff:ffff:ffff:ffff:ffff:ffff,212743,ETERNITY-AS
-2a0d:d940:500::,2a0d:d940:5ff:ffff:ffff:ffff:ffff:ffff,206604,FOXDEVLAB FoxDevLab.com
+2a0d:d940:500::,2a0d:d940:5ff:ffff:ffff:ffff:ffff:ffff,201279,AWAS-AS
 2a0d:d940:1100::,2a0d:d940:11ff:ffff:ffff:ffff:ffff:ffff,200993,NYANET NyaNet
 2a0d:d940:1200::,2a0d:d940:12ff:ffff:ffff:ffff:ffff:ffff,203493,YACOLO-AS
 2a0d:d940:1300::,2a0d:d940:13ff:ffff:ffff:ffff:ffff:ffff,200993,NYANET NyaNet
@@ -83259,7 +83247,7 @@
 2a0e:7d45:7739::,2a0e:7d45:7739:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
 2a0e:7d45:77d1::,2a0e:7d45:77d1:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
 2a0e:7d45:77e0::,2a0e:7d45:77e0:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2a0e:7d45:77f0::,2a0e:7d45:77f0:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2a0e:7d45:77f1::,2a0e:7d45:77f1:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
 2a0e:7d46::,2a0e:7d46:fff:ffff:ffff:ffff:ffff:ffff,38230,NAVICENET-AS-AP Navice Consulting
 2a0e:7d46:1800::,2a0e:7d46:19ff:ffff:ffff:ffff:ffff:ffff,38230,NAVICENET-AS-AP Navice Consulting
 2a0e:7d47::,2a0e:7d47:ffff:ffff:ffff:ffff:ffff:ffff,200529,ASR-INFOPRO
@@ -83304,7 +83292,7 @@
 2a0e:8d80::,2a0e:8d87:ffff:ffff:ffff:ffff:ffff:ffff,207999,RCSE
 2a0e:8e80::,2a0e:8e87:ffff:ffff:ffff:ffff:ffff:ffff,208821,DURUNET DURUNET TELEKOMUNIKASYON
 2a0e:8f00:dfc0::,2a0e:8f00:dfff:ffff:ffff:ffff:ffff:ffff,213018,INFRASIO-AS
-2a0e:8f00:f100::,2a0e:8f00:f100:ffff:ffff:ffff:ffff:ffff,49933,AKARL-NET
+2a0e:8f00:f100::,2a0e:8f00:f101:ffff:ffff:ffff:ffff:ffff,49933,AKARL-NET
 2a0e:8f00:f103::,2a0e:8f00:f103:ffff:ffff:ffff:ffff:ffff,49933,AKARL-NET
 2a0e:8f00:f106::,2a0e:8f00:f106:ffff:ffff:ffff:ffff:ffff,49933,AKARL-NET
 2a0e:8f02:1027::,2a0e:8f02:1028:ffff:ffff:ffff:ffff:ffff,204446,HELLOMOUSE Hellomouse Ltd
@@ -83476,7 +83464,6 @@
 2a0e:97c0:6e0::,2a0e:97c0:6ef:ffff:ffff:ffff:ffff:ffff,213639,GUMIISP
 2a0e:97c0:6f0::,2a0e:97c0:6f0:ffff:ffff:ffff:ffff:ffff,215517,WEITI-HOME
 2a0e:97c0:6ff::,2a0e:97c0:6ff:ffff:ffff:ffff:ffff:ffff,215517,WEITI-HOME
-2a0e:97c0:700::,2a0e:97c0:700:ffff:ffff:ffff:ffff:ffff,48987,JYANGNET JYANGNET AS
 2a0e:97c0:711::,2a0e:97c0:712:ffff:ffff:ffff:ffff:ffff,58087,FLORIANKOLB
 2a0e:97c0:72a::,2a0e:97c0:72b:ffff:ffff:ffff:ffff:ffff,208779,SOFTETHER
 2a0e:97c0:730::,2a0e:97c0:730:ffff:ffff:ffff:ffff:ffff,208699,PARSNSNETWORK
@@ -83503,6 +83490,7 @@
 2a0e:97c0:92a::,2a0e:97c0:92a:ffff:ffff:ffff:ffff:ffff,214939,BASTIVAN-CONSULTING
 2a0e:97c0:930::,2a0e:97c0:93f:ffff:ffff:ffff:ffff:ffff,211626,ADAPA
 2a0e:97c0:980::,2a0e:97c0:98f:ffff:ffff:ffff:ffff:ffff,203418,REHOST
+2a0e:97c0:9b0::,2a0e:97c0:9bf:ffff:ffff:ffff:ffff:ffff,210643,INEY-NET
 2a0e:97c0:9c0::,2a0e:97c0:9c0:ffff:ffff:ffff:ffff:ffff,213586,-Reserved AS-
 2a0e:97c0:9e0::,2a0e:97c0:9ef:ffff:ffff:ffff:ffff:ffff,202473,PSC-NET
 2a0e:97c0:9f0::,2a0e:97c0:9ff:ffff:ffff:ffff:ffff:ffff,202145,PORUASN
@@ -83789,7 +83777,6 @@
 2a0e:b107:1030::,2a0e:b107:1030:ffff:ffff:ffff:ffff:ffff,213045,DED3L-NETWORK Educational & Research Network
 2a0e:b107:10c0::,2a0e:b107:10cf:ffff:ffff:ffff:ffff:ffff,211495,AGOCSNET
 2a0e:b107:1130::,2a0e:b107:1133:ffff:ffff:ffff:ffff:ffff,212121,VAGUE
-2a0e:b107:1136::,2a0e:b107:1136:ffff:ffff:ffff:ffff:ffff,212121,VAGUE
 2a0e:b107:113f::,2a0e:b107:113f:ffff:ffff:ffff:ffff:ffff,212121,VAGUE
 2a0e:b107:1165::,2a0e:b107:1165:ffff:ffff:ffff:ffff:ffff,58057,SECUREBIT Securebit Autonomous System
 2a0e:b107:1167::,2a0e:b107:1167:ffff:ffff:ffff:ffff:ffff,142419,SNDCCOM-AS-AP Sndc Communication
@@ -83838,7 +83825,6 @@
 2a0e:b107:19c8::,2a0e:b107:19c8:ffff:ffff:ffff:ffff:ffff,205398,TYLER-OBRIEN _
 2a0e:b107:19cb::,2a0e:b107:19cb:ffff:ffff:ffff:ffff:ffff,214450,OGL-AS
 2a0e:b107:19cd::,2a0e:b107:19cd:ffff:ffff:ffff:ffff:ffff,204611,AS-GIUSEPPE-AUGIERO
-2a0e:b107:19f0::,2a0e:b107:19f0:ffff:ffff:ffff:ffff:ffff,47157,ISMAELO-AS
 2a0e:b107:1a30::,2a0e:b107:1a37:ffff:ffff:ffff:ffff:ffff,208223,FOXO-AS fOxO Internet Service Provider
 2a0e:b107:1a3b::,2a0e:b107:1a3b:ffff:ffff:ffff:ffff:ffff,208223,FOXO-AS fOxO Internet Service Provider
 2a0e:b107:1a3e::,2a0e:b107:1a3f:ffff:ffff:ffff:ffff:ffff,208223,FOXO-AS fOxO Internet Service Provider
@@ -83880,8 +83866,7 @@
 2a0e:b107:27e8::,2a0e:b107:27ef:ffff:ffff:ffff:ffff:ffff,216375,AS-RHZAHRA M Alhuda
 2a0e:b107:27f0::,2a0e:b107:27f3:ffff:ffff:ffff:ffff:ffff,215849,TRISTAN-KLOCK Tristan Klock traiding as Banratte
 2a0e:b107:27f4::,2a0e:b107:27f6:ffff:ffff:ffff:ffff:ffff,215828,TMW-GLOBAL-NETWORKS TMW Global Networks
-2a0e:b107:27f8::,2a0e:b107:27fb:ffff:ffff:ffff:ffff:ffff,215828,TMW-GLOBAL-NETWORKS TMW Global Networks
-2a0e:b107:27fd::,2a0e:b107:27fe:ffff:ffff:ffff:ffff:ffff,215828,TMW-GLOBAL-NETWORKS TMW Global Networks
+2a0e:b107:27f8::,2a0e:b107:27fe:ffff:ffff:ffff:ffff:ffff,215828,TMW-GLOBAL-NETWORKS TMW Global Networks
 2a0e:b107:2880::,2a0e:b107:2883:ffff:ffff:ffff:ffff:ffff,216107,FRUMENTUM Frumentum Media
 2a0e:b107:28b8::,2a0e:b107:28bf:ffff:ffff:ffff:ffff:ffff,215191,TONY-AS StoneApp Network
 2a0e:b107:28e0::,2a0e:b107:28e7:ffff:ffff:ffff:ffff:ffff,214676,ARUNS-FIRST-ASN
@@ -84460,6 +84445,7 @@
 2a0f:2381::,2a0f:2387:ffff:ffff:ffff:ffff:ffff:ffff,34984,TELLCOM-AS
 2a0f:23c7::,2a0f:23c7:ffff:ffff:ffff:ffff:ffff:ffff,35425,BYTEMARK-AS
 2a0f:2500::,2a0f:2507:ffff:ffff:ffff:ffff:ffff:ffff,28753,LEASEWEB-DE-FRA-10
+2a0f:2540::,2a0f:2547:ffff:ffff:ffff:ffff:ffff:ffff,201628,CLOUD-CONNECT
 2a0f:2580:1000::,2a0f:2580:1000:ffff:ffff:ffff:ffff:ffff,57648,CIVEY-GMBH-
 2a0f:25c0::,2a0f:25c0::ffff:ffff:ffff:ffff:ffff,207077,AS-SPECIALHOST
 2a0f:25c0:1990::,2a0f:25c0:1990:ffff:ffff:ffff:ffff:ffff,207077,AS-SPECIALHOST
@@ -84639,8 +84625,10 @@
 2a0f:3b05:100::,2a0f:3b05:10f:ffff:ffff:ffff:ffff:ffff,35487,MISAKA
 2a0f:3b80::,2a0f:3b83:ffff:ffff:ffff:ffff:ffff:ffff,174,COGENT-174
 2a0f:3c40::,2a0f:3c47:ffff:ffff:ffff:ffff:ffff:ffff,3175,CITYTELECOM-MSK
+2a0f:3cc0::,2a0f:3cc2:ffff:ffff:ffff:ffff:ffff:ffff,207936,DELIGHTNETWORKS-AS Delight Networks U.K.
 2a0f:3cc3::,2a0f:3cc3:2fff:ffff:ffff:ffff:ffff:ffff,60735,DELIGHTVPS-AS Delight VPS Delight Networks Europe
 2a0f:3cc3:4000::,2a0f:3cc3:400f:ffff:ffff:ffff:ffff:ffff,202306,HOSTGLOBALPLUS-AS
+2a0f:3cc4::,2a0f:3cc5:ffff:ffff:ffff:ffff:ffff:ffff,207936,DELIGHTNETWORKS-AS Delight Networks U.K.
 2a0f:3cc6::,2a0f:3cc6:ffff:ffff:ffff:ffff:ffff:ffff,60735,DELIGHTVPS-AS Delight VPS Delight Networks Europe
 2a0f:3cc7::,2a0f:3cc7:ffff:ffff:ffff:ffff:ffff:ffff,59813,DELIGHTFIBER-AS Delight Networks Europe
 2a0f:3d80::,2a0f:3d80::ffff:ffff:ffff:ffff:ffff,30633,LEASEWEB-USA-WDC
@@ -85351,6 +85339,7 @@
 2a0f:85c1:e1a::,2a0f:85c1:e1a:ffff:ffff:ffff:ffff:ffff,202753,GLOBALGRID-NETWORK
 2a0f:85c1:e1b::,2a0f:85c1:e1b:ffff:ffff:ffff:ffff:ffff,202751,BGP_AS
 2a0f:85c1:e1d::,2a0f:85c1:e1d:ffff:ffff:ffff:ffff:ffff,215784,ONEHEBERGE
+2a0f:85c1:e1f::,2a0f:85c1:e1f:ffff:ffff:ffff:ffff:ffff,213975,COMPUTER-POWER
 2a0f:85c1:e22::,2a0f:85c1:e22:ffff:ffff:ffff:ffff:ffff,205514,REICHER-NET
 2a0f:85c1:e23::,2a0f:85c1:e23:ffff:ffff:ffff:ffff:ffff,202627,CARBONDNS
 2a0f:85c1:e24::,2a0f:85c1:e24:ffff:ffff:ffff:ffff:ffff,202615,ECHO
@@ -85359,6 +85348,7 @@
 2a0f:85c1:e29::,2a0f:85c1:e29:ffff:ffff:ffff:ffff:ffff,203588,STOROCLOUD a77aac1d81fd36b4226a43b480287b59b142935f
 2a0f:85c1:e2b::,2a0f:85c1:e2b:ffff:ffff:ffff:ffff:ffff,202135,TECIN
 2a0f:85c1:e2d::,2a0f:85c1:e2d:ffff:ffff:ffff:ffff:ffff,202118,NOCTIS
+2a0f:85c1:e2f::,2a0f:85c1:e2f:ffff:ffff:ffff:ffff:ffff,201815,MEGADITTA
 2a0f:85c1:e3b::,2a0f:85c1:e3c:ffff:ffff:ffff:ffff:ffff,211008,LIKHNER-AS
 2a0f:85c1:beef::,2a0f:85c1:beef:ffff:ffff:ffff:ffff:ffff,207781,MCL-AS Marcel Menzel
 2a0f:85c1:cafe::,2a0f:85c1:cafe:ffff:ffff:ffff:ffff:ffff,207781,MCL-AS Marcel Menzel
@@ -86097,6 +86087,7 @@
 2a10:400::,2a10:400:ffff:ffff:ffff:ffff:ffff:ffff,201787,TECHMEDIA-AS
 2a10:440::,2a10:447:ffff:ffff:ffff:ffff:ffff:ffff,207289,WWNG
 2a10:480::,2a10:487:ffff:ffff:ffff:ffff:ffff:ffff,4785,XTOM-AS-JP xTom
+2a10:4c0::,2a10:4c7:ffff:ffff:ffff:ffff:ffff:ffff,33387,NOCIX
 2a10:500::,2a10:500:2cff:ffff:ffff:ffff:ffff:ffff,216435,PLIMMOBILE-AS 7HOOP NETWORK TELECOM :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 2a10:500:2e00::,2a10:500:32ff:ffff:ffff:ffff:ffff:ffff,216435,PLIMMOBILE-AS 7HOOP NETWORK TELECOM :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 2a10:500:3400::,2a10:500:53ff:ffff:ffff:ffff:ffff:ffff,216435,PLIMMOBILE-AS 7HOOP NETWORK TELECOM :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -86284,7 +86275,6 @@
 2a10:4640:8::,2a10:4640:ffff:ffff:ffff:ffff:ffff:ffff,212815,AS-DYJIX
 2a10:4646:6::,2a10:4646:6:ffff:ffff:ffff:ffff:ffff,47484,ABJP-SERVICES-SAS
 2a10:4646:9::,2a10:4646:9:ffff:ffff:ffff:ffff:ffff,39091,ANT74
-2a10:4646:13::,2a10:4646:13:ffff:ffff:ffff:ffff:ffff,47157,ISMAELO-AS
 2a10:4646:19::,2a10:4646:19:ffff:ffff:ffff:ffff:ffff,209090,STOLON
 2a10:4646:d0::,2a10:4646:df:ffff:ffff:ffff:ffff:ffff,210810,LGP-CORP
 2a10:4646:120::,2a10:4646:120:ffff:ffff:ffff:ffff:ffff,52073,I2SNETWORK
@@ -86722,16 +86712,18 @@
 2a10:ccc1:10e::,2a10:ccc1:10e:ffff:ffff:ffff:ffff:ffff,202706,KEENMOBILE-AS
 2a10:ccc1:10f::,2a10:ccc1:10f:ffff:ffff:ffff:ffff:ffff,203748,ITGRAD
 2a10:ccc1:405::,2a10:ccc1:405:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
+2a10:ccc1:40b::,2a10:ccc1:40b:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a10:ccc1:412::,2a10:ccc1:412:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a10:ccc1:417::,2a10:ccc1:417:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a10:ccc1:41f::,2a10:ccc1:41f:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a10:ccc1:434::,2a10:ccc1:434:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
+2a10:ccc1:44d::,2a10:ccc1:44d:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
 2a10:ccc1:44f::,2a10:ccc1:44f:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a10:ccc1:460::,2a10:ccc1:460:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
-2a10:ccc1:465::,2a10:ccc1:465:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2a10:ccc1:455::,2a10:ccc1:455:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2a10:ccc1:461::,2a10:ccc1:461:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
 2a10:ccc1:468::,2a10:ccc1:468:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a10:ccc1:46e::,2a10:ccc1:46e:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
-2a10:ccc1:474::,2a10:ccc1:474:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2a10:ccc1:46f::,2a10:ccc1:46f:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
+2a10:ccc1:476::,2a10:ccc1:476:ffff:ffff:ffff:ffff:ffff,20473,AS-VULTR
 2a10:ccc1:492::,2a10:ccc1:492:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a10:ccc1:49b::,2a10:ccc1:49b:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
 2a10:ccc1:4d4::,2a10:ccc1:4d4:ffff:ffff:ffff:ffff:ffff,202256,LAWLIETNET
@@ -86863,6 +86855,7 @@
 2a10:f781:10:2f77::,2a10:f781:10:2f77:ffff:ffff:ffff:ffff,44124,RYBNET-AS
 2a10:f781:10:6411::,2a10:f781:10:6411:ffff:ffff:ffff:ffff,201953,INTERKA
 2a10:f782::,2a10:f782::ffff:ffff:ffff:ffff:ffff,197961,EPIX-CDN1
+2a10:f782:a::,2a10:f782:a:ffff:ffff:ffff:ffff:ffff,62081,EPIX-WAW-GLOBALMIX
 2a10:f783::,2a10:f783::ffff:ffff:ffff:ffff:ffff,50607,EPIX-KTW-GLOBALMIX
 2a10:f783:1::,2a10:f783:1:ffff:ffff:ffff:ffff:ffff,201054,EPIX-POLMIX
 2a10:f783:2::,2a10:f783:2:ffff:ffff:ffff:ffff:ffff,201925,EPIX-EPINET
@@ -87904,7 +87897,6 @@
 2a12:4c0::,2a12:4c7:ffff:ffff:ffff:ffff:ffff:ffff,400177,RC
 2a12:580::,2a12:587:ffff:ffff:ffff:ffff:ffff:ffff,34567,NEXT-AS
 2a12:640::,2a12:647:ffff:ffff:ffff:ffff:ffff:ffff,34567,NEXT-AS
-2a12:680::,2a12:687:ffff:ffff:ffff:ffff:ffff:ffff,212238,CDNEXT
 2a12:6c0::,2a12:6c7:ffff:ffff:ffff:ffff:ffff:ffff,214706,KTN-AS
 2a12:780::,2a12:783:ffff:ffff:ffff:ffff:ffff:ffff,212238,CDNEXT
 2a12:840:1::,2a12:840:1:ffff:ffff:ffff:ffff:ffff,210367,KZCR
@@ -89501,6 +89493,7 @@
 2a13:9500:123::,2a13:9500:125:ffff:ffff:ffff:ffff:ffff,215294,LUMINABROADBAND
 2a13:9500:126::,2a13:9500:126:ffff:ffff:ffff:ffff:ffff,43350,NFORCE
 2a13:9500:129::,2a13:9500:129:ffff:ffff:ffff:ffff:ffff,199829,AKRONIC-NETWORK Akronic Network
+2a13:9500:135::,2a13:9500:135:ffff:ffff:ffff:ffff:ffff,202076,OPTUATELECOM
 2a13:9500:136::,2a13:9500:136:ffff:ffff:ffff:ffff:ffff,201132,MSCODE MSCode.pl
 2a13:9500:139::,2a13:9500:139:ffff:ffff:ffff:ffff:ffff,201398,"MADEBYKEIRAN-UK Keiran Chippendale is a sole trader, trading under MBK Network, delivering reliable network, hosting, and internet services."
 2a13:9540::,2a13:9547:ffff:ffff:ffff:ffff:ffff:ffff,204203,SEPEHR-SABZ-DC-TEH
@@ -89956,6 +89949,7 @@
 2a13:edc0:10::,2a13:edc0:19:ffff:ffff:ffff:ffff:ffff,216211,AS216245
 2a13:edc0:20::,2a13:edc0:29:ffff:ffff:ffff:ffff:ffff,216211,AS216245
 2a13:edc0:30::,2a13:edc0:32:ffff:ffff:ffff:ffff:ffff,216211,AS216245
+2a13:edc0:301::,2a13:edc0:304:ffff:ffff:ffff:ffff:ffff,216211,AS216245
 2a13:edc0:661::,2a13:edc0:662:ffff:ffff:ffff:ffff:ffff,216211,AS216245
 2a13:ee40:200::,2a13:ee40:200:ffff:ffff:ffff:ffff:ffff,216006,FLAMINGONETWORK
 2a13:ef00::,2a13:ef07:ffff:ffff:ffff:ffff:ffff:ffff,34907,IP-SERVICES-AS
@@ -90148,7 +90142,7 @@
 2a14:1ec7:f710::,2a14:1ec7:f71f:ffff:ffff:ffff:ffff:ffff,200088,ARTNET2
 2a14:1ec7:f720::,2a14:1ec7:f72f:ffff:ffff:ffff:ffff:ffff,19318,IS-AS-1
 2a14:1ec7:f730::,2a14:1ec7:f73f:ffff:ffff:ffff:ffff:ffff,136557,HOST-AS-AP Host Universal Pty Ltd
-2a14:1ec7:f7ff::,2a14:1ec7:f7ff:ffff:ffff:ffff:ffff:ffff,203662,PL-3K33
+2a14:1ec7:f7fe::,2a14:1ec7:f7ff:ffff:ffff:ffff:ffff:ffff,203662,PL-3K33
 2a14:1ec7:f800::,2a14:1ec7:f801:ffff:ffff:ffff:ffff:ffff,211019,SERVERS-GURU
 2a14:1ec7:f8ff::,2a14:1ec7:f8ff:ffff:ffff:ffff:ffff:ffff,211019,SERVERS-GURU
 2a14:1ec7:f900::,2a14:1ec7:f900:ffff:ffff:ffff:ffff:ffff,211673,MYNYMBOX
@@ -90534,7 +90528,7 @@
 2a14:67c2:a21::,2a14:67c2:a21:ffff:ffff:ffff:ffff:ffff,216299,LCNET Liuchang Network
 2a14:67c2:a23::,2a14:67c2:a23:ffff:ffff:ffff:ffff:ffff,216299,LCNET Liuchang Network
 2a14:67c2:a2f::,2a14:67c2:a30:ffff:ffff:ffff:ffff:ffff,216299,LCNET Liuchang Network
-2a14:67c2:a40::,2a14:67c2:a40:ffff:ffff:ffff:ffff:ffff,216299,LCNET Liuchang Network
+2a14:67c2:a40::,2a14:67c2:a41:ffff:ffff:ffff:ffff:ffff,216299,LCNET Liuchang Network
 2a14:67c2:a50::,2a14:67c2:a50:ffff:ffff:ffff:ffff:ffff,216299,LCNET Liuchang Network
 2a14:67c2:a60::,2a14:67c2:a60:ffff:ffff:ffff:ffff:ffff,216299,LCNET Liuchang Network
 2a14:67c2:a70::,2a14:67c2:a71:ffff:ffff:ffff:ffff:ffff,216299,LCNET Liuchang Network
@@ -91050,7 +91044,7 @@
 2a14:7dc0:201::,2a14:7dc0:203:ffff:ffff:ffff:ffff:ffff,63150,BAGE
 2a14:7dc0:510::,2a14:7dc0:510:ffff:ffff:ffff:ffff:ffff,201705,E-PORTS-NETPORTS-AS
 2a14:7dc0:515::,2a14:7dc0:517:ffff:ffff:ffff:ffff:ffff,201705,E-PORTS-NETPORTS-AS
-2a14:7dc0:520::,2a14:7dc0:521:ffff:ffff:ffff:ffff:ffff,201235,CLBN-GLOBAL
+2a14:7dc0:520::,2a14:7dc0:520:ffff:ffff:ffff:ffff:ffff,201235,CLBN-GLOBAL
 2a14:7e00::,2a14:7e07:ffff:ffff:ffff:ffff:ffff:ffff,216271,ISP NETLABS LLC
 2a14:7f00:1700::,2a14:7f00:17ff:ffff:ffff:ffff:ffff:ffff,215724,EDGEVANA-AS-RP
 2a14:8000::,2a14:8007:ffff:ffff:ffff:ffff:ffff:ffff,30058,FDCSERVERS
@@ -91177,7 +91171,7 @@
 2a14:c380:c20::,2a14:c380:c21:ffff:ffff:ffff:ffff:ffff,206540,BEANSUMMERHOST f6f8ec39aa39ea342e16d0e3ba372cae4bb769fe
 2a14:c380:c23::,2a14:c380:c23:ffff:ffff:ffff:ffff:ffff,206540,BEANSUMMERHOST f6f8ec39aa39ea342e16d0e3ba372cae4bb769fe
 2a14:c380:c25::,2a14:c380:c25:ffff:ffff:ffff:ffff:ffff,206540,BEANSUMMERHOST f6f8ec39aa39ea342e16d0e3ba372cae4bb769fe
-2a14:c380:c27::,2a14:c380:c2a:ffff:ffff:ffff:ffff:ffff,206540,BEANSUMMERHOST f6f8ec39aa39ea342e16d0e3ba372cae4bb769fe
+2a14:c380:c28::,2a14:c380:c2a:ffff:ffff:ffff:ffff:ffff,206540,BEANSUMMERHOST f6f8ec39aa39ea342e16d0e3ba372cae4bb769fe
 2a14:c380:c60::,2a14:c380:c6f:ffff:ffff:ffff:ffff:ffff,215916,JOSIP_TISLJAR_MATAUSIC
 2a14:c380:c70::,2a14:c380:c7f:ffff:ffff:ffff:ffff:ffff,211507,"LAIN we love lain, cats and the world wide web"
 2a14:c380:d10::,2a14:c380:d10:ffff:ffff:ffff:ffff:ffff,202986,LUKASTAUTZ
@@ -91917,6 +91911,7 @@
 2c0f:f758::,2c0f:f758:ffff:ffff:ffff:ffff:ffff:ffff,37204,TELONE
 2c0f:f778::,2c0f:f778:ffff:ffff:ffff:ffff:ffff:ffff,37009,MTCASN
 2c0f:f780::,2c0f:f780:ffff:ffff:ffff:ffff:ffff:ffff,327805,Bundu-NetworX
+2c0f:f788::,2c0f:f788:ffff:ffff:ffff:ffff:ffff:ffff,327798,BERNET
 2c0f:f798::,2c0f:f798:ffff:ffff:ffff:ffff:ffff:ffff,327817,LADYSMITH-WIRELESS-SOLUTIONS
 2c0f:f7a8:1::,2c0f:f7a8:2:ffff:ffff:ffff:ffff:ffff,23764,CTGNET CTGNet
 2c0f:f7a8:24::,2c0f:f7a8:24:ffff:ffff:ffff:ffff:ffff,23764,CTGNET CTGNet

@@ -11330,7 +11330,6 @@
 2001:df1:e140::,2001:df1:e140:ffff:ffff:ffff:ffff:ffff,150653,India International Bullion Exchange Ifsc Ltd
 2001:df1:e1c0::,2001:df1:e1c0:ffff:ffff:ffff:ffff:ffff,150738,Like Online
 2001:df1:e200::,2001:df1:e200:ffff:ffff:ffff:ffff:ffff,135173,INDIA METEOROLOGICAL DEPARTMENT
-2001:df1:e240::,2001:df1:e240:ffff:ffff:ffff:ffff:ffff,149047,SwiftFiber
 2001:df1:e2c0::,2001:df1:e2c0:ffff:ffff:ffff:ffff:ffff,150736,AS150736
 2001:df1:e340::,2001:df1:e340:fff:ffff:ffff:ffff:ffff,149478,Rocket Internet Service
 2001:df1:e440::,2001:df1:e440:ffff:ffff:ffff:ffff:ffff,150743,Precisely Software and Data India Pvt. Ltd.
@@ -14290,6 +14289,7 @@
 2001:df6:ad00::,2001:df6:ad00:ffff:ffff:ffff:ffff:ffff,136976,WHITEHAVEN COAL LIMITED
 2001:df6:ad40::,2001:df6:ad40:ffff:ffff:ffff:ffff:ffff,138233,Proton Internet Llp
 2001:df6:ad80::,2001:df6:ad80:ffff:ffff:ffff:ffff:ffff,142064,VERGETEL
+2001:df6:adc0::,2001:df6:adc0:ffff:ffff:ffff:ffff:ffff,150126,AS150126
 2001:df6:ae00::,2001:df6:ae00:ffff:ffff:ffff:ffff:ffff,133277,AS133277
 2001:df6:ae80::,2001:df6:ae80:ffff:ffff:ffff:ffff:ffff,142283,AUSTRALIAN LAMB (COLAC) PTY LTD
 2001:df6:af00::,2001:df6:af00:ffff:ffff:ffff:ffff:ffff,138086,MAHKAMAH KONSTITUSI RI
@@ -14322,8 +14322,10 @@
 2001:df6:b880::,2001:df6:b880:ffff:ffff:ffff:ffff:ffff,142295,Net gate (pvt) Ltd
 2001:df6:b900::,2001:df6:b900:ffff:ffff:ffff:ffff:ffff,138208,AS138208
 2001:df6:b980::,2001:df6:b980:ffff:ffff:ffff:ffff:ffff,140732,AS140732
+2001:df6:b9c0::,2001:df6:b9c0:ffff:ffff:ffff:ffff:ffff,138746,Live Fibernet
 2001:df6:ba40::,2001:df6:ba40:ffff:ffff:ffff:ffff:ffff,154514,AS154514
 2001:df6:ba80::,2001:df6:ba80:ffff:ffff:ffff:ffff:ffff,141825,EXTREME COMPUTE TECHNOLOGIES PRIVATE LIMITED
+2001:df6:bac0::,2001:df6:bac0:ffff:ffff:ffff:ffff:ffff,152466,T-Link Group Company Limited
 2001:df6:bb00::,2001:df6:bb00:ffff:ffff:ffff:ffff:ffff,56198,AS56198
 2001:df6:bb80::,2001:df6:bb80:ffff:ffff:ffff:ffff:ffff,142297,Smart Link Network Pvt Ltd
 2001:df6:bc00::,2001:df6:bc00:ffff:ffff:ffff:ffff:ffff,134729,JOINT POWER TECHNOLOGY LIMITED
@@ -18797,7 +18799,7 @@
 2400:cb00:1264::,2400:cb00:1264:ffff:ffff:ffff:ffff:ffff,13335,"Cloudflare, Inc."
 2400:cb00:1265::,2400:cb00:1265:ffff:ffff:ffff:ffff:ffff,14789,"Cloudflare, Inc."
 2400:cb00:1271::,2400:cb00:1271:ffff:ffff:ffff:ffff:ffff,14789,"Cloudflare, Inc."
-2400:cb00:1272::,2400:cb00:1272:ffff:ffff:ffff:ffff:ffff,13335,"Cloudflare, Inc."
+2400:cb00:1272::,2400:cb00:1274:ffff:ffff:ffff:ffff:ffff,13335,"Cloudflare, Inc."
 2400:cb00:2000::,2400:cb00:c94f:ffff:ffff:ffff:ffff:ffff,13335,"Cloudflare, Inc."
 2400:cb00:c950::,2400:cb00:c951:ffff:ffff:ffff:ffff:ffff,14789,"Cloudflare, Inc."
 2400:cb00:c952::,2400:cb00:ffff:ffff:ffff:ffff:ffff:ffff,13335,"Cloudflare, Inc."
@@ -21218,6 +21220,7 @@
 2401:9640:800::,2401:9640:807:ffff:ffff:ffff:ffff:ffff,133982,Excitel Broadband Private Limited
 2401:9640:1000::,2401:9640:1008:ffff:ffff:ffff:ffff:ffff,133982,Excitel Broadband Private Limited
 2401:9640:1700::,2401:9640:1808:ffff:ffff:ffff:ffff:ffff,133982,Excitel Broadband Private Limited
+2401:9640:1f00::,2401:9640:1f02:ffff:ffff:ffff:ffff:ffff,133982,Excitel Broadband Private Limited
 2401:9640:2000::,2401:9640:2008:ffff:ffff:ffff:ffff:ffff,133982,Excitel Broadband Private Limited
 2401:9640:2800::,2401:9640:2808:ffff:ffff:ffff:ffff:ffff,133982,Excitel Broadband Private Limited
 2401:9640:3000::,2401:9640:3808:ffff:ffff:ffff:ffff:ffff,133982,Excitel Broadband Private Limited
@@ -22640,6 +22643,7 @@
 2402:4da0::,2402:4da0:ffff:ffff:ffff:ffff:ffff:ffff,154497,AS154497
 2402:4de0::,2402:4de0:ffff:ffff:ffff:ffff:ffff:ffff,142046,1033 Network Information Co.
 2402:4e00::,2402:4e00:ffff:ffff:ffff:ffff:ffff:ffff,38283,CHINANET SiChuan Telecom Internet Data Center
+2402:4e20::,2402:4e20:ffff:ffff:ffff:ffff:ffff:ffff,154516,AS154516
 2402:4e40::,2402:4e40:ffff:ffff:ffff:ffff:ffff:ffff,58427,Global Entourage Services
 2402:4f00::,2402:4f00:efff:ffff:ffff:ffff:ffff:ffff,58453,China Mobile International Limited
 2402:4f00:f000::,2402:4f00:f000:ffff:ffff:ffff:ffff:ffff,58807,China Mobile International Limited
@@ -25779,6 +25783,7 @@
 2405:7c00::,2405:7c00:ffff:ffff:ffff:ffff:ffff:ffff,24028,REDtone Marketing Sdn. Bhd.
 2405:7d00::,2405:7d00:ffff:ffff:ffff:ffff:ffff:ffff,23777,NTT BUSINESS SOLUTIONS CORPORATION
 2405:7d80::,2405:7d80::ffff:ffff:ffff:ffff:ffff,55573,XYZ Telecom Pty Ltd
+2405:7d80:5::,2405:7d80:5:ffff:ffff:ffff:ffff:ffff,55573,XYZ Telecom Pty Ltd
 2405:7e00:17::,2405:7e00:17:ffff:ffff:ffff:ffff:ffff,17408,"AboveNet Communications Taiwan Co., Ltd"
 2405:7e00:1000::,2405:7e00:1000:ffff:ffff:ffff:ffff:ffff,17408,"AboveNet Communications Taiwan Co., Ltd"
 2405:7e00:1002::,2405:7e00:1002::ffff:ffff:ffff:ffff,17408,"AboveNet Communications Taiwan Co., Ltd"
@@ -27036,6 +27041,7 @@
 2406:b700::,2406:b700::ffff:ffff:ffff:ffff:ffff,58504,Techminds Network Pvt. Ltd.
 2406:b700:2::,2406:b700:8:ffff:ffff:ffff:ffff:ffff,58504,Techminds Network Pvt. Ltd.
 2406:b700:a::,2406:b700:f:ffff:ffff:ffff:ffff:ffff,58504,Techminds Network Pvt. Ltd.
+2406:b700:12::,2406:b700:12:ffff:ffff:ffff:ffff:ffff,58504,Techminds Network Pvt. Ltd.
 2406:b800::,2406:b800:ffff:ffff:ffff:ffff:ffff:ffff,38652,"Ginzado Co.,Ltd."
 2406:b900::,2406:b900:ffff:ffff:ffff:ffff:ffff:ffff,46023,PT Quantum Tera Network
 2406:ba00::,2406:ba00:ffff:ffff:ffff:ffff:ffff:ffff,55884,Orion Virtualisation Solutions Pty Limited
@@ -27921,19 +27927,9 @@
 2407:d640::,2407:d640::ffff:ffff:ffff:ffff:ffff,134006,Sheng Li Telecom India Private Limited
 2407:d6c0::,2407:d6c0:ffff:ffff:ffff:ffff:ffff:ffff,136785,TOFFS TECHNOLOGIES PTE LTD
 2407:d700::,2407:d700:ffff:ffff:ffff:ffff:ffff:ffff,132884,Summit Communications Limited
-2407:d840::,2407:d840::ffff:ffff:ffff:ffff:ffff,147003,ALLIANCE INTELLIGENT TECHNOLOGIES PTE. LTD.
-2407:d840:1::,2407:d840:1:ffff:ffff:ffff:ffff:ffff,51847,Nearoute Limited
-2407:d840:2::,2407:d840:2:ffff:ffff:ffff:ffff:ffff,149767,AS149767
-2407:d840:3::,2407:d840:3::ffff:ffff:ffff:ffff,147293,NEAROUTE LIMITED
-2407:d840:3:1::,2407:d840:3:1:ffff:ffff:ffff:ffff,51847,Nearoute Limited
-2407:d840:3:2::,2407:d840:3:ffff:ffff:ffff:ffff:ffff,147293,NEAROUTE LIMITED
-2407:d840:4::,2407:d840:1f:ffff:ffff:ffff:ffff:ffff,147003,ALLIANCE INTELLIGENT TECHNOLOGIES PTE. LTD.
+2407:d840::,2407:d840:1f:ffff:ffff:ffff:ffff:ffff,147003,ALLIANCE INTELLIGENT TECHNOLOGIES PTE. LTD.
 2407:d840:20::,2407:d840:21:ffff:ffff:ffff:ffff:ffff,151338,POLONETWORK LIMITED
-2407:d840:22::,2407:d840:3f:ffff:ffff:ffff:ffff:ffff,147003,ALLIANCE INTELLIGENT TECHNOLOGIES PTE. LTD.
-2407:d840:40::,2407:d840:42:ffff:ffff:ffff:ffff:ffff,147293,NEAROUTE LIMITED
-2407:d840:43::,2407:d840:4f:ffff:ffff:ffff:ffff:ffff,147003,ALLIANCE INTELLIGENT TECHNOLOGIES PTE. LTD.
-2407:d840:50::,2407:d840:61:ffff:ffff:ffff:ffff:ffff,51847,Nearoute Limited
-2407:d840:70::,2407:d840:1ff:ffff:ffff:ffff:ffff:ffff,147003,ALLIANCE INTELLIGENT TECHNOLOGIES PTE. LTD.
+2407:d840:22::,2407:d840:1ff:ffff:ffff:ffff:ffff:ffff,147003,ALLIANCE INTELLIGENT TECHNOLOGIES PTE. LTD.
 2407:d840:200::,2407:d840:2ff:ffff:ffff:ffff:ffff:ffff,151338,POLONETWORK LIMITED
 2407:d840:300::,2407:d840:ffff:ffff:ffff:ffff:ffff:ffff,147003,ALLIANCE INTELLIGENT TECHNOLOGIES PTE. LTD.
 2407:d9c0::,2407:d9c0:ffff:ffff:ffff:ffff:ffff:ffff,146835,"Nanchang index technology development Co.,LTD"
@@ -30640,7 +30636,11 @@
 2600:c12::,2600:c12:6013:ffff:ffff:ffff:ffff:ffff,12179,Internap Holding LLC
 2600:c13:1002::,2600:c13:ffff:ffff:ffff:ffff:ffff:ffff,13791,Internap Holding LLC
 2600:d00::,2600:d0f:ffff:ffff:ffff:ffff:ffff:ffff,20161,TeraGo Networks Inc.
-2600:1000::,2600:1017:ffff:ffff:ffff:ffff:ffff:ffff,6167,Verizon Business
+2600:1000::,2600:1007:bff:ffff:ffff:ffff:ffff:ffff,6167,Verizon Business
+2600:1007:c00::,2600:1007:c00:ffff:ffff:ffff:ffff:ffff,11145,AS11145
+2600:1007:c01::,2600:1007:c02:ffff:ffff:ffff:ffff:ffff,6167,Verizon Business
+2600:1007:c03::,2600:1007:c03:ffff:ffff:ffff:ffff:ffff,11145,AS11145
+2600:1007:c04::,2600:1017:ffff:ffff:ffff:ffff:ffff:ffff,6167,Verizon Business
 2600:1100::,2600:110f:ffff:ffff:ffff:ffff:ffff:ffff,7381,"BroadbandONE, LLC"
 2600:1200::,2600:12ff:ffff:ffff:ffff:ffff:ffff:ffff,4155,USDA
 2600:1300::,2600:1300:ffff:ffff:ffff:ffff:ffff:ffff,20021,"Ntirety, Inc."
@@ -32624,7 +32624,14 @@
 2602:81c:f000::,2602:81c:f00f:ffff:ffff:ffff:ffff:ffff,30588,AS30588
 2602:81d::,2602:81d:f:ffff:ffff:ffff:ffff:ffff,54891,CATHRON INFORMATION CONSULTING
 2602:81d:1000::,2602:81d:10ff:ffff:ffff:ffff:ffff:ffff,401723,PRIMECorp Police Records Information Management Environment Incorporated
+2602:f456::,2602:f456:ff:ffff:ffff:ffff:ffff:ffff,33355,AS33355
+2602:f457::,2602:f457:fff:ffff:ffff:ffff:ffff:ffff,397616,CITY OF PRESCOTT
+2602:f458::,2602:f458:ff:ffff:ffff:ffff:ffff:ffff,31924,AS31924
+2602:f459::,2602:f459:ff:ffff:ffff:ffff:ffff:ffff,32878,AS32878
 2602:f45a::,2602:f45a:ff:ffff:ffff:ffff:ffff:ffff,899,AS899
+2602:f45b::,2602:f45b:ff:ffff:ffff:ffff:ffff:ffff,394804,AS394804
+2602:f45c::,2602:f45c:ff:ffff:ffff:ffff:ffff:ffff,26369,AS26369
+2602:f45d::,2602:f45d:ff:ffff:ffff:ffff:ffff:ffff,40352,AS40352
 2602:f45e::,2602:f45e:ff:ffff:ffff:ffff:ffff:ffff,402208,AS402208
 2602:f45f::,2602:f45f:ff:ffff:ffff:ffff:ffff:ffff,36697,AS36697
 2602:f460::,2602:f460:ff:ffff:ffff:ffff:ffff:ffff,402196,AS402196
@@ -32719,11 +32726,9 @@
 2602:f4ca:e0::,2602:f4ca:ef:ffff:ffff:ffff:ffff:ffff,20446,Dukelana LLC
 2602:f4cb::,2602:f4cb:fff:ffff:ffff:ffff:ffff:ffff,59730,StealthByte Network LTD
 2602:f4ce::,2602:f4ce:ff:ffff:ffff:ffff:ffff:ffff,10261,B3zdna Systems Inc.
-2602:f4d2::,2602:f4d2:9ff:ffff:ffff:ffff:ffff:ffff,10655,BLOOMBERG INDUSTRY GROUP
+2602:f4d2::,2602:f4d2::ffff:ffff:ffff:ffff:ffff,10655,BLOOMBERG INDUSTRY GROUP
 2602:f4d2:a00::,2602:f4d2:a1f:ffff:ffff:ffff:ffff:ffff,16509,"Amazon.com, Inc."
-2602:f4d2:a20::,2602:f4d2:aff:ffff:ffff:ffff:ffff:ffff,10655,BLOOMBERG INDUSTRY GROUP
 2602:f4d2:b00::,2602:f4d2:b0f:ffff:ffff:ffff:ffff:ffff,8075,Microsoft Corporation
-2602:f4d2:b10::,2602:f4d2:fff:ffff:ffff:ffff:ffff:ffff,10655,BLOOMBERG INDUSTRY GROUP
 2602:f4d3::,2602:f4d3::ffff:ffff:ffff:ffff:ffff,55280,RackByte LLC
 2602:f4d6::,2602:f4d6:ff:ffff:ffff:ffff:ffff:ffff,53902,"Fluxorus Networks, LLC"
 2602:f4d7::,2602:f4d7:fff:ffff:ffff:ffff:ffff:ffff,399712,Entefy Inc.
@@ -32817,8 +32822,9 @@
 2602:f53d::,2602:f53d:ff:ffff:ffff:ffff:ffff:ffff,402047,SmartWave Broadband LLC
 2602:f53e::,2602:f53e:ff:ffff:ffff:ffff:ffff:ffff,402030,AS402030
 2602:f541::,2602:f541:fff:ffff:ffff:ffff:ffff:ffff,397954,GJC
-2602:f542::,2602:f542::ffff:ffff:ffff:ffff:ffff,31898,Oracle Corporation
-2602:f542:ae::,2602:f542:ae:ffff:ffff:ffff:ffff:ffff,215207,Henrik Van Tassell
+2602:f542::,2602:f542:ac0:ffff:ffff:ffff:ffff:ffff,63477,AS63477
+2602:f542:ac1::,2602:f542:ac1:ffff:ffff:ffff:ffff:ffff,31898,Oracle Corporation
+2602:f542:ac2::,2602:f542:fff:ffff:ffff:ffff:ffff:ffff,63477,AS63477
 2602:f543::,2602:f543:fff:ffff:ffff:ffff:ffff:ffff,402017,"Radiologic Associates of Fredericksburg, LTD."
 2602:f544::,2602:f544:fff:ffff:ffff:ffff:ffff:ffff,399230,"Community Fibre Company, Inc"
 2602:f545::,2602:f545:fff:ffff:ffff:ffff:ffff:ffff,402023,Packet Solutions LLC
@@ -33012,6 +33018,7 @@
 2602:f650:800::,2602:f650:fff:ffff:ffff:ffff:ffff:ffff,203062,Alexandre Roux
 2602:f651::,2602:f651:fff:ffff:ffff:ffff:ffff:ffff,401370,CALYX NETWORKS
 2602:f652::,2602:f652:ff:ffff:ffff:ffff:ffff:ffff,401371,Deep To One Inc
+2602:f653::,2602:f653:ff:ffff:ffff:ffff:ffff:ffff,63059,AS63059
 2602:f654::,2602:f654:3f:ffff:ffff:ffff:ffff:ffff,401186,Optyx Broadband Inc.
 2602:f655::,2602:f655:3f:ffff:ffff:ffff:ffff:ffff,401185,Evolution Fiber LLC
 2602:f656::,2602:f656:fff:ffff:ffff:ffff:ffff:ffff,1054,Zont LLC
@@ -34126,7 +34133,7 @@
 2602:f9c2::,2602:f9c2:fff:ffff:ffff:ffff:ffff:ffff,36061,Waterloo Fiber
 2602:f9c3::,2602:f9c3:fff:ffff:ffff:ffff:ffff:ffff,399226,SpeedFI Inc.
 2602:f9c4::,2602:f9c4:ff:ffff:ffff:ffff:ffff:ffff,1030,AS1030
-2602:f9c6::,2602:f9c6:ff:ffff:ffff:ffff:ffff:ffff,5096,AS5096
+2602:f9c6::,2602:f9c6:ff:ffff:ffff:ffff:ffff:ffff,21647,Lightboard Realty
 2602:f9c7::,2602:f9c7:fff:ffff:ffff:ffff:ffff:ffff,29889,"Fast Serv Networks, LLC"
 2602:f9c8::,2602:f9c8:ff:ffff:ffff:ffff:ffff:ffff,396996,AS396996
 2602:f9c9::,2602:f9c9:ff:ffff:ffff:ffff:ffff:ffff,22014,City of Las Vegas
@@ -34680,10 +34687,8 @@
 2602:fb66::,2602:fb66:ff:ffff:ffff:ffff:ffff:ffff,18714,AS18714
 2602:fb67::,2602:fb67:1:ffff:ffff:ffff:ffff:ffff,397244,"Tackitt, Inc."
 2602:fb67:d::,2602:fb67:d:ffff:ffff:ffff:ffff:ffff,397244,"Tackitt, Inc."
-2602:fb67:10::,2602:fb67:19:ffff:ffff:ffff:ffff:ffff,397244,"Tackitt, Inc."
 2602:fb67:1a::,2602:fb67:1a:ffff:ffff:ffff:ffff:ffff,396908,Laurens Technologies Internet Services
-2602:fb67:1b::,2602:fb67:1f:ffff:ffff:ffff:ffff:ffff,397244,"Tackitt, Inc."
-2602:fb67:100::,2602:fb67:1ff:ffff:ffff:ffff:ffff:ffff,397244,"Tackitt, Inc."
+2602:fb67:1b::,2602:fb67:1b:ffff:ffff:ffff:ffff:ffff,20473,"The Constant Company, LLC"
 2602:fb68::,2602:fb68:3f:ffff:ffff:ffff:ffff:ffff,207556,Kyle McClammy
 2602:fb68:40::,2602:fb68:bf:ffff:ffff:ffff:ffff:ffff,50842,ServerForge LLC
 2602:fb68:c0::,2602:fb68:180:ffff:ffff:ffff:ffff:ffff,23428,ServerForge LLC
@@ -37378,7 +37383,8 @@
 2604:2d40::,2604:2d40:ffff:ffff:ffff:ffff:ffff:ffff,53764,DM Wireless LLC
 2604:2d60::,2604:2d60:ffff:ffff:ffff:ffff:ffff:ffff,25730,Quixly
 2604:2d80::,2604:2d80:4ff:ffff:ffff:ffff:ffff:ffff,30036,Mediacom Communications Corp
-2604:2d80:c00::,2604:2d80:667f:ffff:ffff:ffff:ffff:ffff,30036,Mediacom Communications Corp
+2604:2d80:c00::,2604:2d80:12ff:ffff:ffff:ffff:ffff:ffff,30036,Mediacom Communications Corp
+2604:2d80:1380::,2604:2d80:667f:ffff:ffff:ffff:ffff:ffff,30036,Mediacom Communications Corp
 2604:2d80:6700::,2604:2d80:d0ff:ffff:ffff:ffff:ffff:ffff,30036,Mediacom Communications Corp
 2604:2d80:d180::,2604:2d80:d27f:ffff:ffff:ffff:ffff:ffff,30036,Mediacom Communications Corp
 2604:2d80:d380::,2604:2d80:f17f:ffff:ffff:ffff:ffff:ffff,30036,Mediacom Communications Corp
@@ -37402,7 +37408,8 @@
 2604:2e80:800::,2604:2e80:fff:ffff:ffff:ffff:ffff:ffff,30036,Mediacom Communications Corp
 2604:2e80:1400::,2604:2e80:1400:ffff:ffff:ffff:ffff:ffff,30036,Mediacom Communications Corp
 2604:2e80:1c00::,2604:2e80:1fff:ffff:ffff:ffff:ffff:ffff,30036,Mediacom Communications Corp
-2604:2e87::,2604:2e8d:6fff:ffff:ffff:ffff:ffff:ffff,30036,Mediacom Communications Corp
+2604:2e87::,2604:2e8c:3bff:ffff:ffff:ffff:ffff:ffff,30036,Mediacom Communications Corp
+2604:2e8c:4000::,2604:2e8d:6fff:ffff:ffff:ffff:ffff:ffff,30036,Mediacom Communications Corp
 2604:2e8d:7400::,2604:2e8e:2fff:ffff:ffff:ffff:ffff:ffff,30036,Mediacom Communications Corp
 2604:2e8e:3800::,2604:2e8e:efff:ffff:ffff:ffff:ffff:ffff,30036,Mediacom Communications Corp
 2604:2e8e:f400::,2604:2e8f:27ff:ffff:ffff:ffff:ffff:ffff,30036,Mediacom Communications Corp
@@ -38727,7 +38734,7 @@
 2605:4800::,2605:4800:ffff:ffff:ffff:ffff:ffff:ffff,20209,AS20209
 2605:4840::,2605:4840:ffff:ffff:ffff:ffff:ffff:ffff,63473,"HostHatch, LLC"
 2605:48c0::,2605:48c0:ffff:ffff:ffff:ffff:ffff:ffff,397504,ecoLINK
-2605:4900::,2605:4900:ffff:ffff:ffff:ffff:ffff:ffff,13576,SOUTH DAKOTA NETWORK
+2605:4900::,2605:4900:ffff:ffff:ffff:ffff:ffff:ffff,63172,AS63172
 2605:4940::,2605:4940:ffff:ffff:ffff:ffff:ffff:ffff,397606,Crowsnest IT Support LLC
 2605:4980::,2605:4980:ffff:ffff:ffff:ffff:ffff:ffff,54706,ZRAY TECHNOLOGIES CORPORATION
 2605:49c0::,2605:49c0:ffff:ffff:ffff:ffff:ffff:ffff,15094,SIS Consulting
@@ -40942,8 +40949,7 @@
 2606:f180:5::,2606:f180:5:ffff:ffff:ffff:ffff:ffff,20473,"The Constant Company, LLC"
 2606:f180:6::,2606:f180:6:ffff:ffff:ffff:ffff:ffff,212400,DEDIROOM LLC
 2606:f180:7::,2606:f180:7:ffff:ffff:ffff:ffff:ffff,14618,"Amazon.com, Inc."
-2606:f180:8::,2606:f180:8:ffff:ffff:ffff:ffff:ffff,16509,"Amazon.com, Inc."
-2606:f180:9::,2606:f180:b:ffff:ffff:ffff:ffff:ffff,64286,LogicWeb Inc.
+2606:f180:8::,2606:f180:b:ffff:ffff:ffff:ffff:ffff,64286,LogicWeb Inc.
 2606:f180:c::,2606:f180:c:ffff:ffff:ffff:ffff:ffff,396356,Latitude.sh
 2606:f180:d::,2606:f180:ffff:ffff:ffff:ffff:ffff:ffff,64286,LogicWeb Inc.
 2606:f181::,2606:f181:ffff:ffff:ffff:ffff:ffff:ffff,137409,GSL Networks Pty LTD
@@ -41350,6 +41356,7 @@
 2607:3580::,2607:3580:ffff:ffff:ffff:ffff:ffff:ffff,33452,RIDGE WIRELESS
 2607:35c0::,2607:35c0:ffff:ffff:ffff:ffff:ffff:ffff,20020,Power Systems Computers
 2607:3640::,2607:3640:2fff:ffff:ffff:ffff:ffff:ffff,394056,BIF IV
+2607:3640:ffcc::,2607:3640:ffcf:ffff:ffff:ffff:ffff:ffff,394056,BIF IV
 2607:3680::,2607:3680:ffff:ffff:ffff:ffff:ffff:ffff,393821,Lismore Cooperative Telephone Company
 2607:36c0::,2607:36c0:ffff:ffff:ffff:ffff:ffff:ffff,394998,LakeLand Internet LLC
 2607:3700::,2607:3700:ffff:ffff:ffff:ffff:ffff:ffff,16851,NebraskaLink
@@ -42057,8 +42064,8 @@
 2607:d080::,2607:d080:ffff:ffff:ffff:ffff:ffff:ffff,29946,Union Wireless
 2607:d0c0::,2607:d0c0:9fff:ffff:ffff:ffff:ffff:ffff,40450,AS40450
 2607:d0c0:a000::,2607:d0c0:afff:ffff:ffff:ffff:ffff:ffff,14618,"Amazon.com, Inc."
-2607:d0c0:b000::,2607:d0c0:cffe:ffff:ffff:ffff:ffff:ffff,40450,AS40450
-2607:d0c0:cfff::,2607:d0c0:cfff:ffff:ffff:ffff:ffff:ffff,13335,"Cloudflare, Inc."
+2607:d0c0:b000::,2607:d0c0:cffd:ffff:ffff:ffff:ffff:ffff,40450,AS40450
+2607:d0c0:cffe::,2607:d0c0:cfff:ffff:ffff:ffff:ffff:ffff,31898,Oracle Corporation
 2607:d0c0:d000::,2607:d0c0:ffff:ffff:ffff:ffff:ffff:ffff,40450,AS40450
 2607:d140::,2607:d140:ffff:ffff:ffff:ffff:ffff:ffff,54740,Dynaweb Foundation
 2607:d180::,2607:d180:ffff:ffff:ffff:ffff:ffff:ffff,11710,ABBA TECHNOLOGIES
@@ -42298,20 +42305,21 @@
 2607:f148::,2607:f148:ffff:ffff:ffff:ffff:ffff:ffff,11734,Connectria
 2607:f150::,2607:f150:fffe:ffff:ffff:ffff:ffff:ffff,8092,"Access Media Holdings, LLC"
 2607:f150:ffff::,2607:f150:ffff:ffff:ffff:ffff:ffff:ffff,3601,Interconnected Associates (IXA) Inc.
-2607:f160::,2607:f160::ffff:ffff:ffff:ffff:ffff,6167,Verizon Business
-2607:f160:a::,2607:f160:c:ffff:ffff:ffff:ffff:ffff,6167,Verizon Business
-2607:f160:10::,2607:f160:11:ffff:ffff:ffff:ffff:ffff,6167,Verizon Business
-2607:f160:12::,2607:f160:12:ffff:ffff:ffff:ffff:ffff,22394,Verizon Business
-2607:f160:25::,2607:f160:25:ffff:ffff:ffff:ffff:ffff,22394,Verizon Business
-2607:f160:2e::,2607:f160:2e:ffff:ffff:ffff:ffff:ffff,22394,Verizon Business
-2607:f160:30::,2607:f160:31:ffff:ffff:ffff:ffff:ffff,6167,Verizon Business
-2607:f160:37::,2607:f160:37:ffff:ffff:ffff:ffff:ffff,22394,Verizon Business
-2607:f160:3e::,2607:f160:3e:ffff:ffff:ffff:ffff:ffff,22394,Verizon Business
-2607:f160:40::,2607:f160:40:ffff:ffff:ffff:ffff:ffff,6167,Verizon Business
-2607:f160:41::,2607:f160:41:ffff:ffff:ffff:ffff:ffff,22394,Verizon Business
-2607:f160:42::,2607:f160:42:ffff:ffff:ffff:ffff:ffff,6167,Verizon Business
-2607:f160:47::,2607:f160:47:ffff:ffff:ffff:ffff:ffff,6167,Verizon Business
-2607:f160:100::,2607:f160:100:ffff:ffff:ffff:ffff:ffff,6167,Verizon Business
+2607:f160::,2607:f160::ffff:ffff:ffff:ffff:ffff,11145,AS11145
+2607:f160:a::,2607:f160:c:ffff:ffff:ffff:ffff:ffff,11145,AS11145
+2607:f160:10::,2607:f160:12:ffff:ffff:ffff:ffff:ffff,11145,AS11145
+2607:f160:25::,2607:f160:25:ffff:ffff:ffff:ffff:ffff,11145,AS11145
+2607:f160:28::,2607:f160:28:ffff:ffff:ffff:ffff:ffff,11145,AS11145
+2607:f160:2e::,2607:f160:2e:ffff:ffff:ffff:ffff:ffff,11145,AS11145
+2607:f160:30::,2607:f160:31:ffff:ffff:ffff:ffff:ffff,11145,AS11145
+2607:f160:36::,2607:f160:37:ffff:ffff:ffff:ffff:ffff,11145,AS11145
+2607:f160:3e::,2607:f160:3e:ffff:ffff:ffff:ffff:ffff,11145,AS11145
+2607:f160:40::,2607:f160:42:ffff:ffff:ffff:ffff:ffff,11145,AS11145
+2607:f160:47::,2607:f160:47:ffff:ffff:ffff:ffff:ffff,11145,AS11145
+2607:f160:100::,2607:f160:100:ffff:ffff:ffff:ffff:ffff,11145,AS11145
+2607:f160:102::,2607:f160:103:ffff:ffff:ffff:ffff:ffff,11145,AS11145
+2607:f160:107::,2607:f160:107:ffff:ffff:ffff:ffff:ffff,11145,AS11145
+2607:f160:180::,2607:f160:180:ffff:ffff:ffff:ffff:ffff,11145,AS11145
 2607:f160:8800::,2607:f160:88ff:ffff:ffff:ffff:ffff:ffff,6167,Verizon Business
 2607:f160:ff00::,2607:f160:ffff:ffff:ffff:ffff:ffff:ffff,6167,Verizon Business
 2607:f168::,2607:f168:ffff:ffff:ffff:ffff:ffff:ffff,33743,Hudson Valley Wireless
@@ -47176,6 +47184,7 @@
 2801:16:f000::,2801:16:f000:ffff:ffff:ffff:ffff:ffff,19429,ETB - Colombia
 2801:16:f800::,2801:16:f800:ffff:ffff:ffff:ffff:ffff,274010,BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A.
 2801:17::,2801:17::ffff:ffff:ffff:ffff:ffff,52452,COMPASS GROUP INVESMENTS ADVISORS (CGIA)
+2801:17:400::,2801:17:400:ffff:ffff:ffff:ffff:ffff,274323,AS274323
 2801:17:800::,2801:17:800:ffff:ffff:ffff:ffff:ffff,267860,UNIVERSIDAD DE ORIENTE
 2801:17:1000::,2801:17:1000:ffff:ffff:ffff:ffff:ffff,264655,AS264655
 2801:17:1800::,2801:17:1800:ffff:ffff:ffff:ffff:ffff,13489,EPM Telecomunicaciones S.A. E.S.P.
@@ -48499,7 +48508,8 @@
 2803:be0:9995::,2803:be0:ffff:ffff:ffff:ffff:ffff:ffff,270080,INTERCORP S.R.L.
 2803:c00::,2803:c00:ffff:ffff:ffff:ffff:ffff:ffff,262230,HORUS SISTEMAS INFORMATICOS SRL
 2803:c10::,2803:c10:ffff:ffff:ffff:ffff:ffff:ffff,271867,MARIO BENAVIDES SERVICIO DE TELEVISION POR CABLE E.I.R.L (CABLEVISION DEL SUR)
-2803:c20::,2803:c20:ffff:ffff:ffff:ffff:ffff:ffff,272093,AS272093
+2803:c20::,2803:c20:ffff:ffff:ffff:ffff:ffff:ffff,262186,TV AZTECA SUCURSAL COLOMBIA
+2803:c30::,2803:c30:ffff:ffff:ffff:ffff:ffff:ffff,274324,AS274324
 2803:c40::,2803:c40:ffff:ffff:ffff:ffff:ffff:ffff,33182,"HostDime.com, Inc."
 2803:c50::,2803:c50:ffff:ffff:ffff:ffff:ffff:ffff,273139,RED Y COMUNICACIONES REYCOM DEL SUR SOCIEDAD ANONIMA
 2803:c80::,2803:c80:ffff:ffff:ffff:ffff:ffff:ffff,263717,SOL TELECOMUNICACIONES S.A.
@@ -50173,7 +50183,6 @@
 2803:9bc0::,2803:9bc0:ffff:ffff:ffff:ffff:ffff:ffff,265757,Intersur Limitada
 2803:9bd0::,2803:9bd0:ffff:ffff:ffff:ffff:ffff:ffff,274226,ISP PROVEEDOR DE SERVICIOS DE INTERNET SAS
 2803:9be0::,2803:9be0:ffff:ffff:ffff:ffff:ffff:ffff,270091,CARRIL JORGE RAMON (ECSANET INTERNET)
-2803:9c00::,2803:9c00:ffff:ffff:ffff:ffff:ffff:ffff,52383,AS52383
 2803:9c10::,2803:9c10:ffff:ffff:ffff:ffff:ffff:ffff,271878,NET-G S.R.L.
 2803:9c40::,2803:9c40:ffff:ffff:ffff:ffff:ffff:ffff,263704,VELOSTAR-CANEPA
 2803:9c50::,2803:9c50:ffff:ffff:ffff:ffff:ffff:ffff,273148,RED CURSO TELECOMUNICACIONES MANUEL CABEZAS ABARZUA E.I.R.L.
@@ -66001,7 +66010,7 @@
 2a01:e780::,2a01:e787:ffff:ffff:ffff:ffff:ffff:ffff,213962,Middle East Services LLC
 2a01:e7c0::,2a01:e7c7:ffff:ffff:ffff:ffff:ffff:ffff,215970,AS215970
 2a01:e800::,2a01:e807:ffff:ffff:ffff:ffff:ffff:ffff,214484,GENIUS TLC S.R.L.S.
-2a01:e840:3::,2a01:e840:3:ffff:ffff:ffff:ffff:ffff,20738,Heart Internet limited
+2a01:e840:2::,2a01:e840:3:ffff:ffff:ffff:ffff:ffff,20738,Heart Internet limited
 2a01:e880::,2a01:e880:ffff:ffff:ffff:ffff:ffff:ffff,214237,setaiga GmbH
 2a01:e900::,2a01:e900:1f:ffff:ffff:ffff:ffff:ffff,214770,RGN Holding Ltd.
 2a01:e900:ac::,2a01:e900:ac:ffff:ffff:ffff:ffff:ffff,214770,RGN Holding Ltd.
@@ -72346,6 +72355,7 @@
 2a04:4900::,2a04:4907:ffff:ffff:ffff:ffff:ffff:ffff,64401,Rignet AS
 2a04:4940::,2a04:4947:ffff:ffff:ffff:ffff:ffff:ffff,60278,Helse Vest IKT AS
 2a04:49c0::,2a04:49c0:ffff:ffff:ffff:ffff:ffff:ffff,60471,Mobitel sh.p.k.
+2a04:49c1::,2a04:49c1:ffff:ffff:ffff:ffff:ffff:ffff,41439,AS41439
 2a04:4a00::,2a04:4a07:ffff:ffff:ffff:ffff:ffff:ffff,47440,"BUSINESS SYSTEM TELEHOUSE, OOO"
 2a04:4a42:4000::,2a04:4a42:bfff:ffff:ffff:ffff:ffff:ffff,206067,Hutchison 3G UK Limited
 2a04:4a42:d100::,2a04:4a42:d1ff:ffff:ffff:ffff:ffff:ffff,206067,Hutchison 3G UK Limited
@@ -75868,7 +75878,8 @@
 2a06:9801:2c::,2a06:9801:2c:ffff:ffff:ffff:ffff:ffff,201238,AS201238
 2a06:9801:2d::,2a06:9801:2d:ffff:ffff:ffff:ffff:ffff,209735,Lagrange Cloud Technologies Limited
 2a06:9801:2e::,2a06:9801:2f:ffff:ffff:ffff:ffff:ffff,201371,AS201371
-2a06:9801:30::,2a06:9801:4f:ffff:ffff:ffff:ffff:ffff,209735,Lagrange Cloud Technologies Limited
+2a06:9801:30::,2a06:9801:3f:ffff:ffff:ffff:ffff:ffff,213650,CDN Infra Limited
+2a06:9801:40::,2a06:9801:4f:ffff:ffff:ffff:ffff:ffff,209735,Lagrange Cloud Technologies Limited
 2a06:9801:50::,2a06:9801:50:ffff:ffff:ffff:ffff:ffff,201132,AS201132
 2a06:9801:51::,2a06:9801:51:ffff:ffff:ffff:ffff:ffff,209735,Lagrange Cloud Technologies Limited
 2a06:9801:52::,2a06:9801:52:ffff:ffff:ffff:ffff:ffff,213282,Ada Yuksek Teknoloji Limited Sirketi
@@ -79247,7 +79258,11 @@
 2a09:54c6:5005::,2a09:54c6:5005:ffff:ffff:ffff:ffff:ffff,209693,OC NETWORKS LIMITED
 2a09:54c6:8000::,2a09:54c6:8fff:ffff:ffff:ffff:ffff:ffff,204676,Paul Meyer
 2a09:54c6:9000::,2a09:54c6:9fff:ffff:ffff:ffff:ffff:ffff,199340,"HONG,GUANWAN"
-2a09:54c6:a000::,2a09:54c6:afff:ffff:ffff:ffff:ffff:ffff,212128,"LLC ""HORIZON"""
+2a09:54c6:a000::,2a09:54c6:a000:ffff:ffff:ffff:ffff:ffff,207083,HostSlim B.V.
+2a09:54c6:a100::,2a09:54c6:a100:ffff:ffff:ffff:ffff:ffff,207083,HostSlim B.V.
+2a09:54c6:a228::,2a09:54c6:a228:ffff:ffff:ffff:ffff:ffff,209944,CONTRUST SOLUTIONS S.R.L.
+2a09:54c6:a500::,2a09:54c6:a500:ffff:ffff:ffff:ffff:ffff,207083,HostSlim B.V.
+2a09:54c6:a700::,2a09:54c6:a700:ffff:ffff:ffff:ffff:ffff,207083,HostSlim B.V.
 2a09:54c6:b000::,2a09:54c6:cfff:ffff:ffff:ffff:ffff:ffff,214040,RUNNAN WEN
 2a09:54c6:d000::,2a09:54c6:dfff:ffff:ffff:ffff:ffff:ffff,214848,"Tianjin Compatible Network Technology Co., Ltd."
 2a09:54c6:e000::,2a09:54c6:efff:ffff:ffff:ffff:ffff:ffff,214040,RUNNAN WEN
@@ -79851,7 +79866,6 @@
 2a09:df80::,2a09:df87:ffff:ffff:ffff:ffff:ffff:ffff,60447,I NET BULGARIA EOOD
 2a09:dfc0::,2a09:dfc7:ffff:ffff:ffff:ffff:ffff:ffff,209223,Source2Cloud B.V.
 2a09:e000::,2a09:e007:ffff:ffff:ffff:ffff:ffff:ffff,50529,FreeNet L.L.C-FZ
-2a09:e040::,2a09:e040:ffff:ffff:ffff:ffff:ffff:ffff,58073,YISP B.V.
 2a09:e080::,2a09:e087:ffff:ffff:ffff:ffff:ffff:ffff,29686,Probe Networks
 2a09:e0c0::,2a09:e0c7:ffff:ffff:ffff:ffff:ffff:ffff,31519,SERTEX SIA
 2a09:e100::,2a09:e107:ffff:ffff:ffff:ffff:ffff:ffff,209834,KAZA.cz s.r.o.
@@ -80894,7 +80908,7 @@
 2a0a:7780::,2a0a:7787:ffff:ffff:ffff:ffff:ffff:ffff,207167,mapnet IT services s.r.o.
 2a0a:77c0::,2a0a:77c7:ffff:ffff:ffff:ffff:ffff:ffff,208006,ARVANCLOUD GLOBAL TECHNOLOGIES L.L.C
 2a0a:7840::,2a0a:7847:ffff:ffff:ffff:ffff:ffff:ffff,25433,HenZ.nl B.V.
-2a0a:7880::,2a0a:7887:ffff:ffff:ffff:ffff:ffff:ffff,206677,Videohouse N.V.
+2a0a:7880::,2a0a:7880:ffff:ffff:ffff:ffff:ffff:ffff,206677,Videohouse N.V.
 2a0a:78c0::,2a0a:78c7:ffff:ffff:ffff:ffff:ffff:ffff,206070,Master Route LLC
 2a0a:7900::,2a0a:7907:ffff:ffff:ffff:ffff:ffff:ffff,211228,AS211228
 2a0a:7940::,2a0a:7940:ffff:ffff:ffff:ffff:ffff:ffff,57834,Petrol Ofisi A.S.
@@ -84242,6 +84256,7 @@
 2a0c:b641:930::,2a0c:b641:93f:ffff:ffff:ffff:ffff:ffff,201853,AS201853
 2a0c:b641:940::,2a0c:b641:94f:ffff:ffff:ffff:ffff:ffff,200202,Fuze III SARL
 2a0c:b641:950::,2a0c:b641:95f:ffff:ffff:ffff:ffff:ffff,201784,AS201784
+2a0c:b641:990::,2a0c:b641:99f:ffff:ffff:ffff:ffff:ffff,200882,AS200882
 2a0c:b641:9a0::,2a0c:b641:9af:ffff:ffff:ffff:ffff:ffff,213219,SKALA NETWORKS LLC
 2a0c:b641:9b0::,2a0c:b641:9bf:ffff:ffff:ffff:ffff:ffff,199426,XOOLOO SAS
 2a0c:b641:9d0::,2a0c:b641:9df:ffff:ffff:ffff:ffff:ffff,199258,Antoine Delaporte
@@ -85561,6 +85576,7 @@
 2a0d:b800::,2a0d:b807:ffff:ffff:ffff:ffff:ffff:ffff,205277,Interlink LLC
 2a0d:b841::,2a0d:b841:ffff:ffff:ffff:ffff:ffff:ffff,211009,Kazyanin Andrei Anatolevich
 2a0d:b842::,2a0d:b842:ffff:ffff:ffff:ffff:ffff:ffff,206306,Gilmanov Ruslan Andreevich
+2a0d:b846::,2a0d:b846:ffff:ffff:ffff:ffff:ffff:ffff,215290,Bezhin Evgenii Alekseevich
 2a0d:b847::,2a0d:b847:ffff:ffff:ffff:ffff:ffff:ffff,206306,Gilmanov Ruslan Andreevich
 2a0d:b880::,2a0d:b887:ffff:ffff:ffff:ffff:ffff:ffff,39392,SH.cz s.r.o.
 2a0d:b8c0::,2a0d:b8c7:ffff:ffff:ffff:ffff:ffff:ffff,32708,LoadEdge Limited
@@ -86557,7 +86573,7 @@
 2a0e:5980::,2a0e:5987:ffff:ffff:ffff:ffff:ffff:ffff,6759,Pelion IoT Limited
 2a0e:59c0::,2a0e:59c7:ffff:ffff:ffff:ffff:ffff:ffff,207187,"TKR Jasek, s.r.o."
 2a0e:5a00::,2a0e:5a07:ffff:ffff:ffff:ffff:ffff:ffff,212408,Tom Bolk trading as ARGO-ICT
-2a0e:5a80::,2a0e:5a87:ffff:ffff:ffff:ffff:ffff:ffff,62563,GLOBALTELEHOST Corp.
+2a0e:5a80::,2a0e:5a87:ffff:ffff:ffff:ffff:ffff:ffff,201814,MEVSPACE sp. z o.o.
 2a0e:5b00::,2a0e:5b07:ffff:ffff:ffff:ffff:ffff:ffff,212616,K.M.A ADVANCED TECHNOLOGIES LTD
 2a0e:5b40::,2a0e:5b43:ffff:ffff:ffff:ffff:ffff:ffff,41960,Nextpertise B.V.
 2a0e:5b44::,2a0e:5b47:ffff:ffff:ffff:ffff:ffff:ffff,203172,Qupra B.V.
@@ -87113,7 +87129,6 @@
 2a0e:9b40:1337::,2a0e:9b40:1337:ffff:ffff:ffff:ffff:ffff,208431,AS208431
 2a0e:9b42::,2a0e:9b42:ffff:ffff:ffff:ffff:ffff:ffff,213342,Adrian Pistol
 2a0e:9c00::,2a0e:9c07:ffff:ffff:ffff:ffff:ffff:ffff,201086,Mahsum Celik trading as ServerPlusInternet Sunucu Hizmetleri
-2a0e:9c80::,2a0e:9c87:ffff:ffff:ffff:ffff:ffff:ffff,208805,POPE servis s.r.o.
 2a0e:9cc0::,2a0e:9cc7:ffff:ffff:ffff:ffff:ffff:ffff,208905,Exelera Telecom Ltd
 2a0e:9d00::,2a0e:9d07:ffff:ffff:ffff:ffff:ffff:ffff,28961,C&A Services GmbH & Co. OHG
 2a0e:9d40::,2a0e:9d40:ffff:ffff:ffff:ffff:ffff:ffff,20473,"The Constant Company, LLC"
@@ -88071,7 +88086,9 @@
 2a0e:fd45:2f40::,2a0e:fd45:2f40:ffff:ffff:ffff:ffff:ffff,212591,N1 Solutions B.V. trading as PLTFRMS
 2a0e:fd45:2f41::,2a0e:fd45:2f4f:ffff:ffff:ffff:ffff:ffff,44103,The Mastermind Holding B.V.
 2a0e:fd45:2f50::,2a0e:fd45:2f50:ffff:ffff:ffff:ffff:ffff,49981,WorldStream B.V.
-2a0e:fd45:2f51::,2a0e:fd45:4fff:ffff:ffff:ffff:ffff:ffff,44103,The Mastermind Holding B.V.
+2a0e:fd45:2f51::,2a0e:fd45:2f5f:ffff:ffff:ffff:ffff:ffff,44103,The Mastermind Holding B.V.
+2a0e:fd45:2f60::,2a0e:fd45:2f60:ffff:ffff:ffff:ffff:ffff,52041,"Scaleblade, Ltd."
+2a0e:fd45:2f61::,2a0e:fd45:4fff:ffff:ffff:ffff:ffff:ffff,44103,The Mastermind Holding B.V.
 2a0e:fd45:5000::,2a0e:fd45:50ff:ffff:ffff:ffff:ffff:ffff,204830,Jelle Kaufmann
 2a0e:fd45:5100::,2a0e:fd47:ffff:ffff:ffff:ffff:ffff:ffff,44103,The Mastermind Holding B.V.
 2a0e:fd80::,2a0e:fd80:ffff:ffff:ffff:ffff:ffff:ffff,208398,Edge Technology Plus d.o.o. Beograd
@@ -88340,6 +88357,7 @@
 2a0f:26c0::,2a0f:26c7:ffff:ffff:ffff:ffff:ffff:ffff,50529,FreeNet L.L.C-FZ
 2a0f:2700:1::,2a0f:2700:2:ffff:ffff:ffff:ffff:ffff,60781,LeaseWeb Netherlands B.V.
 2a0f:2701::,2a0f:2704:ffff:ffff:ffff:ffff:ffff:ffff,154049,EXA TECH PTE. LTD.
+2a0f:2706::,2a0f:2706:ffff:ffff:ffff:ffff:ffff:ffff,152920,Zhao Chenglin
 2a0f:2740::,2a0f:2747:ffff:ffff:ffff:ffff:ffff:ffff,137409,GSL Networks Pty LTD
 2a0f:2780::,2a0f:2787:ffff:ffff:ffff:ffff:ffff:ffff,61164,LIR Limited
 2a0f:27c0::,2a0f:27c7:ffff:ffff:ffff:ffff:ffff:ffff,19318,"Interserver, Inc"
@@ -89586,7 +89604,7 @@
 2a0f:9400:6107::,2a0f:9400:6107:ffff:ffff:ffff:ffff:ffff,209642,Mejiro Network Limited
 2a0f:9400:6109::,2a0f:9400:6109:ffff:ffff:ffff:ffff:ffff,215026,Alessandro Accorsi trading as Len Service SRL
 2a0f:9400:610a::,2a0f:9400:610a:ffff:ffff:ffff:ffff:ffff,31898,Oracle Corporation
-2a0f:9400:610b::,2a0f:9400:610b:ffff:ffff:ffff:ffff:ffff,205037,Kisters AG
+2a0f:9400:610b::,2a0f:9400:610b:ffff:ffff:ffff:ffff:ffff,213323,ZMC MAR GRAPHIC DESIGN SRL-D
 2a0f:9400:610c::,2a0f:9400:610c:ffff:ffff:ffff:ffff:ffff,398395,PureVoltage Hosting Inc.
 2a0f:9400:610d::,2a0f:9400:610d:ffff:ffff:ffff:ffff:ffff,197715,Serverbike LTD
 2a0f:9400:610e::,2a0f:9400:610e:ffff:ffff:ffff:ffff:ffff,34927,iFog GmbH
@@ -90663,7 +90681,6 @@
 2a10:2f00:192::,2a10:2f00:192:ffff:ffff:ffff:ffff:ffff,212184,Prozserin Rudolf
 2a10:2f00:193::,2a10:2f00:193:ffff:ffff:ffff:ffff:ffff,58057,Securebit AG
 2a10:2f00:19f::,2a10:2f00:19f:ffff:ffff:ffff:ffff:ffff,215795,Antonios Damigos
-2a10:2f00:1a0::,2a10:2f00:1a0:ffff:ffff:ffff:ffff:ffff,215486,Matthieu Valleton
 2a10:2f00:1a1::,2a10:2f00:1a1:ffff:ffff:ffff:ffff:ffff,214801,AS214801
 2a10:2f01:100::,2a10:2f01:1ff:ffff:ffff:ffff:ffff:ffff,39753,Kai Liu
 2a10:2f01:211::,2a10:2f01:211:ffff:ffff:ffff:ffff:ffff,58339,MARIA STYLE LTD
@@ -93186,6 +93203,9 @@
 2a11:1f00::,2a11:1f07:ffff:ffff:ffff:ffff:ffff:ffff,42375,iNet Ltd
 2a11:1f40::,2a11:1f47:ffff:ffff:ffff:ffff:ffff:ffff,15704,XTRA TELECOM S.A.
 2a11:1f80::,2a11:1f87:ffff:ffff:ffff:ffff:ffff:ffff,210463,Crytek GmbH
+2a11:1fc0::,2a11:1fc0::ffff:ffff:ffff:ffff:ffff,51791,Remzi Toker trading as VENTURESDC Veri Merkezi Hizmetleri
+2a11:1fc0:1::,2a11:1fc0:1:ffff:ffff:ffff:ffff:ffff,209658,Mirui LLC
+2a11:1fc0:2::,2a11:1fc0:3:ffff:ffff:ffff:ffff:ffff,51791,Remzi Toker trading as VENTURESDC Veri Merkezi Hizmetleri
 2a11:2000::,2a11:2007:ffff:ffff:ffff:ffff:ffff:ffff,213821,Kriek Networks BV
 2a11:2040::,2a11:2047:ffff:ffff:ffff:ffff:ffff:ffff,213820,Pilo IP BV
 2a11:2081::,2a11:2081:ffff:ffff:ffff:ffff:ffff:ffff,206728,Media Land LLC
@@ -93443,6 +93463,7 @@
 2a11:35c0::,2a11:35c1:ffff:ffff:ffff:ffff:ffff:ffff,42375,iNet Ltd
 2a11:35c7::,2a11:35c7:ffff:ffff:ffff:ffff:ffff:ffff,42375,iNet Ltd
 2a11:3600::,2a11:3607:ffff:ffff:ffff:ffff:ffff:ffff,199846,Comnet Multimedia sp. z o.o.
+2a11:3640::,2a11:3647:ffff:ffff:ffff:ffff:ffff:ffff,200875,AS200875
 2a11:3680::,2a11:3687:ffff:ffff:ffff:ffff:ffff:ffff,22773,Cox Communications Inc.
 2a11:36c0::,2a11:36c7:ffff:ffff:ffff:ffff:ffff:ffff,58243,TELE AG
 2a11:3700::,2a11:3707:ffff:ffff:ffff:ffff:ffff:ffff,3236,SERVER.UA LLC
@@ -93582,6 +93603,9 @@
 2a11:5d00::,2a11:5d07:ffff:ffff:ffff:ffff:ffff:ffff,210863,Velartis GmbH
 2a11:5d40::,2a11:5d47:ffff:ffff:ffff:ffff:ffff:ffff,57400,Van Veen Beheer B.V.
 2a11:5d80::,2a11:5d87:ffff:ffff:ffff:ffff:ffff:ffff,57400,Van Veen Beheer B.V.
+2a11:5dc0:1::,2a11:5dc0:1:ffff:ffff:ffff:ffff:ffff,210574,PH BILISIM TEKNOLOJILERI LIMITED SIRKETI
+2a11:5dc0:3::,2a11:5dc0:3:ffff:ffff:ffff:ffff:ffff,210574,PH BILISIM TEKNOLOJILERI LIMITED SIRKETI
+2a11:5dc0:6::,2a11:5dc0:6:ffff:ffff:ffff:ffff:ffff,210574,PH BILISIM TEKNOLOJILERI LIMITED SIRKETI
 2a11:5e00::,2a11:5e07:ffff:ffff:ffff:ffff:ffff:ffff,213821,Kriek Networks BV
 2a11:5e40::,2a11:5e47:ffff:ffff:ffff:ffff:ffff:ffff,213817,AS213817
 2a11:5ec0::,2a11:5ec0::ffff:ffff:ffff:ffff:ffff,16509,"Amazon.com, Inc."
@@ -93919,6 +93943,7 @@
 2a11:c106::,2a11:c106:ffff:ffff:ffff:ffff:ffff:ffff,204490,Kontel LLC
 2a11:c107::,2a11:c107:ffff:ffff:ffff:ffff:ffff:ffff,199669,Okay-Telecom Ltd.
 2a11:c180::,2a11:c187:ffff:ffff:ffff:ffff:ffff:ffff,48456,IPX - FZCO
+2a11:c200::,2a11:c200:ffff:ffff:ffff:ffff:ffff:ffff,12874,Fastweb SpA
 2a11:c240::,2a11:c247:ffff:ffff:ffff:ffff:ffff:ffff,34567,Next Limited
 2a11:c2c0::,2a11:c2c7:ffff:ffff:ffff:ffff:ffff:ffff,204909,Zimnitskaya Irina Nikolaevna
 2a11:c340::,2a11:c347:ffff:ffff:ffff:ffff:ffff:ffff,22773,Cox Communications Inc.
@@ -94107,7 +94132,6 @@
 2a11:f2c0:fffd::,2a11:f2c0:fffd:ffff:ffff:ffff:ffff:ffff,205789,Eden Uhde
 2a11:f340::,2a11:f347:ffff:ffff:ffff:ffff:ffff:ffff,40963,AS40963
 2a11:f3c0::,2a11:f3c7:ffff:ffff:ffff:ffff:ffff:ffff,213821,Kriek Networks BV
-2a11:f400::,2a11:f400:1:ffff:ffff:ffff:ffff:ffff,197116,AS197116
 2a11:f440::,2a11:f447:ffff:ffff:ffff:ffff:ffff:ffff,51823,Microtalk Europe Ltd
 2a11:f480::,2a11:f487:ffff:ffff:ffff:ffff:ffff:ffff,48456,IPX - FZCO
 2a11:f540::,2a11:f547:ffff:ffff:ffff:ffff:ffff:ffff,22773,Cox Communications Inc.
@@ -94765,7 +94789,9 @@
 2a12:84c0::,2a12:84c0:ffff:ffff:ffff:ffff:ffff:ffff,211664,Q-MEX Networks GmbH
 2a12:8540::,2a12:8547:ffff:ffff:ffff:ffff:ffff:ffff,212598,SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.
 2a12:86c0::,2a12:86c0:ffff:ffff:ffff:ffff:ffff:ffff,200157,99999 Informatika Ltd.
-2a12:8780::,2a12:8787:ffff:ffff:ffff:ffff:ffff:ffff,34567,Next Limited
+2a12:8780::,2a12:8781:ffff:ffff:ffff:ffff:ffff:ffff,34567,Next Limited
+2a12:8782::,2a12:8782:ffff:ffff:ffff:ffff:ffff:ffff,204916,LLC Vpsville
+2a12:8783::,2a12:8787:ffff:ffff:ffff:ffff:ffff:ffff,34567,Next Limited
 2a12:8800::,2a12:8807:ffff:ffff:ffff:ffff:ffff:ffff,42375,iNet Ltd
 2a12:8840::,2a12:8847:ffff:ffff:ffff:ffff:ffff:ffff,208124,Negin Narmafzar Asak Research and Information Cooperative Company
 2a12:88c0::,2a12:88c7:ffff:ffff:ffff:ffff:ffff:ffff,208309,AS208309
@@ -94869,7 +94895,7 @@
 2a12:a501::,2a12:a501:ffff:ffff:ffff:ffff:ffff:ffff,206306,Gilmanov Ruslan Andreevich
 2a12:a502::,2a12:a504:ffff:ffff:ffff:ffff:ffff:ffff,34567,Next Limited
 2a12:a505::,2a12:a505:ffff:ffff:ffff:ffff:ffff:ffff,206306,Gilmanov Ruslan Andreevich
-2a12:a506::,2a12:a506:ffff:ffff:ffff:ffff:ffff:ffff,34567,Next Limited
+2a12:a506::,2a12:a506:ffff:ffff:ffff:ffff:ffff:ffff,204909,Zimnitskaya Irina Nikolaevna
 2a12:a507::,2a12:a507:ffff:ffff:ffff:ffff:ffff:ffff,49505,JSC Selectel
 2a12:a580::,2a12:a587:ffff:ffff:ffff:ffff:ffff:ffff,57373,Groupe ESIEA Association declaree
 2a12:a5c0::,2a12:a5c7:ffff:ffff:ffff:ffff:ffff:ffff,400522,rootcloud LLC
@@ -95622,6 +95648,7 @@
 2a13:d00::,2a13:d07:ffff:ffff:ffff:ffff:ffff:ffff,210008,Telroaming Advanced Communication Solution Ltd.
 2a13:d40:1::,2a13:d40:2:ffff:ffff:ffff:ffff:ffff,60781,LeaseWeb Netherlands B.V.
 2a13:d41::,2a13:d43:ffff:ffff:ffff:ffff:ffff:ffff,154049,EXA TECH PTE. LTD.
+2a13:d44::,2a13:d44:ffff:ffff:ffff:ffff:ffff:ffff,34665,Petersburg Internet Network ltd.
 2a13:d80::,2a13:d87:ffff:ffff:ffff:ffff:ffff:ffff,207138,Live Link Internet Service Provider PVT LTD.
 2a13:dc0::,2a13:dc7:ffff:ffff:ffff:ffff:ffff:ffff,201450,ITConsult-Pro Zrt.
 2a13:e00::,2a13:e07:ffff:ffff:ffff:ffff:ffff:ffff,201712,Mark van Ginkel trading as MGHOSTING
@@ -96515,7 +96542,7 @@
 2a13:9500:137::,2a13:9500:137:ffff:ffff:ffff:ffff:ffff,9833,AS9833
 2a13:9500:138::,2a13:9500:138:ffff:ffff:ffff:ffff:ffff,16276,OVH SAS
 2a13:9500:139::,2a13:9500:139:ffff:ffff:ffff:ffff:ffff,201398,AS201398
-2a13:9500:13a::,2a13:9500:13a:ffff:ffff:ffff:ffff:ffff,16509,"Amazon.com, Inc."
+2a13:9500:13a::,2a13:9500:13a:ffff:ffff:ffff:ffff:ffff,14618,"Amazon.com, Inc."
 2a13:9540::,2a13:9547:ffff:ffff:ffff:ffff:ffff:ffff,204203,Atrin Information & Communications Technology Company PJS
 2a13:9580::,2a13:9587:ffff:ffff:ffff:ffff:ffff:ffff,7029,Windstream Communications LLC
 2a13:9600::,2a13:9607:ffff:ffff:ffff:ffff:ffff:ffff,44947,AMWAJ ALKHYR COMMERCIAL BROKERS CO.
@@ -96602,8 +96629,7 @@
 2a13:a5c3:ff30::,2a13:a5c3:ff3f:ffff:ffff:ffff:ffff:ffff,216056,Jingqiu Xu
 2a13:a5c3:ff40::,2a13:a5c3:ff4f:ffff:ffff:ffff:ffff:ffff,216299,Yang Liuchang
 2a13:a5c3:ff50::,2a13:a5c3:ff5f:ffff:ffff:ffff:ffff:ffff,137908,Lin Siqi
-2a13:a5c3:ff60::,2a13:a5c3:ff6f:ffff:ffff:ffff:ffff:ffff,198304,MoeDove
-2a13:a5c3:ff70::,2a13:a5c3:ffff:ffff:ffff:ffff:ffff:ffff,44324,MoeDove LLC
+2a13:a5c3:ff60::,2a13:a5c3:ffff:ffff:ffff:ffff:ffff:ffff,44324,MoeDove LLC
 2a13:a5c4::,2a13:a5c4:ffff:ffff:ffff:ffff:ffff:ffff,55201,SkyQuantum Internet Service
 2a13:a5c5::,2a13:a5c5:223f:ffff:ffff:ffff:ffff:ffff,213856,AS213856
 2a13:a5c5:2300::,2a13:a5c5:f0ff:ffff:ffff:ffff:ffff:ffff,213856,AS213856
@@ -96866,6 +96892,7 @@
 2a13:c901::,2a13:c901:ffff:ffff:ffff:ffff:ffff:ffff,154049,EXA TECH PTE. LTD.
 2a13:c902::,2a13:c902:ffff:ffff:ffff:ffff:ffff:ffff,214652,ANQI CHEN
 2a13:c903::,2a13:c904:ffff:ffff:ffff:ffff:ffff:ffff,154049,EXA TECH PTE. LTD.
+2a13:c905::,2a13:c905:ffff:ffff:ffff:ffff:ffff:ffff,30058,FDCservers.net
 2a13:c907::,2a13:c907:ffff:ffff:ffff:ffff:ffff:ffff,9123,"JSC ""TIMEWEB"""
 2a13:c940::,2a13:c947:ffff:ffff:ffff:ffff:ffff:ffff,216380,AS216380
 2a13:c9c0::,2a13:c9c0:ffff:ffff:ffff:ffff:ffff:ffff,216363,OOO Istra.net
@@ -97263,8 +97290,38 @@
 2a14:7c0:e000::,2a14:7c0:efff:ffff:ffff:ffff:ffff:ffff,51396,Pfcloud UG (haftungsbeschrankt)
 2a14:7c0:f000::,2a14:7c0:f0ff:ffff:ffff:ffff:ffff:ffff,215460,AS215460
 2a14:7c0:f100::,2a14:7c0:f1ff:ffff:ffff:ffff:ffff:ffff,64457,Matteo Fruhwald trading as PipeHost e.U.
-2a14:7c0:f200::,2a14:7c0:f20f:ffff:ffff:ffff:ffff:ffff,215460,AS215460
-2a14:7c0:f210::,2a14:7c0:f2ff:ffff:ffff:ffff:ffff:ffff,203027,AS203027
+2a14:7c0:f200::,2a14:7c0:f200:ffff:ffff:ffff:ffff:ffff,215460,AS215460
+2a14:7c0:f201::,2a14:7c0:f20f:ffff:ffff:ffff:ffff:ffff,203027,AS203027
+2a14:7c0:f210::,2a14:7c0:f210:ffff:ffff:ffff:ffff:ffff,215460,AS215460
+2a14:7c0:f211::,2a14:7c0:f21f:ffff:ffff:ffff:ffff:ffff,203027,AS203027
+2a14:7c0:f220::,2a14:7c0:f220:ffff:ffff:ffff:ffff:ffff,215460,AS215460
+2a14:7c0:f221::,2a14:7c0:f22f:ffff:ffff:ffff:ffff:ffff,203027,AS203027
+2a14:7c0:f230::,2a14:7c0:f230:ffff:ffff:ffff:ffff:ffff,215460,AS215460
+2a14:7c0:f231::,2a14:7c0:f23f:ffff:ffff:ffff:ffff:ffff,203027,AS203027
+2a14:7c0:f240::,2a14:7c0:f240:ffff:ffff:ffff:ffff:ffff,215460,AS215460
+2a14:7c0:f241::,2a14:7c0:f24f:ffff:ffff:ffff:ffff:ffff,203027,AS203027
+2a14:7c0:f250::,2a14:7c0:f250:ffff:ffff:ffff:ffff:ffff,215460,AS215460
+2a14:7c0:f251::,2a14:7c0:f25f:ffff:ffff:ffff:ffff:ffff,203027,AS203027
+2a14:7c0:f260::,2a14:7c0:f260:ffff:ffff:ffff:ffff:ffff,215460,AS215460
+2a14:7c0:f261::,2a14:7c0:f26f:ffff:ffff:ffff:ffff:ffff,203027,AS203027
+2a14:7c0:f270::,2a14:7c0:f270:ffff:ffff:ffff:ffff:ffff,215460,AS215460
+2a14:7c0:f271::,2a14:7c0:f27f:ffff:ffff:ffff:ffff:ffff,203027,AS203027
+2a14:7c0:f280::,2a14:7c0:f280:ffff:ffff:ffff:ffff:ffff,215460,AS215460
+2a14:7c0:f281::,2a14:7c0:f28f:ffff:ffff:ffff:ffff:ffff,203027,AS203027
+2a14:7c0:f290::,2a14:7c0:f290:ffff:ffff:ffff:ffff:ffff,215460,AS215460
+2a14:7c0:f291::,2a14:7c0:f29f:ffff:ffff:ffff:ffff:ffff,203027,AS203027
+2a14:7c0:f2a0::,2a14:7c0:f2a0:ffff:ffff:ffff:ffff:ffff,215460,AS215460
+2a14:7c0:f2a1::,2a14:7c0:f2af:ffff:ffff:ffff:ffff:ffff,203027,AS203027
+2a14:7c0:f2b0::,2a14:7c0:f2b0:ffff:ffff:ffff:ffff:ffff,215460,AS215460
+2a14:7c0:f2b1::,2a14:7c0:f2bf:ffff:ffff:ffff:ffff:ffff,203027,AS203027
+2a14:7c0:f2c0::,2a14:7c0:f2c0:ffff:ffff:ffff:ffff:ffff,215460,AS215460
+2a14:7c0:f2c1::,2a14:7c0:f2cf:ffff:ffff:ffff:ffff:ffff,203027,AS203027
+2a14:7c0:f2d0::,2a14:7c0:f2d0:ffff:ffff:ffff:ffff:ffff,215460,AS215460
+2a14:7c0:f2d1::,2a14:7c0:f2df:ffff:ffff:ffff:ffff:ffff,203027,AS203027
+2a14:7c0:f2e0::,2a14:7c0:f2e0:ffff:ffff:ffff:ffff:ffff,215460,AS215460
+2a14:7c0:f2e1::,2a14:7c0:f2ef:ffff:ffff:ffff:ffff:ffff,203027,AS203027
+2a14:7c0:f2f0::,2a14:7c0:f2f0:ffff:ffff:ffff:ffff:ffff,215460,AS215460
+2a14:7c0:f2f1::,2a14:7c0:f2ff:ffff:ffff:ffff:ffff:ffff,203027,AS203027
 2a14:7c0:f300::,2a14:7c0:f3ff:ffff:ffff:ffff:ffff:ffff,64457,Matteo Fruhwald trading as PipeHost e.U.
 2a14:7c0:f400::,2a14:7c0:f7ff:ffff:ffff:ffff:ffff:ffff,51396,Pfcloud UG (haftungsbeschrankt)
 2a14:7c0:f800::,2a14:7c0:ffff:ffff:ffff:ffff:ffff:ffff,215460,AS215460
@@ -97570,9 +97627,7 @@
 2a14:4780::,2a14:4787:ffff:ffff:ffff:ffff:ffff:ffff,215892,AS215892
 2a14:47c0::,2a14:47c0:f:ffff:ffff:ffff:ffff:ffff,213527,Lorenz Knak trading as IT-adjutor GbR
 2a14:47c0:100::,2a14:47c0:1ff:ffff:ffff:ffff:ffff:ffff,213527,Lorenz Knak trading as IT-adjutor GbR
-2a14:47c0:e000::,2a14:47c0:e005:ffff:ffff:ffff:ffff:ffff,213579,Leon Hubrich
-2a14:47c0:e047::,2a14:47c0:e047:ffff:ffff:ffff:ffff:ffff,213579,Leon Hubrich
-2a14:47c0:e0ff::,2a14:47c0:e0ff:ffff:ffff:ffff:ffff:ffff,213579,Leon Hubrich
+2a14:47c0:e000::,2a14:47c0:e0ff:ffff:ffff:ffff:ffff:ffff,213579,Leon Hubrich
 2a14:47c0:e900::,2a14:47c0:e900:ffff:ffff:ffff:ffff:ffff,213527,Lorenz Knak trading as IT-adjutor GbR
 2a14:47c0:fe00::,2a14:47c0:ffff:ffff:ffff:ffff:ffff:ffff,213512,Lorenz Knak trading as IT-adjutor GbR
 2a14:4800::,2a14:4807:ffff:ffff:ffff:ffff:ffff:ffff,214977,Artsakhbank CJSC
@@ -97719,7 +97774,7 @@
 2a14:6781:1400::,2a14:6781:17ff:ffff:ffff:ffff:ffff:ffff,215375,Luca Nowak
 2a14:6781:1800::,2a14:6781:1bff:ffff:ffff:ffff:ffff:ffff,207695,Mario Kurz trading as LUME Solutions
 2a14:6781:1c00::,2a14:6781:1fff:ffff:ffff:ffff:ffff:ffff,203442,Steffen Barthel
-2a14:6781:2000::,2a14:6781:efff:ffff:ffff:ffff:ffff:ffff,51202,NUXOA GmbH
+2a14:6781:2000::,2a14:6781:23ff:ffff:ffff:ffff:ffff:ffff,203029,AS203029
 2a14:6781:f000::,2a14:6781:f155:ffff:ffff:ffff:ffff:ffff,215828,"Tizian Maxime Weigt trading as ""TMW Global Networks"""
 2a14:6781:f156::,2a14:6781:f156:ffff:ffff:ffff:ffff:ffff,23506,AV SERVICES LLC
 2a14:6781:f157::,2a14:6781:feff:ffff:ffff:ffff:ffff:ffff,215828,"Tizian Maxime Weigt trading as ""TMW Global Networks"""
@@ -97805,7 +97860,7 @@
 2a14:67c1:800::,2a14:67c1:800:ffff:ffff:ffff:ffff:ffff,213625,Xuluo Chen
 2a14:67c1:802::,2a14:67c1:804:ffff:ffff:ffff:ffff:ffff,213625,Xuluo Chen
 2a14:67c1:806::,2a14:67c1:807:ffff:ffff:ffff:ffff:ffff,213625,Xuluo Chen
-2a14:67c1:900::,2a14:67c1:902:ffff:ffff:ffff:ffff:ffff,199018,Xkrme Network LLC
+2a14:67c1:900::,2a14:67c1:903:ffff:ffff:ffff:ffff:ffff,199018,Xkrme Network LLC
 2a14:67c1:910::,2a14:67c1:913:ffff:ffff:ffff:ffff:ffff,199018,Xkrme Network LLC
 2a14:67c1:920::,2a14:67c1:92f:ffff:ffff:ffff:ffff:ffff,199018,Xkrme Network LLC
 2a14:67c1:9c0::,2a14:67c1:9ff:ffff:ffff:ffff:ffff:ffff,199018,Xkrme Network LLC
@@ -98014,6 +98069,7 @@
 2a14:7580:420::,2a14:7580:420:ffff:ffff:ffff:ffff:ffff,207836,Scott Schulz
 2a14:7580:500::,2a14:7580:53f:ffff:ffff:ffff:ffff:ffff,31898,Oracle Corporation
 2a14:7580:540::,2a14:7580:57f:ffff:ffff:ffff:ffff:ffff,209710,SNRD NETWORKS LIMITED
+2a14:7580:580::,2a14:7580:5bf:ffff:ffff:ffff:ffff:ffff,201159,AS201159
 2a14:7580:600::,2a14:7580:6ff:ffff:ffff:ffff:ffff:ffff,213650,CDN Infra Limited
 2a14:7580:700::,2a14:7580:710:ffff:ffff:ffff:ffff:ffff,198025,Yucheng Zhu
 2a14:7580:711::,2a14:7580:711:ffff:ffff:ffff:ffff:ffff,204539,Axivora Connect LtD
@@ -98052,6 +98108,7 @@
 2a14:7580:3030::,2a14:7580:3030:ffff:ffff:ffff:ffff:ffff,44822,PT GXT Network Link
 2a14:7580:3ffd::,2a14:7580:3ffe:ffff:ffff:ffff:ffff:ffff,44822,PT GXT Network Link
 2a14:7580:4000::,2a14:7580:4fff:ffff:ffff:ffff:ffff:ffff,213428,CHIEH SHENG LIN
+2a14:7580:5000::,2a14:7580:5fff:ffff:ffff:ffff:ffff:ffff,213413,Michal Pawski
 2a14:7580:6000::,2a14:7580:601f:ffff:ffff:ffff:ffff:ffff,209554,ISIF OU
 2a14:7580:6100::,2a14:7580:611f:ffff:ffff:ffff:ffff:ffff,209554,ISIF OU
 2a14:7580:6200::,2a14:7580:621f:ffff:ffff:ffff:ffff:ffff,209554,ISIF OU
@@ -98123,6 +98180,7 @@
 2a14:7580:fb00::,2a14:7580:fcff:ffff:ffff:ffff:ffff:ffff,26042,"FiberState, LLC"
 2a14:7580:fd00::,2a14:7580:fdff:ffff:ffff:ffff:ffff:ffff,216072,Manuel Jesus Martin Mena
 2a14:7580:fe00::,2a14:7580:feff:ffff:ffff:ffff:ffff:ffff,214660,junlin chen
+2a14:7580:ff00::,2a14:7580:ff00:ffff:ffff:ffff:ffff:ffff,150249,PT Atharva Telematika Persada
 2a14:7580:ff10::,2a14:7580:ff2f:ffff:ffff:ffff:ffff:ffff,210940,Lucca Bassoli
 2a14:7580:ff40::,2a14:7580:ff46:ffff:ffff:ffff:ffff:ffff,214344,Hanxun Xu
 2a14:7580:ff50::,2a14:7580:ff5f:ffff:ffff:ffff:ffff:ffff,209710,SNRD NETWORKS LIMITED

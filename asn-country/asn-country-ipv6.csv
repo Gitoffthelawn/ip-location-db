@@ -219,6 +219,7 @@
 2001:505:145::,2001:505:146:ffff:ffff:ffff:ffff:ffff,US
 2001:505:147::,2001:505:147:ffff:ffff:ffff:ffff:ffff,CA
 2001:505:148::,2001:505:149:ffff:ffff:ffff:ffff:ffff,US
+2001:505:150::,2001:505:150:ffff:ffff:ffff:ffff:ffff,LC
 2001:506::,2001:506:2:ffff:ffff:ffff:ffff:ffff,US
 2001:506:8::,2001:506:9:ffff:ffff:ffff:ffff:ffff,US
 2001:506:20::,2001:506:20:ffff:ffff:ffff:ffff:ffff,CA
@@ -22051,6 +22052,7 @@
 2602:81c:f000::,2602:81c:f00f:ffff:ffff:ffff:ffff:ffff,US
 2602:81d::,2602:81d:f:ffff:ffff:ffff:ffff:ffff,CA
 2602:81d:1000::,2602:81d:10ff:ffff:ffff:ffff:ffff:ffff,CA
+2602:f44c::,2602:f44c:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:f44d::,2602:f44d:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:f44e::,2602:f44e:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:f44f::,2602:f44f:fff:ffff:ffff:ffff:ffff:ffff,US
@@ -22983,6 +22985,7 @@
 2602:f7f5::,2602:f7f5:fff:ffff:ffff:ffff:ffff:ffff,US
 2602:f7f6::,2602:f7f6:ff:ffff:ffff:ffff:ffff:ffff,CA
 2602:f7f8::,2602:f7f8:ff:ffff:ffff:ffff:ffff:ffff,US
+2602:f7f9::,2602:f7f9:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:f7fa::,2602:f7fa:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:f7fb::,2602:f7fb:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:f7fc::,2602:f7fc:fff:ffff:ffff:ffff:ffff:ffff,US
@@ -25930,6 +25933,7 @@
 2605:1880::,2605:1880:ffff:ffff:ffff:ffff:ffff:ffff,US
 2605:18c0::,2605:18c0:ffff:ffff:ffff:ffff:ffff:ffff,US
 2605:1900::,2605:1900:ffff:ffff:ffff:ffff:ffff:ffff,US
+2605:1940::,2605:1940:ffff:ffff:ffff:ffff:ffff:ffff,US
 2605:1980::,2605:1980:ffff:ffff:ffff:ffff:ffff:ffff,US
 2605:19c0::,2605:19c0:ffff:ffff:ffff:ffff:ffff:ffff,US
 2605:1a00::,2605:1a00:ffff:ffff:ffff:ffff:ffff:ffff,US
@@ -25941,6 +25945,7 @@
 2605:1b80::,2605:1b80:ffff:ffff:ffff:ffff:ffff:ffff,US
 2605:1bc0::,2605:1bc0:ffff:ffff:ffff:ffff:ffff:ffff,US
 2605:1c00::,2605:1c00:ffff:ffff:ffff:ffff:ffff:ffff,US
+2605:1c40::,2605:1c40:ffff:ffff:ffff:ffff:ffff:ffff,US
 2605:1c80::,2605:1c80:ffff:ffff:ffff:ffff:ffff:ffff,CA
 2605:1cc0::,2605:1cc0:ffff:ffff:ffff:ffff:ffff:ffff,US
 2605:1d00::,2605:1d00:ffff:ffff:ffff:ffff:ffff:ffff,US
